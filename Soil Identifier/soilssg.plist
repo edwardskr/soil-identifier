@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>O.MB</key><string>Orthic Melanic Brunisol</string>
+<key>E.MB</key><string>Eluviated Melanic Brunisol</string>
+<key>GL.MB</key><string>Gleyed Melanic Brunisol</string>
+<key>GLE.MB</key><string>Gleyed Eluviated Melanic Brunisol</string>
+<key>O.EB</key><string>Orthic Eutric Brunisol</string>
+<key>E.EB</key><string>Eluviated Eutric Brunisol</string>
+<key>GL.EB</key><string>Gleyed Eutric Brunisol</string>
+<key>GLE.EB</key><string>Gleyed Eluviated Eutric Brunisol</string>
+<key>O.SB</key><string>Orthic Sombric Brunisol</string>
+<key>E.SB</key><string>Eluviated Sombric Brunisol</string>
+<key>DU.SB</key><string>Duric Sombric Brunisol</string>
+<key>GL.SB</key><string>Gleyed Sombric Brunisol</string>
+<key>GLE.SB</key><string>Gleyed Eluviated Sombric Brunisol</string>
+<key>O.DYB</key><string>Orthic Dystric Brunisol</string>
+<key>E.DYB</key><string>Eluviated Dystric Brunisol</string>
+<key>DU.DYB</key><string>Duric Dystric Brunisol</string>
+<key>GL.DYB</key><string>Gleyed Dystric Brunisol</string>
+<key>GLE.DYB</key><string>Gleyed Eluviated Dystric Brunisol</string>
+<key>O.BC</key><string>Orthic Brown Chernozem</string>
+<key>R.BC</key><string>Rego Brown Chernozem</string>
+<key>CA.BC</key><string>Calcareous Brown Chernozem</string>
+<key>E.BC</key><string>Eluviated Brown Chernozem</string>
+<key>SZ.BC</key><string>Solonetzic Brown Chernozem</string>
+<key>V.BC</key><string>Vertic Brown Chernozem</string>
+<key>GL.BC</key><string>Gleyed Brown Chernozem</string>
+<key>GLR.BC</key><string>Gleyed Rego Brown Chernozem</string>
+<key>GLCA.BC</key><string>Gleyed Calcareous Brown Chernozem</string>
+<key>GLE.BC</key><string>Gleyed Eluviated Brown Chernozem</string>
+<key>GLSZ.BC</key><string>Gleyed Solonetzic Brown Chernozem</string>
+<key>GLV.BC</key><string>Gleyed Vertic Brown Chernozem</string>
+<key>O.DBC</key><string>Orthic Dark Brown Chernozem</string>
+<key>R.DBC</key><string>Rego Dark Brown Chernozem</string>
+<key>CA.DBC</key><string>Calcareous Dark Brown Chernozem</string>
+<key>E.DBC</key><string>Eluviated Dark Brown Chernozem</string>
+<key>SZ.DBC</key><string>Solonetzic Dark Brown Chernozem</string>
+<key>V.DBC</key><string>Vertic Dark Brown Chernozem</string>
+<key>GL.DBC</key><string>Gleyed Dark Brown Chernozem</string>
+<key>GLR.DBC</key><string>Gleyed Rego Dark Brown Chernozem</string>
+<key>GLCA.DBC</key><string>Gleyed Calcareous Dark Brown Chernozem</string>
+<key>GLE.DBC</key><string>Gleyed Eluviated Dark Brown Chernozem</string>
+<key>GLSZ.DBC</key><string>Gleyed Solonetzic Dark Brown Chernozem</string>
+<key>GLV.DBC</key><string>Gleyed Vertic Dark Brown Chernozem</string>
+<key>O.BLC</key><string>Orthic Black Chernozem</string>
+<key>R.BLC</key><string>Rego Black Chernozem</string>
+<key>CA.BLC</key><string>Calcareous Black Chernozem</string>
+<key>E.BLC</key><string>Eluviated Black Chernozem</string>
+<key>SZ.BLC</key><string>Solonetzic Black Chernozem</string>
+<key>V.BLC</key><string>Vertic Black Chernozem</string>
+<key>GL.BLC</key><string>Gleyed Black Chernozem</string>
+<key>GLR.BLC</key><string>Gleyed Rego Black Chernozem</string>
+<key>GLCA.BLC</key><string>Gleyed Calcareous Black Chernozem</string>
+<key>GLE.BLC</key><string>Gleyed Eluviated Black Chernozem</string>
+<key>GLSZ.BLC</key><string>Gleyed Solonetzic Black Chernozem</string>
+<key>GLV.BLC</key><string>Gleyed Vertic Black Chernozem</string>
+<key>O.DGC</key><string>Orthic Dark Gray Chernozem</string>
+<key>R.DGC</key><string>Rego Dark Gray Chernozem</string>
+<key>CA.DGC</key><string>Calcareous Dark Gray Chernozem</string>
+<key>SZ.DGC</key><string>Solonetzic Dark Gray Chernozem</string>
+<key>V.DGC</key><string>Vertic Dark Gray Chernozem</string>
+<key>GL.DGC</key><string>Gleyed Dark Gray Chernozem</string>
+<key>GLR.DGC</key><string>Gleyed Rego Dark Gray Chernozem</string>
+<key>GLCA.DGC</key><string>Gleyed Calcareous Dark Gray Chernozem</string>
+<key>GLSZ.DGC</key><string>Gleyed Solonetzic Dark Gray Chernozem</string>
+<key>GLV.DGC</key><string>Gleyed Vertic Dark Gray Chernozem</string>
+<key>OE.TC</key><string>Orthic Eutric Turbic Cryosol</string>
+<key>OD.TC</key><string>Orthic Dystric Turbic Cryosol</string>
+<key>BRE.TC</key><string>Brunisolic Eutric Turbic Cryosol</string>
+<key>BRD.TC</key><string>Brunisolic Dystric Turbic Cryosol</string>
+<key>GL.TC</key><string>Gleysolic Turbic Cryosol</string>
+<key>R.TC</key><string>Regosolic Turbic Cryosol</string>
+<key>HE.TC</key><string>Histic Eutric Turbic Cryosol</string>
+<key>HD.TC</key><string>Histic Dystric Turbic Cryosol</string>
+<key>HR.TC</key><string>Histic Regosolic Turbic Cryosol</string>
+<key>OE.SC</key><string>Orthic Eutric Static Cryosol</string>
+<key>OD.SC</key><string>Orthic Dystric Static Cryosol</string>
+<key>BRE.SC</key><string>Brunisolic Eutric Static Cryosol</string>
+<key>BRD.SC</key><string>Brunisolic Dystric Static Cryosol</string>
+<key>L.SC</key><string>Luvisolic Static Cryosol</string>
+<key>GL.SC</key><string>Gleysolic Static Cryosol</string>
+<key>R.SC</key><string>Regosolic Static Cryosol</string>
+<key>HE.SC</key><string>Histic Eutric Static Cryosol</string>
+<key>HD.SC</key><string>Histic Dystric Static Cryosol</string>
+<key>HR.SC</key><string>Histic Regosolic Static Cryosol</string>
+<key>FI.OC</key><string>Fibric Organic Cryosol</string>
+<key>ME.OC</key><string>Mesic Organic Cryosol</string>
+<key>HU.OC</key><string>Humic Organic Cryosol</string>
+<key>TFI.OC</key><string>Terric Fibric Organic Cryosol</string>
+<key>TME.OC</key><string>Terric Mesic Organic Cryosol</string>
+<key>THU.OC</key><string>Terric Humic Organic Cryosol</string>
+<key>GC.OC</key><string>Glacic Organic Cryosol</string>
+<key>V.LG</key><string>Vertic Luvic Gleysol</string>
+<key>SZ.LG</key><string>Solonetzic Luvic Gleysol</string>
+<key>FR.LG</key><string>Fragic Luvic Gleysol</string>
+<key>HU.LG</key><string>Humic Luvic Gleysol</string>
+<key>FE.LG</key><string>Fera Luvic Gleysol</string>
+<key>O.LG</key><string>Orthic Luvic Gleysol</string>
+<key>V.HG</key><string>Vertic Humic Gleysol</string>
+<key>SZ.HG</key><string>Solonetzic Humic Gleysol</string>
+<key>FE.HG</key><string>Fera Humic Gleysol</string>
+<key>O.HG</key><string>Orthic Humic Gleysol</string>
+<key>R.HG</key><string>Rego Humic Gleysol</string>
+<key>V.G</key><string>Vertic Gleysol</string>
+<key>SZ.G</key><string>Solonetzic Gleysol</string>
+<key>FE.G</key><string>Fera Gleysol</string>
+<key>O.G</key><string>Orthic Gleysol</string>
+<key>R.G</key><string>Rego Gleysol</string>
+<key>O.GBL</key><string>Orthic Gray Brown Luvisol</string>
+<key>BR.GBL</key><string>Brunisolic Gray Brown Luvisol</string>
+<key>PZ.GBL</key><string>Podzolic Gray Brown Luvisol</string>
+<key>V.GBL</key><string>Vertic Gray Brown Luvisol</string>
+<key>GL.GBL</key><string>Gleyed Gray Brown Luvisol</string>
+<key>GLBR.GBL</key><string>Gleyed Brunisolic Gray Brown Luvisol</string>
+<key>GLPZ.GBL</key><string>Gleyed Podzolic Gray Brown Luvisol</string>
+<key>GLV.GBL</key><string>Gleyed Vertic Gray Brown Luvisol</string>
+<key>O.GL</key><string>Orthic Gray Luvisol</string>
+<key>D.GL</key><string>Dark Gray Luvisol</string>
+<key>BR.GL</key><string>Brunisolic Gray Luvisol</string>
+<key>PZ.GL</key><string>Podzolic Gray Luvisol</string>
+<key>SZ.GL</key><string>Solonetzic Gray Luvisol</string>
+<key>FR.GL</key><string>Fragic Gray Luvisol</string>
+<key>V.GL</key><string>Vertic Gray Luvisol</string>
+<key>GL.GL</key><string>Gleyed Gray Luvisol</string>
+<key>GLD.GL</key><string>Gleyed Dark Gray Luvisol</string>
+<key>GLBR.GL</key><string>Gleyed Brunisolic Gray Luvisol</string>
+<key>GLPZ.GL</key><string>Gleyed Podozolic Gray Luvisol</string>
+<key>GLSZ.GL</key><string>Gleyed Solonetzic Gray Luvisol</string>
+<key>GLFR.GL</key><string>Gleyed Fragic Gray Luvisol</string>
+<key>GLV.GL</key><string>Gleyed Vertic Gray Luvisol</string>
+<key>TY.F</key><string>Typic Fibrisol</string>
+<key>ME.F</key><string>Mesic Fibrisol</string>
+<key>HU.F</key><string>Humic Fibrisol</string>
+<key>LM.F</key><string>Limno Fibrisol</string>
+<key>CU.F</key><string>Cumulo Fibrisol</string>
+<key>T.F</key><string>Terric Fibrisol</string>
+<key>TME.F</key><string>Terric Mesic Fibrisol</string>
+<key>THU.F</key><string>Terric Humic Fibrisol</string>
+<key>HY.F</key><string>Hydric Fibrisol</string>
+<key>TY.M</key><string>Typic Mesisol</string>
+<key>FI.M</key><string>Fibric Mesisol</string>
+<key>HU.M</key><string>Humic Mesisol</string>
+<key>LM.M</key><string>Limno Mesisol</string>
+<key>CU.M</key><string>Cumulo Mesisol</string>
+<key>T.M</key><string>Terric Mesisol</string>
+<key>TFI.M</key><string>Terric Fibric Mesisol</string>
+<key>THU.M</key><string>Terric Humic Mesisol</string>
+<key>HY.M</key><string>Hydric Mesisol</string>
+<key>TY.H</key><string>Typic Humisol</string>
+<key>ME.H</key><string>Mesic Humisol</string>
+<key>FI.H</key><string>Fibric Humisol</string>
+<key>LM.H</key><string>Limno Humisol</string>
+<key>CU.H</key><string>Cumulo Humisol</string>
+<key>T.H</key><string>Terric Humisol</string>
+<key>TFI.H</key><string>Terric Fibric Humisol</string>
+<key>TME.H</key><string>Terric Mesic Humisol</string>
+<key>HY.H</key><string>Hydric Humisol</string>
+<key>HE.FO</key><string>Hemic Folisol</string>
+<key>HU.FO</key><string>Humic Folisol</string>
+<key>LI.FO</key><string>Lignic Folisol</string>
+<key>HI.FO</key><string>Histic Folisol</string>
+<key>O.HP</key><string>Orthic Humic Podzol</string>
+<key>OT.HP</key><string>Ortstein Humic Podzol</string>
+<key>P.HP</key><string>Placic Humic Podzol</string>
+<key>DU.HP</key><string>Duric Humic Podzol</string>
+<key>FR.HP</key><string>Fragic Humic Podzol</string>
+<key>O.FHP</key><string>Orthic Ferro-Humic Podzol</string>
+<key>OT.FHP</key><string>Ortstein Ferro-Humic Podzol</string>
+<key>P.FHP</key><string>Placic Ferro-Humic Podzol</string>
+<key>DU.FHP</key><string>Duric Ferro-Humic Podzol</string>
+<key>FR.FHP</key><string>Fragic Ferro-Humic Podzol</string>
+<key>LU.FHP</key><string>Luvisolic Ferro-Humic Podzol</string>
+<key>SM.FHP</key><string>Sombric Ferro-Humic Podzol</string>
+<key>GL.FHP</key><string>Gleyed Ferro-Humic Podzol</string>
+<key>GLOT.FHP</key><string>Gleyed Ortstein Ferro-Humic Podzol</string>
+<key>GLSM.FHP</key><string>Gleyed Sombric Ferro-Humic Podzol</string>
+<key>O.HFP</key><string>Orthic Humo-Ferric Podzol</string>
+<key>OT.HFP</key><string>Ortstein Humo-Ferric Podzol</string>
+<key>P.HFP</key><string>Placic Humo-Ferric Podzol</string>
+<key>DU.HFP</key><string>Duric Humo-Ferric Podzol</string>
+<key>FR.HFP</key><string>Fragic Humo-Ferric Podzol</string>
+<key>LU.HFP</key><string>Luvisolic Humo-Ferric Podzol</string>
+<key>SM.HFP</key><string>Sombric Humo-Ferric Podzol</string>
+<key>GL.HFP</key><string>Gleyed Humo-Ferric Podzol</string>
+<key>GLOT.HFP</key><string>Gleyed Ortstein Humo-Ferric Podzol</string>
+<key>GLSM.HFP</key><string>Gleyed Sombric Humo-Ferric Podzol</string>
+<key>O.R</key><string>Orthic Regosol</string>
+<key>CU.R</key><string>Cumulic Regosol</string>
+<key>GL.R</key><string>Gleyed Regosol</string>
+<key>GLCU.R</key><string>Gleyed Cumulic Regosol</string>
+<key>O.HR</key><string>Orthic Humic Regosol</string>
+<key>CU.HR</key><string>Cumulic Humic Regosol</string>
+<key>GL.HR</key><string>Gleyed Humic Regosol</string>
+<key>GLCU.HR</key><string>Gleyed Cumulic Humic Regosol</string>
+<key>B.SZ</key><string>Brown Solonetz</string>
+<key>DB.SZ</key><string>Dark Brown Solonetz</string>
+<key>BL.SZ</key><string>Black Solonetz</string>
+<key>A.SZ</key><string>Alkaline Solonetz</string>
+<key>GLB.SZ</key><string>Gleyed Brown Solonetz</string>
+<key>GLDB.SZ</key><string>Gleyed Dark Brown Solonetz</string>
+<key>GLBL.SZ</key><string>Gleyed Black Solonetz</string>
+<key>B.SS</key><string>Brown Solodized Solonetz</string>
+<key>DB.SS</key><string>Dark Brown Solodized Solonetz</string>
+<key>BL.SS</key><string>Black Solodized Solonetz</string>
+<key>DG.SS</key><string>Dark Gray Solodized Solonetz</string>
+<key>G.SS</key><string>Gray Solodized Solonetz</string>
+<key>GLB.SS</key><string>Gleyed Brown Solodized Solonetz</string>
+<key>GLDB.SS</key><string>Gleyed Dark Brown Solodized Solonetz</string>
+<key>GLBL.SS</key><string>Gleyed Black Solodized Solonetz</string>
+<key>GLDG.SS</key><string>Gleyed Dark Gray Solodized Solonetz</string>
+<key>GLG.SS</key><string>Gleyed Gray Solodized Solonetz</string>
+<key>B.SO</key><string>Brown Solod</string>
+<key>DB.SO</key><string>Dark Brown Solod</string>
+<key>BL.SO</key><string>Black Solod</string>
+<key>DG.SO</key><string>Dark Gray Solod</string>
+<key>G.SO</key><string>Gray Solod</string>
+<key>GLB.SO</key><string>Gleyed Brown Solod</string>
+<key>GLDB.SO</key><string>Gleyed Dark Brown Solod</string>
+<key>GLBL.SO</key><string>Gleyed Black Solod</string>
+<key>GLDG.SO</key><string>Gleyed Dark Gray Solod</string>
+<key>GLG.SO</key><string>Gleyed Gray Solod</string>
+<key>BV.SZ</key><string>Brown Vertic Solonetz</string>
+<key>DBV.SZ</key><string>Dark Brown Vertic Solonetz</string>
+<key>BLV.SZ</key><string>Black Vertic Solonetz</string>
+<key>GLBV.SZ</key><string>Gleyed Brown Vertic Solonetz</string>
+<key>GLDBV.SZ</key><string>Gleyed Dark Brown Vertic Solonetz</string>
+<key>GLBLV.SZ</key><string>Gleyed Black Vertic Solonetz</string>
+<key>O.V</key><string>Orthic Vertisol</string>
+<key>GLC.V</key><string>Gleysolic Vertisol</string>
+<key>O.HV</key><string>Orthic Humic Vertisol</string>
+<key>GL.HV</key><string>Gleyed Humic Vertisol</string>
+<key>GLC.HV</key><string>Gleysolic Humic Vertisol</string>
+</dict>
+</plist>

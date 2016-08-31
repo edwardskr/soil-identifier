@@ -1,0 +1,516 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0C5DAB971ABFA97E00E0C9EF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C5DAB961ABFA97E00E0C9EF /* AppDelegate.swift */; };
+		0C5DAB9C1ABFA97E00E0C9EF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C5DAB9A1ABFA97E00E0C9EF /* Main.storyboard */; };
+		0C5DAB9E1ABFA97E00E0C9EF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C5DAB9D1ABFA97E00E0C9EF /* Images.xcassets */; };
+		0C5DABA11ABFA97E00E0C9EF /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0C5DAB9F1ABFA97E00E0C9EF /* LaunchScreen.xib */; };
+		0C5DABAD1ABFA97E00E0C9EF /* Soil_IdentifierTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C5DABAC1ABFA97E00E0C9EF /* Soil_IdentifierTests.swift */; };
+		0C5DABB71ABFA9AC00E0C9EF /* soils.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0C5DABB61ABFA9AC00E0C9EF /* soils.plist */; };
+		0C5DABB91ABFAAE900E0C9EF /* SoilsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C5DABB81ABFAAE900E0C9EF /* SoilsModel.swift */; };
+		0C904C711ABFB93C002547B4 /* SCALookupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C904C701ABFB93C002547B4 /* SCALookupViewController.swift */; };
+		0C904C731ABFBC7A002547B4 /* SoilsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C904C721ABFBC7A002547B4 /* SoilsTableViewController.swift */; };
+		0C904C751ABFC6F9002547B4 /* SoilInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C904C741ABFC6F9002547B4 /* SoilInfoViewController.swift */; };
+		0C904C771ABFDD3B002547B4 /* NotesModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C904C761ABFDD3B002547B4 /* NotesModel.swift */; };
+		0C904C791ABFE33D002547B4 /* NotesEditViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C904C781ABFE33D002547B4 /* NotesEditViewController.swift */; };
+		0C904C7B1AC0832B002547B4 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C904C7A1AC0832B002547B4 /* MapViewController.swift */; };
+		0C904C7D1AC09268002547B4 /* soilsorder.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0C904C7C1AC09268002547B4 /* soilsorder.plist */; };
+		0C904C7F1AC0939D002547B4 /* soilscalc.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0C904C7E1AC0939D002547B4 /* soilscalc.plist */; };
+		0C904C811AC09416002547B4 /* soilssg.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0C904C801AC09416002547B4 /* soilssg.plist */; };
+		0C904C831AC0B505002547B4 /* FilterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C904C821AC0B505002547B4 /* FilterViewController.swift */; };
+		0C904C851AC0B94F002547B4 /* FilterSelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C904C841AC0B94E002547B4 /* FilterSelectionViewController.swift */; };
+		0C904C871AC0ED66002547B4 /* soilspm.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0C904C861AC0ED66002547B4 /* soilspm.plist */; };
+		0C904C891AC10870002547B4 /* soilinfo.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0C904C881AC10870002547B4 /* soilinfo.plist */; };
+		0C904C8B1AC11816002547B4 /* SubgroupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C904C8A1AC11816002547B4 /* SubgroupViewController.swift */; };
+		0C904C8D1AC1189E002547B4 /* SoilInfoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C904C8C1AC1189E002547B4 /* SoilInfoModel.swift */; };
+		0CAF3F581ACCF5FE00D1067C /* PhotoCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CAF3F571ACCF5FE00D1067C /* PhotoCollectionViewCell.swift */; };
+		0CAF3F5A1ACD08C700D1067C /* PhotosModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CAF3F591ACD08C700D1067C /* PhotosModel.swift */; };
+		0CAF3F5C1ACD11A800D1067C /* PhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CAF3F5B1ACD11A800D1067C /* PhotoViewController.swift */; };
+		0CD8C6C51ACA146700D82AB1 /* ImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CD8C6C41ACA146700D82AB1 /* ImageViewController.swift */; };
+		0CD8C6C71ACCE5A800D82AB1 /* SoilPhotoCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CD8C6C61ACCE5A800D82AB1 /* SoilPhotoCollectionViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		0C5DABA71ABFA97E00E0C9EF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0C5DAB891ABFA97E00E0C9EF /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0C5DAB901ABFA97E00E0C9EF;
+			remoteInfo = "Soil Identifier";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0C5DAB911ABFA97E00E0C9EF /* ABSoilInfo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ABSoilInfo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0C5DAB951ABFA97E00E0C9EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0C5DAB961ABFA97E00E0C9EF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		0C5DAB9B1ABFA97E00E0C9EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		0C5DAB9D1ABFA97E00E0C9EF /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		0C5DABA01ABFA97E00E0C9EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		0C5DABA61ABFA97E00E0C9EF /* ABSoilInfoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ABSoilInfoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0C5DABAB1ABFA97E00E0C9EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0C5DABAC1ABFA97E00E0C9EF /* Soil_IdentifierTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Soil_IdentifierTests.swift; sourceTree = "<group>"; };
+		0C5DABB61ABFA9AC00E0C9EF /* soils.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = soils.plist; sourceTree = "<group>"; };
+		0C5DABB81ABFAAE900E0C9EF /* SoilsModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SoilsModel.swift; sourceTree = "<group>"; };
+		0C904C701ABFB93C002547B4 /* SCALookupViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SCALookupViewController.swift; sourceTree = "<group>"; };
+		0C904C721ABFBC7A002547B4 /* SoilsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SoilsTableViewController.swift; sourceTree = "<group>"; };
+		0C904C741ABFC6F9002547B4 /* SoilInfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SoilInfoViewController.swift; sourceTree = "<group>"; };
+		0C904C761ABFDD3B002547B4 /* NotesModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NotesModel.swift; sourceTree = "<group>"; };
+		0C904C781ABFE33D002547B4 /* NotesEditViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NotesEditViewController.swift; sourceTree = "<group>"; };
+		0C904C7A1AC0832B002547B4 /* MapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		0C904C7C1AC09268002547B4 /* soilsorder.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = soilsorder.plist; sourceTree = "<group>"; };
+		0C904C7E1AC0939D002547B4 /* soilscalc.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = soilscalc.plist; sourceTree = "<group>"; };
+		0C904C801AC09416002547B4 /* soilssg.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = soilssg.plist; sourceTree = "<group>"; };
+		0C904C821AC0B505002547B4 /* FilterViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FilterViewController.swift; sourceTree = "<group>"; };
+		0C904C841AC0B94E002547B4 /* FilterSelectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FilterSelectionViewController.swift; sourceTree = "<group>"; };
+		0C904C861AC0ED66002547B4 /* soilspm.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = soilspm.plist; sourceTree = "<group>"; };
+		0C904C881AC10870002547B4 /* soilinfo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = soilinfo.plist; sourceTree = "<group>"; };
+		0C904C8A1AC11816002547B4 /* SubgroupViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SubgroupViewController.swift; sourceTree = "<group>"; };
+		0C904C8C1AC1189E002547B4 /* SoilInfoModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SoilInfoModel.swift; sourceTree = "<group>"; };
+		0CAF3F571ACCF5FE00D1067C /* PhotoCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoCollectionViewCell.swift; sourceTree = "<group>"; };
+		0CAF3F591ACD08C700D1067C /* PhotosModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotosModel.swift; sourceTree = "<group>"; };
+		0CAF3F5B1ACD11A800D1067C /* PhotoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoViewController.swift; sourceTree = "<group>"; };
+		0CD8C6C41ACA146700D82AB1 /* ImageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageViewController.swift; sourceTree = "<group>"; };
+		0CD8C6C61ACCE5A800D82AB1 /* SoilPhotoCollectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SoilPhotoCollectionViewController.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0C5DAB8E1ABFA97E00E0C9EF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0C5DABA31ABFA97E00E0C9EF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0C5DAB881ABFA97E00E0C9EF = {
+			isa = PBXGroup;
+			children = (
+				0C5DAB931ABFA97E00E0C9EF /* Soil Identifier */,
+				0C5DABA91ABFA97E00E0C9EF /* Soil IdentifierTests */,
+				0C5DAB921ABFA97E00E0C9EF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		0C5DAB921ABFA97E00E0C9EF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0C5DAB911ABFA97E00E0C9EF /* ABSoilInfo.app */,
+				0C5DABA61ABFA97E00E0C9EF /* ABSoilInfoTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0C5DAB931ABFA97E00E0C9EF /* Soil Identifier */ = {
+			isa = PBXGroup;
+			children = (
+				0C904C881AC10870002547B4 /* soilinfo.plist */,
+				0C5DABB61ABFA9AC00E0C9EF /* soils.plist */,
+				0C904C7E1AC0939D002547B4 /* soilscalc.plist */,
+				0C904C7C1AC09268002547B4 /* soilsorder.plist */,
+				0C904C861AC0ED66002547B4 /* soilspm.plist */,
+				0C904C801AC09416002547B4 /* soilssg.plist */,
+				0C5DAB961ABFA97E00E0C9EF /* AppDelegate.swift */,
+				0C904C841AC0B94E002547B4 /* FilterSelectionViewController.swift */,
+				0C904C821AC0B505002547B4 /* FilterViewController.swift */,
+				0CD8C6C41ACA146700D82AB1 /* ImageViewController.swift */,
+				0C904C7A1AC0832B002547B4 /* MapViewController.swift */,
+				0C904C781ABFE33D002547B4 /* NotesEditViewController.swift */,
+				0C904C761ABFDD3B002547B4 /* NotesModel.swift */,
+				0CAF3F571ACCF5FE00D1067C /* PhotoCollectionViewCell.swift */,
+				0CAF3F591ACD08C700D1067C /* PhotosModel.swift */,
+				0CAF3F5B1ACD11A800D1067C /* PhotoViewController.swift */,
+				0C904C701ABFB93C002547B4 /* SCALookupViewController.swift */,
+				0C904C8C1AC1189E002547B4 /* SoilInfoModel.swift */,
+				0C904C741ABFC6F9002547B4 /* SoilInfoViewController.swift */,
+				0CD8C6C61ACCE5A800D82AB1 /* SoilPhotoCollectionViewController.swift */,
+				0C5DABB81ABFAAE900E0C9EF /* SoilsModel.swift */,
+				0C904C721ABFBC7A002547B4 /* SoilsTableViewController.swift */,
+				0C904C8A1AC11816002547B4 /* SubgroupViewController.swift */,
+				0C5DAB9D1ABFA97E00E0C9EF /* Images.xcassets */,
+				0C5DAB9F1ABFA97E00E0C9EF /* LaunchScreen.xib */,
+				0C5DAB9A1ABFA97E00E0C9EF /* Main.storyboard */,
+				0C5DAB941ABFA97E00E0C9EF /* Supporting Files */,
+			);
+			path = "Soil Identifier";
+			sourceTree = "<group>";
+		};
+		0C5DAB941ABFA97E00E0C9EF /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				0C5DAB951ABFA97E00E0C9EF /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		0C5DABA91ABFA97E00E0C9EF /* Soil IdentifierTests */ = {
+			isa = PBXGroup;
+			children = (
+				0C5DABAC1ABFA97E00E0C9EF /* Soil_IdentifierTests.swift */,
+				0C5DABAA1ABFA97E00E0C9EF /* Supporting Files */,
+			);
+			path = "Soil IdentifierTests";
+			sourceTree = "<group>";
+		};
+		0C5DABAA1ABFA97E00E0C9EF /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				0C5DABAB1ABFA97E00E0C9EF /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0C5DAB901ABFA97E00E0C9EF /* ABSoilInfo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0C5DABB01ABFA97E00E0C9EF /* Build configuration list for PBXNativeTarget "ABSoilInfo" */;
+			buildPhases = (
+				0C5DAB8D1ABFA97E00E0C9EF /* Sources */,
+				0C5DAB8E1ABFA97E00E0C9EF /* Frameworks */,
+				0C5DAB8F1ABFA97E00E0C9EF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ABSoilInfo;
+			productName = "Soil Identifier";
+			productReference = 0C5DAB911ABFA97E00E0C9EF /* ABSoilInfo.app */;
+			productType = "com.apple.product-type.application";
+		};
+		0C5DABA51ABFA97E00E0C9EF /* ABSoilInfoTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0C5DABB31ABFA97E00E0C9EF /* Build configuration list for PBXNativeTarget "ABSoilInfoTests" */;
+			buildPhases = (
+				0C5DABA21ABFA97E00E0C9EF /* Sources */,
+				0C5DABA31ABFA97E00E0C9EF /* Frameworks */,
+				0C5DABA41ABFA97E00E0C9EF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				0C5DABA81ABFA97E00E0C9EF /* PBXTargetDependency */,
+			);
+			name = ABSoilInfoTests;
+			productName = "Soil IdentifierTests";
+			productReference = 0C5DABA61ABFA97E00E0C9EF /* ABSoilInfoTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0C5DAB891ABFA97E00E0C9EF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0620;
+				ORGANIZATIONNAME = "Keith Edwards";
+				TargetAttributes = {
+					0C5DAB901ABFA97E00E0C9EF = {
+						CreatedOnToolsVersion = 6.2;
+						DevelopmentTeam = 8JA4KY5Z9N;
+					};
+					0C5DABA51ABFA97E00E0C9EF = {
+						CreatedOnToolsVersion = 6.2;
+						TestTargetID = 0C5DAB901ABFA97E00E0C9EF;
+					};
+				};
+			};
+			buildConfigurationList = 0C5DAB8C1ABFA97E00E0C9EF /* Build configuration list for PBXProject "ABSoilInfo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0C5DAB881ABFA97E00E0C9EF;
+			productRefGroup = 0C5DAB921ABFA97E00E0C9EF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0C5DAB901ABFA97E00E0C9EF /* ABSoilInfo */,
+				0C5DABA51ABFA97E00E0C9EF /* ABSoilInfoTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0C5DAB8F1ABFA97E00E0C9EF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0C904C7F1AC0939D002547B4 /* soilscalc.plist in Resources */,
+				0C904C7D1AC09268002547B4 /* soilsorder.plist in Resources */,
+				0C904C811AC09416002547B4 /* soilssg.plist in Resources */,
+				0C5DAB9C1ABFA97E00E0C9EF /* Main.storyboard in Resources */,
+				0C5DABA11ABFA97E00E0C9EF /* LaunchScreen.xib in Resources */,
+				0C5DAB9E1ABFA97E00E0C9EF /* Images.xcassets in Resources */,
+				0C904C871AC0ED66002547B4 /* soilspm.plist in Resources */,
+				0C5DABB71ABFA9AC00E0C9EF /* soils.plist in Resources */,
+				0C904C891AC10870002547B4 /* soilinfo.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0C5DABA41ABFA97E00E0C9EF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0C5DAB8D1ABFA97E00E0C9EF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0C5DAB971ABFA97E00E0C9EF /* AppDelegate.swift in Sources */,
+				0C904C711ABFB93C002547B4 /* SCALookupViewController.swift in Sources */,
+				0C904C731ABFBC7A002547B4 /* SoilsTableViewController.swift in Sources */,
+				0C904C831AC0B505002547B4 /* FilterViewController.swift in Sources */,
+				0C5DABB91ABFAAE900E0C9EF /* SoilsModel.swift in Sources */,
+				0C904C751ABFC6F9002547B4 /* SoilInfoViewController.swift in Sources */,
+				0CD8C6C51ACA146700D82AB1 /* ImageViewController.swift in Sources */,
+				0C904C8D1AC1189E002547B4 /* SoilInfoModel.swift in Sources */,
+				0C904C771ABFDD3B002547B4 /* NotesModel.swift in Sources */,
+				0C904C851AC0B94F002547B4 /* FilterSelectionViewController.swift in Sources */,
+				0CAF3F5C1ACD11A800D1067C /* PhotoViewController.swift in Sources */,
+				0CAF3F5A1ACD08C700D1067C /* PhotosModel.swift in Sources */,
+				0CD8C6C71ACCE5A800D82AB1 /* SoilPhotoCollectionViewController.swift in Sources */,
+				0CAF3F581ACCF5FE00D1067C /* PhotoCollectionViewCell.swift in Sources */,
+				0C904C8B1AC11816002547B4 /* SubgroupViewController.swift in Sources */,
+				0C904C791ABFE33D002547B4 /* NotesEditViewController.swift in Sources */,
+				0C904C7B1AC0832B002547B4 /* MapViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0C5DABA21ABFA97E00E0C9EF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0C5DABAD1ABFA97E00E0C9EF /* Soil_IdentifierTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		0C5DABA81ABFA97E00E0C9EF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 0C5DAB901ABFA97E00E0C9EF /* ABSoilInfo */;
+			targetProxy = 0C5DABA71ABFA97E00E0C9EF /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		0C5DAB9A1ABFA97E00E0C9EF /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0C5DAB9B1ABFA97E00E0C9EF /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		0C5DAB9F1ABFA97E00E0C9EF /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0C5DABA01ABFA97E00E0C9EF /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		0C5DABAE1ABFA97E00E0C9EF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		0C5DABAF1ABFA97E00E0C9EF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		0C5DABB11ABFA97E00E0C9EF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = "Soil Identifier/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = ABSoilInfo;
+				PROVISIONING_PROFILE = "";
+			};
+			name = Debug;
+		};
+		0C5DABB21ABFA97E00E0C9EF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = "Soil Identifier/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = ABSoilInfo;
+				PROVISIONING_PROFILE = "";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Release;
+		};
+		0C5DABB41ABFA97E00E0C9EF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Soil IdentifierTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = ABSoilInfoTests;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ABSoilInfo.app/ABSoilInfo";
+			};
+			name = Debug;
+		};
+		0C5DABB51ABFA97E00E0C9EF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Soil IdentifierTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = ABSoilInfoTests;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ABSoilInfo.app/ABSoilInfo";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0C5DAB8C1ABFA97E00E0C9EF /* Build configuration list for PBXProject "ABSoilInfo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0C5DABAE1ABFA97E00E0C9EF /* Debug */,
+				0C5DABAF1ABFA97E00E0C9EF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0C5DABB01ABFA97E00E0C9EF /* Build configuration list for PBXNativeTarget "ABSoilInfo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0C5DABB11ABFA97E00E0C9EF /* Debug */,
+				0C5DABB21ABFA97E00E0C9EF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0C5DABB31ABFA97E00E0C9EF /* Build configuration list for PBXNativeTarget "ABSoilInfoTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0C5DABB41ABFA97E00E0C9EF /* Debug */,
+				0C5DABB51ABFA97E00E0C9EF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0C5DAB891ABFA97E00E0C9EF /* Project object */;
+}

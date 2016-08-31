@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>N</key><string>Noncalcareous</string>
+<key>W</key><string>Weakly</string>
+<key>M</key><string>Moderately</string>
+<key>S</key><string>Strongly</string>
+<key>V</key><string>Very Strongly</string>
+<key>E</key><string>Extremely</string>
+</dict>
+</plist>

@@ -1,0 +1,1896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Brunisolic Order</key>
+	<dict>
+		<key>Melanic</key>
+		<dict>
+			<key>Description</key>
+			<array>
+				<string>These are acid Brunisolic soils that lack a well-developed mineral-organic surface horizon. They occur widely, usually on parent materials of low base status and typically under forest vegetation.
+
+Dystric Brunisols have a Bm, Bfj, thin Bf, or Btj horizon at least 5 cm thick, and a pH (0.01 M CaCl2) of less than 5.5 throughout the upper 25 cm of the B horizon, or throughout the B horizon and the underlying material to a total depth of at least 25 cm or to a lithic contact above this depth. Dystric Brunisols may have L, F, and H horizons; an Ae or Aej horizon, and an Ah horizon less than 10 cm thick, but they do not have either a Bt or a podzolic B horizon. If cultivated, these soils are classified as Sombric Brunisols when the Ap horizon is at least 10 cm thick and has a moist color value less than 4 and part of the B horizon remains below the Ap. If the Ap horizon does not meet the above specifications but part of the B horizon remains below the Ap, then the soils are Dystric Brunisols. If the Ap includes all of the former B horizon, the soils are classified as Humic Regosol or Regosol, depending on the Ap horizon.</string>
+			</array>
+			<key>O.MB</key>
+			<array>
+				<string>Orthic Melanic Brunisol</string>
+				<string>Common horizon sequence: LF, Ah, Bm, Ck or C
+
+These soils have the general properties specified for the Brunisolic order and the Melanic Brunisol great group. Characteristically, they have a forest mull Ah horizon with fine to medium granular structure and a brownish-colored Bm horizon with a chroma of 3 or more. The color of the B horizon normally fades with depth. Commonly the C horizon is calcareous.
+
+Orthic Melanic Brunisols are identified by the following properties:
+
+They have either an Ah horizon 10 cm thick or more or an Ap horizon at least 10 cm thick with a moist color value less than 4. The A horizon does not meet the requirements of a chernozemic A.
+They have a pH (0.01 M CaCl2) of 5.5 or more as specified for the great group.
+They have a Bm horizon at least 5 cm thick.
+They lack an eluvial horizon, Ae or Aej, at least 2 cm thick.
+They lack mottles that indicate gleying as specified for Gleyed Melanic Brunisols.
+Orthic Melanic Brunisols and all other subgroups of Brunisolic soils may have a lithic contact within 50 cm of the surface or have turbic or andic features. These features are separated taxonomically at the family (lithic, some andic) or series (turbic) levels, or as phases of any taxonomic level above the family.
+
+</string>
+			</array>
+			<key>E.MB</key>
+			<array>
+				<string>Eluviated Melanic Brunisol</string>
+				<string>Common horizon sequence: LF, Ah, Ae or Aej, Bm or Btj, Ck or C
+
+These soils have the general properties specified for soils of the Brunisolic order and the Melanic Brunisol great group. They differ from Orthic Melanic Brunisols by having an eluvial horizon, Ae or Aej, at least 2 cm thick. The underlying horizon may be a Btj with thin clay skins on some surfaces or, less commonly, a Bfj. Otherwise, they have the diagnostic properties of Orthic Melanic Brunisols.</string>
+			</array>
+			<key>GL.MB</key>
+			<array>
+				<string>Gleyed Melanic Brunisol</string>
+				<string>Common horizon sequence: LF, Ah, Bmgj, Cgj or Cg or Ckg
+
+These soils have the general properties specified for soils of the Brunisolic order and the Melanic Brunisol great group. They differ from Orthic Melanic Brunisols by having faint to distinct mottles within 50 cm of the mineral surface, or distinct or prominent mottles at depths of 50-100 cm. Otherwise, they have the diagnostic properties of Orthic Melanic Brunisols.</string>
+			</array>
+			<key>GLE.MB</key>
+			<array>
+				<string>Gleyed Eluviated Melanic Brunisol</string>
+				<string>Common horizon sequence: LF, Ah, Ae or Aej, Bmgj or Btgj, Cgj or Cg or Ckg
+
+These soils have the general properties specified for soils of the Brunisolic order and the Melanic Brunisol great group. They differ from Eluviated Melanic Brunisols by having mottles that indicate gleying. Gleyed Eluviated Melanic Brunisols have either an Ae or an Aej horizon at least 2 cm thick, and mottles as specified for Gleyed Melanic Brunisols.</string>
+			</array>
+		</dict>
+		<key>Eutric</key>
+		<dict>
+			<key>Description</key>
+			<array>
+				<string>These are Brunisolic soils that have a relatively high degree of base saturation as indicated by their pH and lack a well-developed mineral-organic surface horizon. They occur mainly on parent material of high base status under forest or shrub vegetation in a wide range of climates.
+
+Eutric Brunisols have either a Bm, Bfj, or Btj horizon at least 5 cm thick, and a pH (0.01 M CaCl2) of 5.5 or more in some part or all of the uppermost 25 cm of the B horizon, or some part or all of the B horizon and the underlying material either to a total depth of 25 cm or to a lithic contact above that depth. Eutric Brunisols may have L, F, and H horizons, Ae or Aej horizons, and an Ah horizon less than 10 cm thick, but they do not have either Bt or podzolic B horizons. If cultivated, these soils are classified as Melanic Brunisols if the Ap horizon is at least 10 cm thick and has a moist color value less than 4 and part of the Bm, Bfj, or Btj remains below the Ap. They are classed as Eutric Brunisols if the Ap horizon does not meet the above specifications and part of the Bm horizon remains below the Ap. If the Ap includes all of the former B horizon, they are classified as Humic Regosols or Regosols, depending on the Ap.</string>
+			</array>
+			<key>O.EB</key>
+			<array>
+				<string>Orthic Eutric Brunisol</string>
+				<string>Common horizon sequence: LFH, Bm, Ck or C
+
+These soils have the general properties specified for the Brunisolic order and the Eutric Brunisol great group. Usually they have one or more organic surface horizons overlying a brownish-colored, base-saturated B horizon. The C horizon is commonly calcareous.
+
+Orthic Eutric Brunisols are identified by the following properties:
+
+They have a pH (0.01 M CaCl2) of 5.5 or more as specified for the great group.
+They have a Bm horizon at least 5 cm thick.
+They lack an eluvial horizon, Ae or Aej, at least 2 cm thick.
+They lack mottles that indicate gleying as specified for Gleyed Melanic Brunisols.
+They lack an Ah horizon at least 10 cm thick and an Ap horizon at least 10 cm thick with a moist color value of 4 or less.
+</string>
+			</array>
+			<key>E.EB</key>
+			<array>
+				<string>Eluviated Eutric Brunisol</string>
+				<string>Common horizon sequence: LFH, Ae or Aej, Bm or Btj, Ck or C
+
+These soils have the general properties specified for soils of the Brunisolic order and the Eutric Brunisol great group. They differ from Orthic Eutric Brunisols by having an eluvial horizon, Ae or Aej, at least 2 cm thick. The underlying horizon may be a Btj with thin clay skins on some surfaces or, less commonly, a Bfj. Otherwise, they have the diagnostic properties of Orthic Eutric Brunisols.</string>
+			</array>
+			<key>GL.EB</key>
+			<array>
+				<string>Gleyed Eutric Brunisol</string>
+				<string>Common horizon sequence: LFH, Bmgj, Cgj or Cg or Ckg
+
+These soils have the general properties specified for soils of the Brunisolic order and the Eutric Brunisol great group. They differ from Orthic Eutric Brunisols by having faint to distinct mottles within 50 cm of the mineral surface, or distinct or prominent mottles at depths of 50-100 cm. Otherwise, they have the diagnostic properties of Orthic Eutric Brunisols.</string>
+			</array>
+			<key>GLE.EB</key>
+			<array>
+				<string>Gleyed Eluviated Eutric Brunisol</string>
+				<string>Common horizon sequence: LFH, Ae or Aegj, Bmgj or Btjgj, Cgj or Cg or Ckg
+
+These soils have the general properties specified for soils of the Brunisolic order and the Eutric Brunisol great group. They differ from Eluviated Eutric Brunisols by having mottles that indicate gleying. Gleyed Eluviated Eutric Brunisols have either an Ae or an Aej horizon at least 2 cm thick and mottles as specified for Gleyed Eutric Brunisols.
+
+</string>
+			</array>
+		</dict>
+		<key>Sombric</key>
+		<dict>
+			<key>Description</key>
+			<array>
+				<string>These are acid Brunisolic soils having a dark-colored Ah horizon and a relatively low base saturation as indicated by their pH. Minor areas of soils of this great group occur in association with the more widely spread Podzolic soils.
+
+Sombric Brunisols have an Ah 10 cm or more in thickness or an Ap horizon 10 cm or more in thickness with a moist color value of less than 4, and a Bm, Bfj, thin Bf, or Btj horizon at least 5 cm thick. The pH (0.01 M CaCl2) is less than 5.5 throughout the uppermost 25 cm of the B horizon, or throughout the B horizon and the underlying material to a total depth of at least 25 cm or to a lithic contact above that depth. Sombric Brunisols may have L, F, and H horizons and Ae or Aej horizons, but they do not have solonetzic or podzolic B horizons or Bt horizons.</string>
+			</array>
+			<key>O.SB</key>
+			<array>
+				<string>Orthic Sombric Brunisol</string>
+				<string>Common horizon sequence: LFH, Ah, Bm, C
+
+These soils have the general properties specified for the Brunisolic order and the Sombric Brunisol great group. Usually they have an organic layer at the surface, a dark grayish brown to black Ah horizon, a brown acid B horizon, and an acid C horizon.
+
+Orthic Sombric Brunisols are identified by the following properties
+
+They have an Ah horizon at least 10 cm thick or an Ap horizon at least 10 cm thick with a moist color value less than 4.
+They have a pH (0.01 M CaCl2) of less than 5.5 as specified for the great group.
+They have a Bm horizon at least 5 cm thick.
+They lack an eluvial horizon, Ae or Aej, at least 2 cm thick.
+They lack mottles that indicate gleying as specified for Gleyed Sombric Brunisols.
+They lack a duric horizon.</string>
+			</array>
+			<key>E.SB</key>
+			<array>
+				<string>Eluviated Sombric Brunisol</string>
+				<string>Common horizon sequence: LFH, Ah, Ae or Aej, Bm or Bfj, C
+
+These soils have the general properties specified for soils of the Brunisolic order and the Sombric Brunisol great group. They differ from Orthic Sombric Brunisols by having an eluvial horizon, Ae or Aej, at least 2 cm thick. The underlying horizon may be a Btj with thin clay skins on some surfaces or, more commonly, a Bfj. Otherwise, these soils have the diagnostic properties of Orthic Sombric Brunisols.</string>
+			</array>
+			<key>DU.SB</key>
+			<array>
+				<string>Duric Sombric Brunisol</string>
+				<string>Common horizon sequence: LFH, Ah, Bm or Bfj, Bc or BCc, C
+
+These soils have the general properties specified for the Brunisolic order and the Sombric Brunisol great group. They differ from Orthic Sombric Brunisols by having a duric horizon within the control section. They may also have Ae and Btj or Bfj horizons and mottles that indicate gleying. A duric horizon is a strongly cemented acidic horizon that does not meet the requirements of a podzolic B and usually has a color similar to that of the parent material. This horizon has either an abrupt or a clear upper boundary and a diffuse lower boundary usually at least 50 cm below. Air-dry clods do not slake when immersed in water.</string>
+			</array>
+			<key>GL.SB</key>
+			<array>
+				<string>Gleyed Sombric Brunisol</string>
+				<string>Common horizon sequence: LFH, Ah, Bmgj or Bfjgj, Cgj or Cg
+
+These soils have the general properties specified for soils of the Brunisolic order and the Sombric Brunisol great group. They differ from Orthic Sombric Brunisols by having faint to distinct mottles within 50 cm of the mineral surface or distinct or prominent mottles at depths of 50-100 cm. Otherwise, these soils have the diagnostic properties of Orthic Sombric Brunisols.</string>
+			</array>
+			<key>GLE.SB</key>
+			<array>
+				<string>Gleyed Eluviated Sombric Brunisol</string>
+				<string>Common horizon sequence: LFH, Ah, Aej or Aegj, Bmgj or Bfjgj, Cgj or Cg
+
+These soils have the general properties specified for soils of the Brunisolic order and the Sombric Brunisol great group. They differ from Eluviated Sombric Brunisols by having mottles that indicate gleying. Gleyed Eluviated Sombric Brunisols have either an Ae or an Aej horizon at least 2 cm thick and mottles as specified for Gleyed Sombric Brunisols.
+
+</string>
+			</array>
+		</dict>
+		<key>Dystric</key>
+		<dict>
+			<key>Description</key>
+			<array>
+				<string>These are acid Brunisolic soils that lack a well-developed mineral-organic surface horizon. They occur widely, usually on parent materials of low base status and typically under forest vegetation.
+
+Dystric Brunisols have a Bm, Bfj, thin Bf, or Btj horizon at least 5 cm thick, and a pH (0.01 M CaCl2) of less than 5.5 throughout the upper 25 cm of the B horizon, or throughout the B horizon and the underlying material to a total depth of at least 25 cm or to a lithic contact above this depth. Dystric Brunisols may have L, F, and H horizons; an Ae or Aej horizon, and an Ah horizon less than 10 cm thick, but they do not have either a Bt or a podzolic B horizon. If cultivated, these soils are classified as Sombric Brunisols when the Ap horizon is at least 10 cm thick and has a moist color value less than 4 and part of the B horizon remains below the Ap. If the Ap horizon does not meet the above specifications but part of the B horizon remains below the Ap, then the soils are Dystric Brunisols. If the Ap includes all of the former B horizon, the soils are classified as Humic Regosol or Regosol, depending on the Ap horizon.</string>
+			</array>
+			<key>E.DYB</key>
+			<array>
+				<string>Eluviated Dystric Brunisol</string>
+				<string>Common horizon sequence: LFH, Ae or Aej, Bm or Bfj, C
+
+These soils have the general properties specified for soils of the Brunisolic order and the Dystric Brunisol great group. They differ from Orthic Dystric Brunisols by having an eluvial horizon, Ae or Aej, at least 2 cm thick. The underlying horizon is commonly a Bfj, but it may be a Btj or a Bm. Otherwise, they have the diagnostic properties of Orthic Dystric Brunisols.</string>
+			</array>
+			<key>DU.DYB</key>
+			<array>
+				<string>Duric Dystric Brunisol</string>
+				<string>Common horizon sequence: LFH, Bm or Bfj, Bc or BCc, C
+
+These soils have the general properties specified for soils of the Brunisolic order and the Dystric Brunisol great group. They differ from Orthic Dystric Brunisols by having a duric horizon within the control section. Also they may have Ae and Btj or Bfj horizons and mottles that indicate gleying.
+
+</string>
+			</array>
+			<key>O.DYB</key>
+			<array>
+				<string>Orthic Dystric Brunisol</string>
+				<string>Common horizon sequence: LFH, Bm, C
+
+These soils have the general properties specified for the Brunisolic order and the Dystric Brunisol great group. Usually they have organic surface horizons and brownish-colored, acid B horizons overlying acid C horizons.
+
+Orthic Dystric Brunisols are identified by the following properties:
+
+They have a pH (0.01 M CaCl2) of less than 5.5 as specified for the great group.
+They have a Bm horizon at least 5 cm thick.
+They lack an eluvial horizon, Ae or Aej, at least 2 cm thick.
+They lack mottles that indicate gleying as specified for Gleyed Dystric Brunisols.
+They lack a duric horizon.
+They lack an Ah horizon at least 10 cm thick and an Ap horizon at least 10 cm thick with a moist color value of 4 or less.
+</string>
+			</array>
+			<key>GL.DYB</key>
+			<array>
+				<string>Gleyed Dystric Brunisol</string>
+				<string>Common horizon sequence: LFH, Bmgj or Bfjgj, Cgj or Cg
+
+These soils have the general properties specified for soils of the Brunisolic order and the Dystric Brunisol great group. They differ from Orthic Dystric Brunisols by having faint to distinct mottles within 50 cm of the mineral surface, or distinct or prominent mottles at depths of 50-100 cm. Otherwise, they have the diagnostic properties of Orthic Dystric Brunisols.</string>
+			</array>
+			<key>GLE.DYB</key>
+			<array>
+				<string>Gleyed Eluviated Dystric Brunisol</string>
+				<string>Common horizon sequence: LFH, Ae or Aej, Bmgj or Bfjgj, Cgj or Cg
+
+These soils have the general properties specified for soils of the Brunisolic order and the Dystric Brunisol great group. They differ from Eluviated Dystric Brunisols by having mottles that indicate gleying. Gleyed Eluviated Dystric Brunisols have either an Ae or an Aej horizon at least 2 cm thick and mottles as specified for Gleyed Dystric Brunisols.
+
+</string>
+			</array>
+		</dict>
+	</dict>
+	<key>Cryosolic Order</key>
+	<dict>
+		<key>Turbic</key>
+		<dict>
+			<key>Description</key>
+			<array>
+				<string>These are Cryosolic soils that have developed primarily in mineral material and have marked evidence of cryoturbation (Harris et al. 1988). They generally occur on patterned ground, which includes such cryogenic forms as sorted and nonsorted circles, nets, polygons, stripes, and steps in stony or coarse-textured material and nonsorted units such as earth hummocks in medium- and fine-textured materials. The pedon includes all elements of the microtopography in cycles less than 7 m in width. Processes include sorting of different-sized particles and mixing of both mineral and organic material from different horizons. Organic (Oy) or organic-rich, mineral horizons (Ahy) are characteristically present in the region of the permafrost table (upper surface of permafrost layer), and there is generally a buildup of ice in the upper part of the permafrost layer.
+
+Turbic Cryosols are mineral soils that have permafrost within 2 m of the surface and show marked evidence of cryoturbation laterally within the active layer, as indicated by disrupted or mixed or broken horizons, or displaced material or a combination of both.</string>
+			</array>
+			<key>OE.TC</key>
+			<array>
+				<string>Orthic Eutric Turbic Cryosol</string>
+				<string>Common horizon sequence: Om, Bmy, BCy, Cgy, Omy, Cz
+
+These Turbic Cryosols have a relatively high degree of base saturation, as indicated by their pH. They are identified by the following properties:
+
+These soils have a Bmy horizon and may have a Bm horizon less than 10 cm thick.
+The horizons are strongly disrupted by cryoturbation. Tongues of mineral and organic horizons, organic and mineral intrusions, and oriented stones commonly occur.
+These soils have a pH (0.01 M CaCl2) of 5.5 or greater in some or all of the B horizons.
+The surface horizons are not strongly gleyed, but there is usually a gleyed horizon immediately above the permafrost table.
+Orthic Eutric Turbic Cryosols have a Bmy horizon and subsurface organic (Omy, Ohy) or organic-rich, mineral horizons (Ahy). Surface organic horizons up to 15 cm thick, moder Ah horizons, and Bm horizons less than 10 cm thick may occur.</string>
+			</array>
+			<key>OD.TC</key>
+			<array>
+				<string>Orthic Dystric Turbic Cryosol</string>
+				<string>Common horizon sequence: Om, Bmy, BCy, Cgy, Omy, Cz
+
+These acidic Turbic Cryosols have a low degree of base saturation, as indicated by their pH. They are identified by the following properties:
+
+These soils have a Bmy horizon and may have a Bm horizon less than 10 cm thick.
+The horizons are strongly disrupted by cryoturbation. Tongues of mineral and organic horizons, organic and mineral intrusions, and oriented stones commonly occur.
+These soils have a pH (0.01 M CaCl2) of less than 5.5 throughout the B horizons.
+The surface horizons are not strongly gleyed, but there is usually a gleyed horizon immediately above the permafrost table.
+Orthic Dystric Turbic Cryosols have a Bmy horizon and subsurface organic (Omy, Ohy) or organic-rich, mineral horizons (Ahy). Surface organic horizons up to 15 cm thick, moder Ah horizons, and Bm horizons less than 10 cm thick may occur.</string>
+			</array>
+			<key>BRE.TC</key>
+			<array>
+				<string>Brunisolic Eutric Turbic Cryosol</string>
+				<string>Common horizon sequence: Om, Bm, Bmy or BCy, Cgy, Omy, Cz
+
+These Turbic Cryosols have a relatively high degree of base saturation, as indicated by their pH. They are identified by the following properties:
+
+These soils have a Bm horizon, at least 10 cm thick, which is continuous over the imperfectly to well-drained part of the pedon that is relatively unaffected by cryoturbation.
+The horizons, other than the Bm, are strongly disrupted by cryoturbation. Tongues of mineral and organic horizons, organic and mineral intrusions, and oriented stones commonly occur.
+These soils have a pH (0.01 M CaCl2) of 5.5 or greater in some or all of the B horizons.
+The surface horizons are not strongly gleyed, but there is usually a gleyed horizon immediately above the permafrost table.
+</string>
+			</array>
+			<key>BRD.TC</key>
+			<array>
+				<string>Brunisolic Dystric Turbic Cryosol</string>
+				<string>Common horizon sequence: Om, Bm, Bmy or BCy, Cgy, Omy, Cz
+
+These acidic Turbic Cryosols have a low degree of base saturation, as indicated by their pH. They are identified by the following properties:
+
+These soils have a Bm horizon, at least 10 cm thick, which is continuous over the imperfectly to well-drained part of the pedon that is relatively unaffected by cryoturbation.
+The horizons, other than the Bm, are strongly disrupted by cryoturbation. Tongues of mineral and organic horizons, organic and mineral intrusions, and oriented stones commonly occur.
+These soils have a pH (0.01 M CaCl2) of less than 5.5 throughout the B horizons.
+The surface horizons are not strongly gleyed, but there is usually a gleyed horizon immediately above the permafrost table.
+</string>
+			</array>
+			<key>GL.TC</key>
+			<array>
+				<string>Gleysolic Turbic Cryosol</string>
+				<string>Common horizon sequence: Om, Bgy or Cgy (or both), Cz
+
+These Turbic Cryosols have developed in poorly drained areas under reducing conditions. The name Gleysolic, rather than Gleyed, is used because these soils are not equivalent in degree of gleying to Gleyed subgroups of other orders. Gleysolic subgroups of Cryosolic soils have evidence of gleying similar in degree to that of soils of the Gleysolic order. They are identified by the following properties:
+
+They have evidence of gleying in the form of low chromas or mottling to the mineral surface.
+Their uppermost mineral horizon, Bgy or Cgy, may be overlain by organic layers less than 40 cm thick, or a combination of surface and subsurface organic horizons &gt;15 cm thick</string>
+			</array>
+			<key>R.TC</key>
+			<array>
+				<string>Regosolic Turbic Cryosol</string>
+				<string>Common horizon sequence: Om, Cy, Cgy, Cz
+
+These Turbic Cryosols have developed on recently deposited or strongly cryoturbated soil materials. They are identified by the following properties:
+
+These soils lack B horizons.
+These soils usually have little incorporated organic matter.
+Cryoturbation is manifested by oriented stones, displacement of materials, and sorting.
+</string>
+			</array>
+			<key>HE.TC</key>
+			<array>
+				<string>Histic Eutric Turbic Cryosol</string>
+				<string>Common horizon sequence: Om, Ah, Bmy or Bm (or both) or Cgy, Cz
+
+These Turbic Cryosols have a relatively high degree of base saturation, as indicated by their pH, and thick (&gt;15 cm) organic (peaty) horizons in the upper 1 m of the solum. They are identified by the following properties:
+
+These soils have either a continuous surface organic horizon (Ohy, Hy) ranging in thickness from &gt;15 to 40 cm, or a combination of surface and subsurface organic horizons &gt;15 cm thick.
+They have a Bm or Bmy horizon, or both, which is continuous over the imperfectly to well-drained part of the pedon.
+The horizons, other than the Bm, are strongly disrupted by cryoturbation. Tongues of mineral and organic horizons, organic and mineral intrusions, and oriented stones commonly occur.
+These soils have a pH (0.01 M CaCl2) of 5.5 or greater in some or all of the B horizons.
+The surface horizons are not strongly gleyed, but there is usually a gleyed horizon immediately above the permafrost table.
+</string>
+			</array>
+			<key>HD.TC</key>
+			<array>
+				<string>Histic Dystric Turbic Cryosol</string>
+				<string>Common horizon sequence: Om, Ah, Bmy or Bm (or both) or Cgy, Cz
+
+These acidic Turbic Cryosols have a low degree of base saturation, as indicated by their pH, and thick (&gt;15 cm) organic (peaty) horizons in the upper 1 m of the solum. They are identified by the following properties:
+
+These soils have either a continuous surface organic horizon (Ohy, Hy) ranging in thickness from &gt;15 to 40 cm, or a combination of surface and subsurface organic horizons &gt;15 cm thick.
+They have a Bm or Bmy horizon (or both), which is continuous over the imperfectly to well-drained part of the pedon that is relatively unaffected by cryoturbation.
+The horizons, other than the Bm, are strongly disrupted by cryoturbation. Tongues of mineral and organic horizons, organic and mineral intrusions, and oriented stones commonly occur.
+These soils have a pH (0.01 M CaCl2) of less than 5.5 throughout the B horizons.
+The surface horizons are not strongly gleyed, but there is usually a gleyed horizon immediately above the permafrost table.
+</string>
+			</array>
+			<key>HR.TC</key>
+			<array>
+				<string>Histic Regosolic Turbic Cryosol</string>
+				<string>Common horizon sequence: Om, Cy, Cgy, Cz
+
+These Turbic Cryosols have developed on recently deposited or strongly cryoturbated soil materials. They have thick (&gt;15 cm) organic (peaty) horizons in the upper 1 m of the solum. They are identified by the following properties:
+
+These soils have either a continuous surface organic horizon (Ohy, Hy) ranging in thickness from &gt;15 to 40 cm, or a combination of surface and subsurface organic horizons &gt;15 cm thick.
+They lack B horizons.
+Cryoturbation is manifested by oriented stones, displacement of materials, and sorting.
+The surface horizons are not strongly gleyed, but there is usually a gleyed horizon immediately above the permafrost table.
+</string>
+			</array>
+		</dict>
+		<key>Static</key>
+		<dict>
+			<key>Description</key>
+			<array>
+				<string>These Cryosolic soils have developed primarily in coarse-textured mineral parent materials, or in a wide textural range of recently deposited or disturbed sediments where evidence of cryoturbation is still largely absent, or in both. They may have organic surface horizons less than 40 cm thick.
+
+Static Cryosols have permafrost within 1 m of the surface but show little or no evidence of cryoturbation or features that indicate cryoturbation. They may be associated with landforms exhibiting patterned ground features such as polygons.</string>
+			</array>
+			<key>OE.SC</key>
+			<array>
+				<string>Orthic Eutric Static Cryosol</string>
+				<string>Common horizon sequence: Om, LFH, Bm, BCgj, Cz
+
+These Static Cryosols have a relatively high degree of base saturation, as indicated by their pH. They are identified by the following properties:
+
+These soils have a Bm horizon less than 10 cm thick.
+They have a pH (0.01 M CaCl2) of 5.5 or greater in some or all of the B horizons.
+The surface horizons are not strongly gleyed, but gley features commonly occur immediately above the permafrost table.
+</string>
+			</array>
+			<key>OD.SC</key>
+			<array>
+				<string>Orthic Dystric Static Cryosol</string>
+				<string>Common horizon sequence: Om, LFH, Bm, BCgj, Cz
+These acidic Static Cryosols have a low degree of base saturation, as indicated by their pH. They are identified by the following properties:
+
+These soils have a Bm horizon less than 10 cm thick.
+They have a pH (0.01 M CaCl2) of less than 5.5 throughout the B horizons.
+The surface horizons are not strongly gleyed, but gley features commonly occur immediately above the permafrost table.
+</string>
+			</array>
+			<key>BRE.SC</key>
+			<array>
+				<string>Brunisolic Eutric Static Cryosol</string>
+				<string>Common horizon sequence: LFH, Bm, BCgj, Cz
+
+These Static Cryosols have a relatively high degree of base saturation, as indicated by their pH. They are identified by the following properties:
+
+These soils have a Bm horizon at least 10 cm thick.
+They have a pH (0.01 M CaCl2) of 5.5 or greater in some or all of the B horizons.
+</string>
+			</array>
+			<key>BRD.SC</key>
+			<array>
+				<string>Brunisolic Dystric Static Cryosol</string>
+				<string>Common horizon sequence: LFH, Bm, BCgj, Cz
+
+These acidic Static Cryosols have a low degree of base saturation, as indicated by their pH. They are identified by the following properties:
+
+These soils have a Bm horizon at least 10 cm thick.
+They have a pH (0.01 M CaCl2) of less than 5.5 throughout the B horizons.
+</string>
+			</array>
+			<key>L.SC</key>
+			<array>
+				<string>Luvisolic Static Cryosol</string>
+				<string>Common horizon sequence: LFH, Om, Ah, or Ae, Bt, Cg, Cz
+
+These Static Cryosols have a clay accumulation in the B horizon (Bf). They occur mainly on fine-textured parent materials under forest vegetation. They are identified by the following properties:
+
+These soils have an eluvial horizon (Ahe, Ae, Aeg).
+They have a Bt horizon that is greater than 10 cm thick.
+Some mottling may occur in the lower part of the solum
+</string>
+			</array>
+			<key>GL.SC</key>
+			<array>
+				<string>Gleysolic Static Cryosol</string>
+				<string>Common horizon sequence: Om, Bg or Cg (or both), Cz
+
+These Static Cryosols have developed in poorly drained areas under reducing conditions. The name Gleysolic, rather than Gleyed, is used because these soils are not equivalent in degree of gleying to Gleyed subgroups of other orders. Gleysolic subgroups of Cryosolic soils have evidence of gleying similar in degree to that of soils of the Gleysolic order. They are identified by the following properties:
+
+These soils have evidence of gleying in the form of low chromas or mottling to the mineral surface.
+Their surface mineral horizon, Bg or Cg,may be overlain by organic layers less than 40 cm thick.
+</string>
+			</array>
+			<key>R.SC</key>
+			<array>
+				<string>Regosolic Static Cryosol</string>
+				<string>Common horizon sequence: C, Cg, Cz
+
+These Static Cryosols have developed on recently deposited or strongly cryoturbated soil materials. They are identified by the following properties:
+
+These soils lack B horizons.
+These soils may have thin (&lt;15 cm thick) peaty organic layers and a thin Ah horizon.
+</string>
+			</array>
+			<key>HE.SC</key>
+			<array>
+				<string>Histic Eutric Static Cryosol</string>
+				<string>Common horizon sequence: Om, Ah, Bm, Cg, Cz
+
+These Static Cryosols have a relatively high degree of base saturation, as indicated by their pH, and thick (&gt;15 cm) organic (peaty) horizons in the upper 1 m of the solum. They are identified by the following properties:
+
+These soils have a continuous surface organic horizon (O, H) ranging in thickness from &gt;15 to 40 cm.
+These soils have Bm horizons that are continuous over the imperfectly to well-drained part of the pedon.
+These soils have a pH (0.01 M CaCl2) of 5.5 or greater in some or all of the B horizons.
+The surface horizons are not strongly gleyed, but there is usually a gleyed horizon immediately above the permafrost table.
+</string>
+			</array>
+			<key>HD.SC</key>
+			<array>
+				<string>Histic Dystric Static Cryosol</string>
+				<string>Common horizon sequence: Om, Ah, Bm, Cg, Cz
+
+These acidic Static Cryosols have a low degree of base saturation, as indicated by their pH, and thick (&gt;15 cm) organic (peaty) horizons in the upper 1 m of the solum. They are identified by the following properties:
+
+These soils have a surface organic horizon (O, H) ranging in thickness from &gt;15 to 40 cm.
+These soils have Bm horizons that are continuous over the imperfectly to well-drained part of the pedon that is relatively unaffected by cryoturbation.
+These soils have a pH (0.01 M CaCl2) of less than 5.5 throughout the B horizons.
+The surface horizons are not strongly gleyed, but there is usually a gleyed horizon immediately above the permafrost table.
+</string>
+			</array>
+			<key>HR.SC</key>
+			<array>
+				<string>Histic Regosolic Static Cryosol</string>
+				<string>Common horizon sequence: Om, C, Cg, Cz
+
+These Static Cryosols have relatively thick (&gt;15 cm) organic (peaty) horizons in the upper 1 m of the solum. They are identified by the following properties:
+
+These soils have a surface organic horizon (O, H) ranging in thickness from &gt;15 to 40 cm.
+They lack B horizons.
+They may have thin peaty organic layers and a thin Ah horizon.
+The surface horizons are not strongly gleyed, but there is usually a gleyed horizon immediately above the permafrost table.
+</string>
+			</array>
+		</dict>
+		<key>Organic</key>
+		<dict>
+			<key>Description</key>
+			<array>
+				<string>These Cryosolic soils have developed primarily from organic material containing more than 17% organic carbon by weight and are underlain by permafrost within 1 m of the surface. They are greater than 40 cm thick, or greater than 10 cm thick over either a lithic contact or an ice layer that is at least 30 cm thick. Landforms associated with Organic Cryosols include palsas, peat polygons, and high-centre polygons.</string>
+			</array>
+			<key>FI.OC</key>
+			<array>
+				<string>Fibric Organic Cryosol</string>
+				<string>Common horizon sequence: Of or Om, Of, Ofz
+
+These Organic Cryosols are identified by the following properties:
+
+They have organic layers thicker than 1 m.
+They are composed dominantly of fibric material in the control section below a depth of 40 cm.
+</string>
+			</array>
+			<key>ME.OC</key>
+			<array>
+				<string>Mesic Organic Cryosol</string>
+				<string>Common horizon sequence: Of or Om, Om, Omz
+
+These Organic Cryosols are identified by the following properties:
+
+They have organic layers thicker than 1 m.
+They are composed dominantly of mesic material in the control section below a depth of 40 cm.
+</string>
+			</array>
+			<key>HU.OC</key>
+			<array>
+				<string>Humic Organic Cryosol</string>
+				<string>Common horizon sequence: Om or Oh, Ohz
+
+These Organic Cryosols are identified by the following properties:
+
+They have organic layers thicker than 1 m.
+They are composed dominantly of humic material in the control section below a depth of 40 cm.
+</string>
+			</array>
+			<key>TFI.OC</key>
+			<array>
+				<string>Terric Fibric Organic Cryosol</string>
+				<string>Common horizon sequence: Of, Ofz, Cz
+
+These Organic Cryosols are identified by the following properties:
+
+They have a mineral contact within 1 m of the surface, or the mineral layer is greater than 30 cm thick with an upper boundary within 1 m of the surface.
+They are composed dominantly of fibric material above the mineral contact.
+</string>
+			</array>
+			<key>TME.OC</key>
+			<array>
+				<string>Terric Mesic Organic Cryosol</string>
+				<string>Common horizon sequence: Om, Omz, Cz
+
+These Organic Cryosols are identified by the following properties:
+
+They have a mineral contact within 1 m of the surface, or the mineral layer is greater than 30 cm thick with an upper boundary within 1 m of the surface.
+They are composed dominantly of mesic material above the mineral contact.</string>
+			</array>
+			<key>THU.OC</key>
+			<array>
+				<string>Terric Humic Organic Cryosol</string>
+				<string>Common horizon sequence: Oh, Ohz, Cz
+
+These Organic Cryosols are identified by the following properties:
+
+They have a mineral contact within 1 m of the surface, or the mineral layer is greater than 30 cm thick with an upper boundary within 1 m of the surface.
+They are composed dominantly of humic material above the mineral contact.
+</string>
+			</array>
+			<key>GC.OC</key>
+			<array>
+				<string>Glacic Organic Cryosol</string>
+				<string>Common horizon sequence: Of, Om or Oh, Wz
+
+These Organic Cryosols are identified by the following properties:
+
+They have a layer of ground ice greater than 30 cm thick with an upper boundary within 1 m of the surface.
+The ice layer contains more than 95% ice by volume.</string>
+			</array>
+		</dict>
+	</dict>
+	<key>Gleysolic Order</key>
+	<dict>
+		<key>Luvic</key>
+		<dict>
+			<key>Description</key>
+			<array>
+				<string>Soils of this great group have the general properties specified for the Gleysolic order and a horizon of clay accumulation (Btg). They are similar to Luvisolic soils except that they have dull colors or prominent mottling, or both, which indicates strong gleying. They may have organic surface horizons and an Ah horizon. Luvic Gleysols occur commonly on poorly drained sites in association with Luvisolic soils and in depressions in areas of Black and Dark Gray Chernozemic soils.
+
+Luvic Gleysols usually have an eluvial horizon (Ahe, Aeg) and a Btg horizon. A Btg horizon is defined based on an increase in silicate clay over that present in the A horizon. The presence of clay skins indicates illuvial clay. Colors and mottling as specified for the Gleysolic order indicate permanent or periodic reduction. Luvic Gleysols may have an organic surface horizon and an Ah horizon. In some cases the A horizon is very dark (value of 2) when moist, but its eluvial features are usually evident on drying. Such horizons generally have darker and lighter gray streaks and splotches, which are similar to the Ahe horizons of Dark Gray Chernozemic soils. Even if the eluvial horizon is dark, the Btg horizon is diagnostic of a Luvic Gleysol.
+
+The great group is divided into six subgroups based on the kind and sequences of the horizons.</string>
+			</array>
+			<key>V.LG</key>
+			<array>
+				<string>Vertic Luvic Gleysol</string>
+				<string>Common horizon sequence: LFH or O, Ah, Aeg, Bgf, Btg or Btgvj, Bntg or Bntgvj, Btgss or Cgss, Cg
+
+These soils have the general properties specified for the Gleysolic order and the Luvic Gleysol great group. They may have any horizons in the upper solum common to other subgroups within the Luvic Gleysol great group. However, they differ from other subgroups by having properties indicative of intergrading to the Vertisolic order. Specifically, they have a slickenside horizon (Btgss or Cgss), the upper boundary of which occurs within 1 m of the mineral soil surface. They also may have a weak vertic horizon (Btgvj or Bntgvj).
+
+</string>
+			</array>
+			<key>SZ.LG</key>
+			<array>
+				<string>Solonetzic Luvic Gleysol</string>
+				<string>Common horizon sequence: LFH or O, Ah, Aeg, Bntg, Cg
+
+These soils have the general properties specified for the Gleysolic order and the Luvic Gleysol great group. They have, in addition, a solonetzic B horizon. They may have Ah or Ap horizons as specified for Humic Luvic Gleysols. These soils are commonly associated with saline parent materials.
+
+</string>
+			</array>
+			<key>FR.LG</key>
+			<array>
+				<string>Fragic Luvic Gleysol</string>
+				<string>Common horizon sequence: LFH or O, Ah, Aeg, Btgx, or Btg and Bxg, Cg
+
+These soils have the general properties specified for the Gleysolic order and the Luvic Gleysol great group. They have, in addition, a fragipan within or below the Btg horizon. They may also have a dark-colored Ah or Ap horizon, as specified for Humic Luvic Gleysols, or a Bgf or Btgf horizon, as specified for Fera Luvic Gleysols. They do not have a solonetzic B horizon; such horizons are not known to occur in association with a fragipan.</string>
+			</array>
+			<key>HU.LG</key>
+			<array>
+				<string>Humic Luvic Gleysol</string>
+				<string>Common horizon sequence: LFH or O, Ah, Aeg, Btg, Cg
+
+These soils have the general properties specified for the Gleysolic order and the Luvic Gleysol great group. They have, in addition, a mineral-organic surface horizon that meets the requirements of the Ah or Ap horizon of Humic Gleysols. Thus, the Ah horizon must be at least 10 cm thick and the Ap horizon must be at least 15 cm thick, contain at least 2% organic carbon, and have a darker color than the underlying horizon. Humic Luvic Gleysols have neither a solonetzic B horizon nor a fragipan, but they may have a Bgf horizon.
+
+</string>
+			</array>
+			<key>FE.LG</key>
+			<array>
+				<string>Fera Luvic Gleysol</string>
+				<string>Common horizon sequence: LFH or O, Ah, Aeg, Btgf or Bfg and Btg, Cg
+
+These soils have the general properties specified for the Gleysolic order and the Luvic Gleysol great group. They also have either a Bgf horizon at least 10 cm thick as well as a Btg horizon or a Btgf horizon. A Bgf or Btgf horizon contains accumulated hydrous iron oxide (dithionite extractable), which is thought to have been deposited as a result of the oxidation of ferrous iron. It usually has a high chroma and is commonly a horizon with a concentration of rusty mottles. Fera Luvic Gleysols lack all the following: an Ah or Ap horizon diagnostic of Humic Luvic Gleysols, a solonetzic B horizon, and a fragipan.</string>
+			</array>
+			<key>O.LG</key>
+			<array>
+				<string>Orthic Luvic Gleysol</string>
+				<string>Common horizon sequence: LFH or O, Aeg, Btg, Cg
+
+These soils have the general properties specified for the Gleysolic order and the Luvic Gleysol great group. Typically, they have a Btg horizon and organic or mineral-organic surface horizons overlying gleyed, eluvial horizons.
+
+Orthic Luvic Gleysols are identified by the following properties:
+
+They have an eluvial horizon: Ahe, Ae, Aeg.
+They have a Btg horizon.
+They do not have an Ah or Ap horizon as defined for Humic Gleysols and Humic Luvic Gleysols.
+They have neither a solonetzic B horizon, nor a fragipan, nor a Bgf horizon at least 10 cm thick.</string>
+			</array>
+		</dict>
+		<key>Humic</key>
+		<dict>
+			<key>Description</key>
+			<array>
+				<string>Soils of this great group have a dark-colored A horizon in addition to the general properties of soils of the Gleysolic order. They occur commonly in poorly drained positions in association with some Chernozemic, Luvisolic, Podzolic, and Brunisolic soils. These soils may have organic surface horizons derived from grass and sedge, moss, or forest vegetation.
+
+Humic Gleysols have no Bt horizon. They have either an Ah horizon at least 10 cm thick or a mixed surface horizon (Ap) at least 15 cm thick with all the following properties:
+
+It contains at least 2% organic carbon.
+It has a rubbed color value of 3.5 or less (moist), or 5.0 or less (dry).
+It has a color value (moist) at least 1.5 units lower than that of the next underlying horizon if the color value (moist) of that horizon is 4 or more, or one unit of color value lower than that of the underlying horizon if its color value is less than 4.
+
+The great group is divided into five subgroups based on the kind of horizons and their sequence.</string>
+			</array>
+			<key>V.HG</key>
+			<array>
+				<string>Vertic Humic Gleysol</string>
+				<string>Common horizon sequence: LFH or O, Ah, Bg or Bgvj, Bgss or Cgss, Cg
+
+These soils have the general properties specified for the Gleysolic order and the Humic Gleysol great group. They may have any horizons in the upper solum common to other subgroups within the Humic Gleysol great group. However, they differ from other subgroups by having properties indicative of intergrading to the Vertisolic order. Specifically, they have a slickenside horizon (Bgss or Cgss), the upper boundary of which occurs within 1 m of the mineral soil surface. They may also have a weak vertic horizon (Bgvj).
+
+</string>
+			</array>
+			<key>SZ.HG</key>
+			<array>
+				<string>Solonetzic humic Gleysol</string>
+				<string>Common horizon sequence: Ah, Bng, Cgsk
+
+These soils have the general properties specified for the Gleysolic order and the Humic Gleysol great group. They also have a solonetzic B horizon and may have a Bgf horizon. Typically, they have saline parent materials.</string>
+			</array>
+			<key>FE.HG</key>
+			<array>
+				<string>Fera Humic Gleysol</string>
+				<string>Common horizon sequence: LFH or O, Ah, Aeg, Bgf, Cg
+
+These soils have the general properties specified for the Gleysolic order and the Humic Gleysol great group. They also have a Bgf horizon at least 10 cm thick and lack a solonetzic B horizon. The Bgf horizon contains accumulated hydrous iron oxide (dithionite extractable) thought to have been deposited as a result of the oxidation of ferrous iron. The Bgf horizon usually has many prominent mottles of high chroma.</string>
+			</array>
+			<key>O.HG</key>
+			<array>
+				<string>Orthic Humic Gleysol</string>
+				<string>Common horizon sequence: LFH or O, Ah, Bg, Cg
+
+These soils have the general properties specified for the Gleysolic order and the Humic Gleysol great group. Typically, they have a well-developed Ah horizon overlying gleyed B and C horizons. They may have organic surface horizons, an eluvial horizon, and a C horizon that does not have the dull colors and mottling that indicate gleying.
+
+Orthic Humic Gleysols are identified by the following properties:
+
+They have an Ah horizon at least 10 cm thick as defined for the great group.
+They have a B horizon (Bg or Bgtj) at least 10 cm thick.
+They do not have any of the following: a Btg horizon, a solonetzic B horizon, or a Bgf horizon at least 10 cm thick.
+</string>
+			</array>
+			<key>R.HG</key>
+			<array>
+				<string>Rego Humic Gleysol</string>
+				<string>Common horizon sequence: LFH or O, Ah, Cg
+
+These soils have the general properties specified for the Gleysolic order and the Humic Gleysol great group. They differ from Orthic Humic Gleysols in that they lack a B horizon at least 10 cm thick. Typically, they have a well-developed Ah horizon overlying a gleyed C horizon.</string>
+			</array>
+		</dict>
+		<key>Gleysol</key>
+		<dict>
+			<key>Description</key>
+			<array>
+				<string>Soils of this great group have the general properties specified for soils of the Gleysolic order, but they lack a well-developed, mineral-organic surface horizon. They occur commonly in poorly drained positions in association with soils of several other orders.
+
+Gleysols lack an Ah or Ap horizon as specified for Humic Gleysols. They also lack a Bt horizon. They may have either an Ah horizon thinner than 10 cm or an Ap horizon with one of the following properties:
+
+It contains less than 2% organic carbon.
+It has a rubbed color value greater than 3.5 (moist) or greater than 5.0 (dry).
+It shows little contrast in color value with the underlying layer (a difference of less than 1.5 units if the value of the underlying layer is 4 or more, or a difference of less than 1 unit if that value is less than 4).
+These soils have a gleyed B or C horizon, and they may have an organic surface horizon.
+
+The great group is divided into five subgroups based on the kind of horizons and their sequence.</string>
+			</array>
+			<key>V.G</key>
+			<array>
+				<string>Vertic Gleysol</string>
+				<string>Common horizon sequence: LFH or O, Bg or Bgvj, Bgss or Cgss, Cg
+
+These soils have the general properties specified for the Gleysolic order and the Gleysol great group. They may have any horizons in the upper solum common to other subgroups within the Gleysol great group. However, they differ from other subgroups by having properties indicative of intergrading to the Vertisolic order. Specifically, they have a slickenside horizon (Bgss or Cgss), the upper boundary of which occurs within 1 m of the mineral soil surface. They may also have a weak vertic horizon (Bgvj).
+
+</string>
+			</array>
+			<key>SZ.G</key>
+			<array>
+				<string>Solonetzic Gleysol</string>
+				<string>Common horizon sequence: LFH or O, Aeg, Bng, Cgsk
+
+These soils have the general properties specified for the Gleysolic order and the Gleysol great group. They also have a solonetzic B horizon and may have a Bgf horizon. Typically, they have saline parent materials.</string>
+			</array>
+			<key>FE.G</key>
+			<array>
+				<string>Fera Gleysol</string>
+				<string>Common horizon sequence: LFH or O, Aeg, Bgf, Cg
+
+These soils have the general properties specified for the Gleysolic order and the Gleysol great group. They also have a Bgf horizon at least 10 cm thick and lack a solonetzic B horizon. The Bgf horizon contains accumulated hydrous iron oxide (dithionite extractable), which is thought to have been deposited as a result of the oxidation of ferrous iron. The Bgf horizon usually has many prominent mottles of high chroma.</string>
+			</array>
+			<key>O.G</key>
+			<array>
+				<string>Orthic Gleysol</string>
+				<string>Common horizon sequence: LFH or O, Bg, Cg
+
+These soils have the general properties specified for the Gleysolic order and the Gleysol great group. Typically, they have strongly gleyed B and C horizons and may have organic surface horizons and an eluvial horizon. Orthic Gleysols are identified by the following properties:
+
+They have a B horizon (Bg or Btjg) at least 10 cm thick.
+They may have an Ah or Ap horizon as specified for the Gleysol great group.
+They have neither a Btg horizon, nor a solonetzic B horizon, nor a Bgf horizon at least 10 cm thick.
+</string>
+			</array>
+			<key>R.G</key>
+			<array>
+				<string>Rego Gleysol</string>
+				<string>Common horizon sequence: LFH or O, Cg
+
+These soils have the general properties specified for the Gleysolic order and the Gleysol great group. They differ from Orthic Gleysols in that they lack a B horizon at least 10 cm thick. They thus consist of a gleyed C horizon, with or without organic surface horizons, and a thin Ah or B horizon.
+
+</string>
+			</array>
+		</dict>
+	</dict>
+	<key>Luvisolic Order</key>
+	<dict>
+		<key>Gray Brown</key>
+		<dict>
+			<key>Description</key>
+			<array><string>Soils of this great group have a forest mull Ah horizon and eluvial and Bt horizons as indicated for the order. They occur typically under deciduous or mixed forest vegetation on calcareous materials in areas of mild, humid climate. They occur mainly in the St. Lawrence Lowland.
+
+Under undisturbed conditions the soils may have thin L, F, and H horizons, but, because of high biological activity and the abundance of earthworms, the leaf litter is usually quickly incorporated into the soil and humified. A transitional AB or BA horizon having gray coatings on structural aggregates is generally present, particularly in medium and fine-textured soils. Although the Bt horizon is generally immediately underlain by calcareous materials, a transitional BC horizon may be present.
+
+Under cultivated conditions the Ah and commonly part of the Ae horizon are mixed to form an Ap horizon. However the Bt and part of the Ae horizon usually remain intact under the Ap horizon unless either cultivation greatly exceeds 15 cm in depth or surface erosion has caused the Ap horizon to be developed in the Ae or Bt horizons or both.
+
+Gray Brown Luvisols have either a forest-mull Ah horizon more than 5 cm thick or a dark-colored Ap horizon, an eluvial horizon, and a Bt horizon. The mean annual soil temperature is 8°C or higher and the soil moisture regime is humid or wetter.
+
+The great group is divided into eight subgroups based on the profile developed above the Bt horizon, the presence of Vertic features, and evidence of gleying.</string></array>
+			<key>O.GBL</key>
+			<array>
+				<string>Orthic Gray Brown Luvisol</string>
+				<string>Common horizon sequence: Ah, Ae, Bt, Ck
+
+These soils have the properties specified for the Luvisolic order and the Gray Brown Luvisol great group. They have well-developed Ah, eluvial, and Bt horizons, and usually calcareous C horizons. Faint mottling may occur immediately above or within the Bt horizon.
+
+Orthic Gray Brown Luvisols are identified by the following properties:
+
+These soils have either a forest-mull Ah horizon more than 5 cm thick or a dark-colored (moist) Ap horizon.
+These soils have an Ae horizon of which the upper 5 cm is light colored with a chroma of 3 or less. The difference in chroma between the upper and lower part of the Ae is less than 1.
+These soils have a Bt horizon and lack a Bf horizon.
+Distinct mottling indicative of gleying does not occur within 50 cm of the mineral surface, and prominent mottling does not occur at depths of 50-100 cm.
+</string>
+			</array>
+			<key>BR.GBL</key>
+			<array>
+				<string>Brunisolic Gray Brown Luvisol</string>
+				<string>Common horizon sequence: Ah, Ae, Bm or Bf, Ae, Bt, BC, Ck
+
+These soils have the properties specified for the Luvisolic order and the Gray Brown Luvisol great group. They differ from Orthic Gray Brown Luvisols by having in the upper solum either a Bm horizon at least 5 cm thick with a chroma of 3 or more, or a Bf horizon less than 10 cm thick that does not extend below 15 cm. Such Bm or Bf horizons are thought to have developed in a former Ae horizon. If disturbance results in the Bm or Bf horizon being incorporated into the Ap, the disturbed soil is classified as an Orthic Gray Brown Luvisol.</string>
+			</array>
+			<key>PZ.GBL</key>
+			<array>
+				<string>Podzolic Gray Brown Luvisol</string>
+				<string>Common horizon sequence: LFH, Ah, Ae, Bf, Ae, Bt, BC, Ck
+
+These soils have the properties specified for the Luvisolic order and the Gray Brown Luvisol great group. They differ from Orthic Gray Brown Luvisols by having a Bf horizon at least 10 cm thick in the upper solum. These soils may or may not have an Ae horizon. The upper boundary of the Bt horizon must be within 50 cm of the mineral surface or the soil is classified in the Podzolic order. If disturbance results in the Bf horizon being incorporated into the Ap, the disturbed soil is classified as an Orthic Gray Brown Luvisol.
+
+</string>
+			</array>
+			<key>V.GBL</key>
+			<array>
+				<string>Vertic Gray Brown Luvisol</string>
+				<string>Ah, Ae, Bm or Bf, Bt, Bvj, Bss or Ckss, Ck
+
+These soils have the general properties specified for the Luvisolic order and the Gray Brown Luvisol great group. They may have any horizons in the upper solum common to other subgroups within the Gray Brown Luvisol great group. However, they differ from other subgroups by having properties indicative of intergrading to the Vertisolic order. Specifically, they have a slickenside horizon (Bss, Bkss, or Ckss), the upper boundary of which occurs within 1 m of the mineral surface. They may have a weak vertic horizon (Bvj).
+
+</string>
+			</array>
+			<key>GL.GBL</key>
+			<array>
+				<string>Gleyed Gray Brown Luvisol</string>
+				<string>Common horizon sequence: Ah, Aegj, Btgj, Ckg
+
+These soils have the properties specified for the Luvisolic order and the Gray Brown Luvisol great group. They differ from Orthic Gray Brown Luvisols by having either distinct mottles that indicate gleying within 50 cm of the mineral surface, or prominent mottles at depths of 50-100 cm. Commonly the matrix colors are of lower chroma than those of associated, well-drained soils. Gleyed Gray Brown Luvisols generally have thicker and darker Ah horizons than well-drained subgroups on similar parent materials. The color and textural differences between the Ae and Bt horizons are generally less marked in the gleyed than in the orthic subgroup.
+
+</string>
+			</array>
+			<key>GLBR.GBL</key>
+			<array>
+				<string>Gleyed Brunisolic Gray Brown Luvisol</string>
+				<string>Common horizon sequence: Ah, Bmgj, Aegj, Btgj, Ckg
+
+These soils have the properties specified for the Luvisolic order and the Gray Brown Luvisol great group. They differ from Brunisolic Gray Brown Luvisols by having either distinct mottles that indicate gleying within 50 cm of the mineral surface, or prominent mottles at depths of 50-100 cm.
+
+</string>
+			</array>
+			<key>GLPZ.GBL</key>
+			<array>
+				<string>Gleyed Podzolic Gray Brown Luvisol</string>
+				<string>Common horizon sequence: Ah, Ae, Bfgj, Aegj, Btgj, Ckg
+
+These soils have the properties specified for the Luvisolic order and the Gray Brown Luvisol great group. They differ from Podzolic Gray Brown Luvisols by having either distinct mottles that indicate gleying within 50 cm of the mineral surface, or prominent mottles at depths of 50-100 cm. Besides a forest-mull Ah horizon, they have a Bf horizon at least 10 cm thick and a gleyed Bt horizon of which the upper boundary is within 50 cm of the mineral surface.
+
+</string>
+			</array>
+			<key>GLV.GBL</key>
+			<array>
+				<string>Gleyed Vertic Gray Brown Luvisol</string>
+				<string>Common horizon sequence: Ah, Ae, Bmgj, or Bfgj, Btgj, Bgjvj, Bgjss or Ckgjss, Ckgj or Ckg
+
+These soils have the general properties specified for the Luvisolic order and the Gray Brown Luvisol great group. Also, they have properties that indicate intergrading to the Vertisolic order. Specifically, they have a slickenside horizon (Bgjss or Ckgjss), the upper boundary of which occurs within 1 m of the mineral surface. These soils may have a weak vertic horizon (Bgjvj). They differ from Vertic Gray Brown Luvisols by having either distinct mottles that indicate gleying within 50 cm of the mineral surface, or prominent mottles at depths of 50-100 cm.</string>
+			</array>
+		</dict>
+		<key>Gray</key>
+		<dict>
+		<key>Description</key>
+			<array><string>Soils of this great group have eluvial and Bt horizons as specified for the Luvisolic order. They usually have L, F, and H horizons and may have a degraded Ah or Abe horizon that resembles the upper A horizon of Dark Gray Chernozemic soils. Commonly below the Ae horizon they have an AB or BA horizon in which the ped surfaces are grayer than the interiors of peds. The solum of Gray Luvisols is generally slightly to moderately acid but may be strongly acid. The degree of base saturation (neutral salt extraction) is generally high. The parent materials are usually base saturated and commonly calcareous, but some Gray Luvisols have developed in acid materials.
+
+Gray Luvisols occur typically under boreal or mixed forest vegetation and in forest-grassland transition zones in a wide range of climatic areas. Their main area of occurrence is in the subhumid central to northern part of the Interior Plains, but they occur also in humid and perhumid areas of eastern Canada. In the latter climatic area, they occur mainly on medium- to fine-textured parent materials.
+
+Gray Luvisols have eluvial and Bt horizons. Their mean annual soil temperature is usually less than 8°C. If the soil moisture regime is subhumid, any dark-colored A horizon must satisfy one or more of the following conditions:
+
+1. It is not a chernozemic A.
+2. It is underlain by a thicker Ae horizon that extends to a depth greater than 15 cm below the mineral surface.
+3. It shows evidence of degradation (Ahe) and is underlain by an Ae horizon at least 5 cm thick below the Ahe or Ap horizon.
+The great group is divided into 14 subgroups based on the kind and sequence of horizons and evidence of gleying.</string></array>
+			<key>O.GL</key>
+			<array>
+				<string>Orthic Gray Luvisol</string>
+				<string>Common horizon sequence: LFH, Ae, AB, Bt, C or Ck
+
+These soils have the properties specified for the Luvisolic order and the Gray Luvisol great group. They have well-developed Ae and Bt horizons and usually have organic surface horizons. Faint mottling may occur immediately above or within the Bt horizon.
+
+Orthic Gray Luvisols are identified by the following properties:
+
+1. They have an Ae horizon with a chroma of less than 3 unless the chroma of the parent material is 4 or more.
+2. They have a Bt horizon.
+3. They lack a Bf horizon.
+4. They lack a fragipan.
+5. They may have a dark-colored, mineral-organic surface horizon (Ah or Ahe) less than 5 cm thick.
+6. They may have an Ap horizon, but its dry color value must be 5 or higher.
+7. Distinct mottling, that indicates gleying does not occur within 50 cm of the mineral surface. Prominent mottling does not occur at depths of 50-100 cm.
+</string>
+			</array>
+			<key>D.GL</key>
+			<array>
+				<string>Dark Gray Luvisol</string>
+				<string>Common horizon sequence: LFH, Ah or Ahe, Ae, Bt, C or Ck
+
+These soils have the properties specified for the Luvisolic order and the Gray Luvisol great group. They differ from Orthic Gray Luvisols by having an Ah or Ahe horizon 5 cm or more in thickness. These horizons generally have eluvial features, such as gray streaks or splotches when dry, or platy structure. In the case of disturbed soils, the dry color value of the Ap horizon is 3.5-5.0 and some of the Ae horizon remains below the Ap. The differentiation of Dark Gray Luvisols from Dark Gray Chernozemic soils was outlined previously in this chapter. Dark Gray Luvisols have a mean annual soil temperature less than 8°C. They may have a Btnj or a Bm horizon above the Bt horizon.
+
+</string>
+			</array>
+			<key>BR.GL</key>
+			<array>
+				<string>Brunisolic Gray Luvisol</string>
+				<string>Common horizon sequence: LFH, Bm or Bf, Ae, Bt, BC, C or Ck
+
+These soils have the properties specified for the Luvisolic order and the Gray Luvisol great group. They differ from Orthic Gray Luvisols by having in the upper solum, either a Bm horizon at least 5 cm thick with a chroma of 3 or more, or a Bf horizon less than 10 cm thick that does not extend below 15 cm. Such Bm or Bf horizons are thought to have developed in a former Ae horizon. These soils do not have a dark-colored Ah or Ahe horizon 5 cm or more in thickness.
+
+</string>
+			</array>
+			<key>PZ.GL</key>
+			<array>
+				<string>Podzolic Gray Luvisol</string>
+				<string>Common horizon sequence: LFH, Ae, Bf, Ae, Bt, BC, C or Ck
+
+These soils have the properties specified for the Luvisolic order and the Gray Luvisol great group. They differ from Orthic Gray Luvisols by having a Bf horizon at least 10 cm thick in the upper solum. They may also have a dark-colored Ah or Ahe horizon 5 cm or more in thickness. The upper boundary of the Bt horizon must be within 50 cm of the mineral surface or the soil is classified in the Podzolic order.</string>
+			</array>
+			<key>SZ.GL</key>
+			<array>
+				<string>Solonetzic Gray Luvisol</string>
+				<string>Common horizon sequence: LFH, Ae, AB, Btnj, BC, C or Csk
+
+These soils have the properties specified for the Luvisolic order and the Gray Luvisol great group. They differ from Orthic Gray Luvisols by having a Btnj horizon that indicates an intergrade to the Solonetzic order. The Btnj horizon usually has a harder consistence, more pronounced coatings on the prismatic or blocky peds, and a lower ratio of exchangeable Ca:Na than the Bt horizons of most Gray Luvisols. This subgroup is associated with saline parent materials. Solonetzic Gray Luvisols do not have an Ah or Ahe horizon 5 cm or more in thickness, and so the surface horizons do not meet the criteria for Dark Gray Luvisols.</string>
+			</array>
+			<key>FR.GL</key>
+			<array>
+				<string>Fragic Gray Luvisol</string>
+				<string>Common horizon sequence: LFH, Ahe, Ae, Bt, Btx or BCx, C
+
+These soils have the properties specified for the Luvisolic order and the Gray Luvisol great group. They differ from Orthic Gray Luvisols by having a fragipan either within or below the Bt horizon.</string>
+			</array>
+			<key>V.GL</key>
+			<array>
+				<string>Vertic Gray Luvisol</string>
+				<string>Common horizon sequence: LFH, Ah or Ahe, Ae, AB, Bt or Btnj, Btvj, Btss or Ckss, Ck
+
+These soils have the general properties specified for the Luvisolic order and the Gray Luvisol great group. They may have any horizons in the upper solum common to other subgroups within the Gray Luvisol great group. However, they differ from other subgroups by having properties that indicate intergrading to the Vertisolic order. Specifically, they have a slickenside horizon (Btss or Ckss), the upper boundary of which occurs within 1 m of the mineral surface. They may have a weak vertic horizon (Btvj).</string>
+			</array>
+			<key>GL.GL</key>
+			<array>
+				<string>Gleyed Gray Luvisol</string>
+				<string>Common horizon sequence: LFH, Ae, Btgj, Cg
+
+These soils have the properties specified for the Luvisolic order and the Gray Luvisol great group. They differ from Orthic Gray Luvisols by having either distinct mottles that indicate gleying within 50 cm of the mineral surface, or prominent mottles at depths of 50-100 cm. Commonly the matrix colors are of lower chroma than those of associated, well-drained soils.</string>
+			</array>
+			<key>GLD.GL</key>
+			<array>
+				<string>Gleyed Dark Gray Luvisol</string>
+				<string>Common horizon sequence: LFH, Ah or Ahe, Ae, Btgj, Cg or Ckg
+
+These soils have the properties specified for the Luvisolic order and the Gray Luvisol great group. They differ from Dark Gray Luvisols by having either distinct mottles that indicate gleying within 50 cm of the mineral surface, or prominent mottles at depths of 50-100 cm.
+
+</string>
+			</array>
+			<key>GLBR.GL</key>
+			<array>
+				<string>Gleyed Brunisolc Gray Luvisol</string>
+				<string>Common horizon sequence: LFH, Bm or Bf, Aegj, Btgj, BCgj, Cg
+
+These soils have the properties specified for the Luvisolic order and the Gray Luvisol great group. They differ from Brunisolic Gray Luvisols by having either distinct mottles that indicate gleying within 50 cm of the mineral surface, or prominent mottles at depths of 50-100 cm. They do not have Ah or Ahe horizons 5 cm or more in thickness.
+
+</string>
+			</array>
+			<key>GLPZ.GL</key>
+			<array>
+				<string>Gleyed Podzolic Gray Luvisol</string>
+				<string>Common horizon sequence: LFH, Ae, Bf, Aegj, Btgj, BCgj, Cg
+
+These soils have the properties specified for the Luvisolic order and the Gray Luvisol great group. They differ from Podzolic Gray Luvisols by having either distinct mottles that indicate gleying within 50 cm of the mineral surface, or prominent mottles at depths of 50-100 cm. They may have a dark-colored A horizon 5 cm or more in thickness.
+
+</string>
+			</array>
+			<key>GLSZ.GL</key>
+			<array>
+				<string>Gleyed Solonetzic Gray Luvisol</string>
+				<string>Common horizon sequence: LFH, Ae, ABgj, Btnjgj, Cgj or Csag
+
+These soils have the properties specified for the Luvisolic order and the Gray Luvisol great group. They differ from Solonetzic Gray Luvisols by having either distinct mottles that indicate gleying within 50 cm of the mineral surface, or prominent mottles at depths of 50-100 cm. They do not have an Ah or Ahe horizon 5 cm or more in thickness.
+
+</string>
+			</array>
+			<key>GLFR.GL</key>
+			<array>
+				<string>Gleyed Fragic Gray Luvisol</string>
+				<string>Common horizon sequence: LFH, Ahe, Aegj, Btgj, Btxgj, or BCxg, Cg
+
+These soils have the properties specified for the Luvisolic order and the Gray Luvisol great group. They differ from Fragic Gray Luvisols by having either distinct mottles that indicate gleying within 50 cm of the mineral surface, or prominent mottles at depths of 50-100 cm. They may have a dark-colored A horizon 5 cm or more in thickness.
+
+</string>
+			</array>
+			<key>GLV.GL</key>
+			<array>
+				<string>Gleyed Vertic Gray Luvisol</string>
+				<string>Common horizon sequence: LFH, Ah or Ahe, Ae, AB, Btgj, or Btnjgj, Btgjvj, Btgjss or Ckgjss, Ckgj or Ckg
+
+These soils have the general properties specified for the Luvisolic order and the Gray Luvisol great group. They also have properties that indicate intergrading to the Vertisolic order. Specifically, they have a slickenside horizon (Btgjss or Ckgjss), the upper boundary of which occurs within 1 m of the mineral surface. These soils may have a weak Vertic horizon (Btgjvj). They differ from Vertic Gray Luvisols by having either distinct mottles that indicate gleying within 50 cm of the mineral surface, or prominent mottles at depths of 50-100 cm.</string>
+			</array>
+		</dict>
+	</dict>
+	<key>Organic Order</key>
+	<dict>
+	<key>Fibrisol</key>
+	<dict>
+	<key>Description</key>
+	<array><string>Soils of this great group are composed largely of relatively undecomposed fibric organic material. Fibric material is usually classified on the von Post scale of decomposition as classes 1-4. Fibrisols occur extensively in Canada, particularly in peat deposits dominated by sphagnum mosses.
+
+Fibrisols have a dominantly fibric middle tier, or middle and surface tiers if a terric, lithic, or hydric contact occurs in the middle tier. Fibric material is the least decomposed type of organic material. It contains large amounts of well-preserved fiber that is retained on a 100-mesh sieve (0.15 mm) and can be identified as to botanical origin. A fibric horizon has 40% or more of rubbed fiber by volume and a pyrophosphate index of 5 or more (see Chapter 2, Organic horizons, Of). If the rubbed fiber volume is 75% or more, the pyrophosphate criterion does not apply. Dominantly fibric means that fibric material is the most abundant type of organic material. If both fibric and mesic layers occur in the middle tier, the tier is dominantly fibric if more than half of its thickness is composed of fibric material. If fibric, mesic, and humic layers are present in the middle tier, it is dominantly fibric if the thickness of fibric layers is greater than that of either mesic or humic layers. Subdominant in the following definitions means next in abundance to the dominant material but the layer must not be less than 12 cm in thickness if sharply contrasting (Of vs. Oh), or 25 cm in thickness if not sharply contrasting (Om vs. Of or Oh).</string></array>
+	<key>TY.F</key><array><string>Typic Fibrisol</string><string>Common horizon sequence: Of or Om, Of
+
+Soils of this subgroup have the general properties specified for the Organic order and the Fibrisol great group. They are composed mainly of fibric material that is commonly derived mainly from mosses.
+
+These soils are identified by the following properties:
+
+If present, the middle and bottom tiers are dominantly fibric. A lithic contact may occur.
+They have neither subdominant humic layers with a total thickness of greater than 12 cm or subdominant mesic layers with a total thickness greater than 25 cm in the middle and bottom tier, or in the middle and surface tiers if a lithic contact occurs in the middle tier.
+The middle tier lacks terric, hydric, cumulic, and limnic layers.</string></array>
+<key>ME.F</key><array><string>Mesic Fibrisol</string><string>Common horizon sequence: Of or Om, Of, Om, Of
+
+Soils of this subgroup have the general properties specified for the Organic order and the Fibrisol great group. They differ from Typic Fibrisols by having a subdominant mesic layer (thicker than 25 cm) in the middle or bottom tier. The control section lacks terric, hydric, cumulic, or limnic layers.
+
+</string></array>
+<key>HU.F</key><array><string>Humic Fibrisol</string><string>Common horizon sequence: Of, Om or Oh, Of, Oh, Of or Om
+
+Soils of this subgroup have the general properties specified for the Organic order and the Fibrisol great group. They differ from Typic Fibrisols by having a subdominant humic layer thicker than 12 cm in the middle	or bottom tier. They may also have a subdominant mesic layer. The control section lacks terric, hydric, cumulic, and limnic layers.
+
+</string></array>
+<key>LM.F</key><array><string>Limnic Fibrisol</string><string>Common horizon sequence: Of or Om, Of, Oco
+
+Soils of this subgroup have the general properties specified for the Organic order and the Fibrisol great group. They differ from Typic Fibrisols by having a limnic layer beneath the surface tier. A limnic layer is a layer or layers at least 5 cm thick of coprogenous earth (sedimentary peat), diatomaceous earth, or marl. Limnic materials include both organic and inorganic materials either deposited in water by precipitation or by the action of aquatic organisms such as algae and including diatoms, or derived from underwater and floating aquatic plants subsequently modified by aquatic animals. Except for some of the coprogenous earths, most of these limnic materials are inorganic. Diatomaceous earth is highly siliceous and marl is mainly CaCO3. Limnic Fibrisols may have mesic, humic, or cumulic layers but do not have terric or hydric layers.
+
+</string></array>
+<key>CU.F</key><array><string>Cumulic Fibrisol</string><string>Common horizon sequence: Of or Om, Of, C, Of
+
+Soils of this subgroup have the general properties specified for the Organic order and the Fibrisol great group. They differ from Typic Fibrisols by having a cumulic layer beneath the surface tier. They may have mesic or humic layers but lack terric, hydric, and limnic layers. A cumulic layer consists either of multiple layers of mineral material (alluvium) that together are more than 5 cm thick, or of one layer 5-30 cm thick.</string></array>
+<key>T.F</key><array><string>Terric Fibrisol</string><string>Common horizon sequence: Of or Om, Of, C
+
+Soils of this subgroup have the general properties specified for the Organic order and the Fibrisol great group. They differ from Typic Fibrisols by having a terric layer (an unconsolidated mineral layer at least 30 cm thick) beneath the surface tier. They may also have cumulic or limnic layers but do not have mesic, humic, or hydric layers within the control section.</string></array>
+<key>TME.F</key><array><string>Terric Mesic Fibrisol</string><string>Common horizon sequence: Of or Om, Of, Om, C
+
+Soils of this subgroup have the general properties specified for the Organic order and the Fibrisol great group. They differ from Typic Fibrisols by having both a terric layer beneath the surface tier and a subdominant mesic layer thicker than 25 cm in the control section. They may also have cumulic or limnic layers but lack humic and hydric layers.
+
+</string></array>
+<key>THU.F</key><array><string>Terric Humic Fibrisol</string><string>Common horizon sequence: Of or Om, Of, Oh, C
+
+Soils of this subgroup have the general properties specified for the Organic order and the Fibrisol great group. They differ from Typic Fibrisols by having both a terric layer beneath the surface tier and a subdominant humic layer thicker than 12 cm in the control section. They may also have mesic, cumulic, or limnic layers but lack a hydric layer.
+
+</string></array>
+<key>HY.F</key><array><string>Hydric Fibrisol</string><string>Common horizon sequence: Of or Om, Of, W
+
+Soils of this subgroup have the general properties specified for the Organic order and the Fibrisol great group. They differ from Typic Fibrisols by having a hydric layer (a layer of water that extends from a depth of not less than 40 cm to a depth of more than 1.6 m). They may also have mesic, humic, cumulic, terric, or limnic layers.
+
+</string></array>
+</dict>
+<key>Mesisol</key>
+<dict>
+<key>Description</key>
+	<array><string>Soils of this great group are at a stage of decomposition intermediate between Fibrisols and Humisols. Mesisols have a dominantly mesic middle tier or middle and surface tiers if a terric, lithic, or hydric contact occurs in the middle tier. A mesic layer is an organic layer that fails to meet the requirements of either a fibric or a humic layer. Thus it has a rubbed fiber content ranging from 10% to less than 4070 by volume and has a pyrophosphate index of &gt;3 and &lt;5. Mesic material is usually classified on the van Post scale of decomposition as class 5 or 6.</string></array>
+<key>TY.M</key><array><string>Typic Mesisol</string><string>Common horizon sequence: Of, Om or Oh, Om
+
+Soils of this subgroup have the general properties specified for the Organic order and the Mesisol great group. They are composed mainly of organic materials at an intermediate stage of decomposition.
+
+They are identified by the following properties:
+
+If present, the middle and bottom tiers are dominantly mesic. A lithic contact may occur.
+These soils do not have terric, hydric, cumulic, or limnic layers within the middle tier.
+They lack subdominant humic or fibric layers with a total thickness greater than 25 cm in the middle and bottom tiers or in the middle and surface tiers if a lithic contact occurs in the middle tier.</string></array>
+<key>FI.M</key><array><string>Fibric Mesisol</string><string>Common horizon sequence: Of, Om or Oh, Om, Of, Om
+
+Soils of this subgroup have the general properties specified for the Organic order and the Mesisol great group. They differ from Typic Mesisols by having a subdominant fibric layer thicker than 25 cm in the middle or bottom tiers. These soils do not have a subdominant humic layer thicker than 25 cm.
+
+</string></array>
+<key>HU.M</key><array><string>Humic Mesisol</string><string>Common horizon sequence: Of, Om or Oh, Om, Oh, Om
+
+Soils of this subgroup have the general properties specified for the Organic order and the Mesisol great group. They differ from Typic Mesisols by having a subdominant humic layer thicker than 25 cm in the middle or bottom tiers. They may also have a subdominant fibric layer.
+
+</string></array>
+<key>LM.M</key><array><string>Limnic Mesisol</string><string>Common horizon sequence: Of, Om or Oh, Om, Oco, Om
+
+Soils of this subgroup have the general properties specified for the Organic order and the Mesisol great group. They differ from Typic Mesisols by having a limnic layer beneath the surface tier. A limnic layer is a layer or layers at least 5 cm thick of coprogenous earth (sedimentary peat), diatomaceous earth, or marl. Also they may have fibric, humic, and cumulic layers but do not have terric or hydric layers.</string></array>
+<key>CU.M</key><array><string>Cumulic Mesisol</string><string>Common horizon sequence: Of, Om or Oh, Om, C, Om
+
+Soils of this subgroup have the general properties specified for the Organic order and the Mesisol great group. They differ from Typic Mesisols by having a cumulic layer beneath the surface tier. They may also have fibric or humic layers but lack terric, hydric, and limnic layers. A cumulic layer consists either of multiple layers of mineral material (alluvium) that together are more than 5 cm thick, or of one layer 5-30 cm thick.</string></array>
+<key>T.M</key><array><string>Terric Mesisol</string><string>Common horizon sequence: Of, Om or Oh, Om, C, Om
+
+Soils of this subgroup have the general properties specified for the Organic order and the Mesisol great group. They differ from Typic Mesisols by having a terric layer (an unconsolidated mineral layer at least 30 cm thick) beneath the surface tier. They may also have cumulic or limnic layers, but they do not have fibric, humic, or hydric layers within the control section.</string></array>
+<key>TFI.M</key><array><string>Terric Fibric Mesisol</string><string>Common horizon sequence: Of, Om or Oh, Om , Of, C, Om
+
+Soils of this subgroup have the general properties specified for the Organic order and the Mesisol great group. They differ from Typic Mesisols by having both a terric layer (an unconsolidated mineral layer at least 30 cm thick) beneath the surface tier and a subdominant fibric layer thicker than 25 cm in the control section. These soils may also have cumulic and limnic layers but lack humic and hydric layers.</string></array>
+<key>THU.M</key><array><string>Terric Humic Mesisol</string><string>Common horizon sequence: Of, Om or Oh, Om, Oh, C, Om
+
+Soils of this subgroup have the general properties specified for the Organic order and the Mesisol great group. They differ from Typic Mesisols by having both a terric layer (an unconsolidated mineral layer at least 30 cm thick) beneath the surface tier and a subdominant humic layer thicker than 25 cm within the control section. These soils may also have fibric, cumulic, or limnic layers but lack a hydric layer.</string></array>
+<key>HY.M</key><array><string>Hydric Mesisiol</string><string>Common horizon sequence: Of, Om or Oh, Om, W
+
+Soils of this subgroup have the general properties specified for the Organic order and the Mesisol great group. They differ from Typic Mesisols by having a hydric layer (a layer of water that extends from a depth of not less than 40 cm to a depth of more than 1.6 m). These soils may also have fibric, humic, cumulic, terric, or limnic layers.
+
+</string></array>
+</dict>
+<key>Humisol</key>
+<dict>
+<key>Description</key>
+	<array><string>Soils of this great group are at the most advanced stage of decomposition of the great groups of Organic soils. Most of the material is humified with few recognizable fibers. Humisols have a dominantly humic middle tier or middle and surface tiers if a terric, lithic, or hydric contact occurs in the middle tier. A humic layer is an organic layer having less than 10% rubbed fiber by volume and a pyrophosphate index of 3 or less. It has a higher bulk density, usually &gt;0.195 Mg m-3, and a lower water-holding capacity than fibric or mesic layers. Humic material usually is classified on the von Post scale of decomposition as class 7 or higher and rarely in class 6.
+
+Only minor areas of Humisols are known to occur in Canada.</string></array>
+<key>TY.H</key><array><string>Typic Humisol</string><string>Common horizon sequence: Om or Oh, Oh
+
+Soils of this subgroup have the general properties specified for the Organic order and the Humisol great group. They are composed dominantly of well-decomposed organic materials. They are identified by the following properties:
+
+The middle and bottom tiers, if present, are dominantly humic. A lithic contact may occur.
+They do not have terric, hydric, cumulic, or limnic layers within the middle tier.
+They have neither subdominant fibric layers with a total thickness greater than 12 cm nor subdominant mesic layers with a total thickness greater than 25 cm in the middle or bottom tiers (or in the middle and surface tiers if a lithic contact occurs in the middle tier).
+</string></array>
+<key>FI.H</key><array><string>Fibric Humisol</string><string>Common horizon sequence: Om or Oh, Oh, Of, Oh
+
+Soils of this subgroup have the general properties specified for the Organic order and Humisol great group. They differ from Typic Humisols by having a subdominant fibric layer thicker than 12 cm in the middle or bottom tiers. They may also have a subdominant mesic layer.</string></array>
+<key>ME.H</key><array><string>Mesic Humisol</string><string>Common horizon sequence: Om or Oh, Oh, Om, Oh
+
+Soils of this subgroup have the general properties specified for the Organic order and the Humisol great group. They differ from Typic Humisols by having a subdominant mesic layer thicker than 25 cm in the middle or bottom tiers. They lack a subdominant fibric layer below the surface tier.
+
+</string></array>
+<key>LM.H</key><array><string>Limnic Humisol</string><string>Common horizon sequence: Om or Oh, Oh, Oco, Oh
+
+Soils of this subgroup have the general properties specified for the Organic order and the Humisol great group. They differ from Typic Humisols by having a limnic layer beneath the surface tier. A limnic layer is a layer or layers at least 5 cm thick of coprogenous earth (sedimentary peat), diatomaceous earth, or marl. They may also have fibric, mesic and cumulic layers but do not have terric or hydric layers.</string></array>
+<key>CU.H</key><array><string>Cumulic Humisol</string><string>Common horizon sequence: Om or Oh, Oh, C, Oh
+
+Soils of this subgroup have the general properties specified for the Organic order and the Humisol great group. They differ from Typic Humisols by having a cumulic layer beneath the surface tier. Also they may have fibric or mesic layers but lack terric, hydric, and limnic layers. A cumulic layer consists either of multiple layers of mineral material (alluvium) that together are more than 5 cm thick, or of one layer 5-30 cm thick.</string></array>
+<key>T.H</key><array><string>Terric Humisol</string><string>Common horizon sequence: Om or Oh, Oh, C, Oh
+
+Soils of this subgroup have the general properties specified for the Organic order and the Humisol great group. They differ from Typic Humisols by having a terric layer (an unconsolidated mineral layer at least 30 cm thick) beneath the surface tier. They may also have cumulic or limnic layers but do not have fibric, mesic or hydric layers within the control section.</string></array>
+<key>TFI.H</key><array><string>Terric Fibric Humisol</string><string>Common horizon sequence: Of or Oh, Oh, Of, C, Oh
+
+Soils of this subgroup have the general properties specified for the Organic order and the Humisol great group. They differ from Typic Humisols by having both a terric layer (an unconsolidated mineral layer at least 30 cm thick) beneath the surface tier and a subdominant fibric layer thicker than 12 cm within the control section. They may also have mesic, cumulic or limnic layers but lack a hydric layer.</string></array>
+<key>TME.H</key><array><string>Terric Mesic Humisol</string><string>Common horizon sequence: Om or Oh, Oh, Om, C, Oh
+
+Soils of this subgroup have the general properties specified for the Organic order and the Humisol great group. They differ from Typic Humisols by having both a terric layer (an unconsolidated mineral layer at least 30 cm thick) beneath the surface tier and a subdominant mesic layer thicker than 25 cm within the control section. These soils may also have cumulic or limnic layers but lack a subdominant fibric or hydric layer.</string></array>
+<key>HY.H</key><array><string>Hydric Humisol</string><string>Common horizon sequence: Om or Oh, Oh, W
+
+Soils of this subgroup have the general properties specified for the Organic order and the Humisol great group. They differ from Typic Humisols by having a hydric layer. These soils may also have fibric, mesic, humic, cumulic, terric, or limnic layers. A hydric layer is a layer of water that extends from a depth of not less than 40 cm to a depth of more than 160 cm.</string></array>
+</dict>
+<key>Folisol</key>
+<dict>
+<key>Description</key>
+	<array><string>Soils of the Folisol great group are composed of upland organic (folic) materials, generally of forest origin, that are either 40 cm or more in thickness, or are at least 10 cm thick if overlying bedrock or fragmental material. Deep Folisols (greater than 40 cm of folic material) occur frequently in cool, moist, and humid forest ecosystems, particularly on the West Coast of Canada. They also develop in northern regions where soil temperatures are low, but the soil is without permafrost. Shallow Folisols are found throughout Canada and commonly occur on upper slope shedding positions over bedrock and on, or incorporated in, fragmental or skeletal material.
+
+Folic materials are formed under ecosystems different from those of peat materials. Folic materials are the product of upland ecosystem development, whereas peat materials are the product of wetland development.
+
+Folisols are well to imperfectly drained, although they may become saturated after rainfall or snowmelt. They contain organic C at a level of &gt;17% (about 30% or more Organic matter) by weight in diagnostic horizons. Folic materials qualify as Folisols if they meet the following criteria:
+
+1. Folic material is 40 cm or more in depth; or
+2. Folic material is 10 cm or more in depth if directly overlying a lithic contact.or fragmental material, or if occupying voids in fragmental or skeletal material; or
+3. Folic material is more than twice the thickness of a mineral soil layer if the mineral layer is less than 20 cm thick.
+Folic materials containing permafrost at depths of 1 m or less are classified as Cryosolic soils.
+
+The Folisol great group is divided into four subgroups, based on the degree of decomposition of the folic material (as distinguished by the diagnostic F and H soil horizons) or on the type of organic materials in the control section, or on both. Layers or pockets of decaying wood may be designated as an F or an H</string></array>
+<key>HE.FO</key><array><string>Hemic Folisol</string><string>Common horizon sequence: L, F, H, O, R, (M1)
+
+Soils of this subgroup are composed dominantly of the moderately decomposed F horizon in the control section and may have subdominant H and O horizons, each less than 10 cm thick. They commonly have a lithic contact or fragmental layers but meet the requirements of the Folisol great group. The F horizon consists of partly decomposed folic material generally derived from mosses, leaves, twigs, reproductive structures, and woody materials containing numerous live and dead roots.
+
+Hemic Folisols usually occur on upper slope shedding positions and commonly consist of shallow folic material over bedrock or fragmental material, or the folic materials may occupy voids in fragmental material. There may be a thin layer of mineral soil separating the folic horizon from bedrock or from the fragmental material.
+
+</string></array>
+<key>HU.FO</key><array><string>Humic Folisol</string><string>Common horizon sequence: L, F, H, O, R, (M1)
+
+Soils of this subgroup are composed dominantly of the well-decomposed H horizon in the control section and may have subdominant F and O horizons each less than 10 cm thick. A lithic contact, fragmental, or mineral layers may be common in the control section, but the soils meet the requirements for the Folisol great group.
+
+Humic Folisols occur most frequently in cool, moist, humid forest ecosystems. Although they occur in many landscape positions, they commonly develop on lower slopes and in valley bottoms. Rooting channels and other voids are common in these soils.</string></array>
+<key>LI.FO</key><array><string>Lignic Folisol</string><string>Common horizon sequence: L, F, H, R, (M1)
+
+Soils of this subgroup are dominated by F or H horizons, which are composed primarily of moderately to well-decomposed woody materials. These materials occupy more than 30% of the surface area of the F and H horizons. The decaying wood that makes up the F and H horizons generally consists of trees that have been blown down. The destruction of trees is either a continuing process in unevenly aged forests or occurs at periodic intervals as a result of major storms, which create evenly aged forest stands. Lignic Folisols also occur in a second-growth forest as a result of logging.</string></array>
+<key>HI.FO</key><array><string>Histic Folisol</string><string>Common horizon sequence: L, F, H, O, R, (M1)
+
+Soils of this subgroup are dominated by F or H horizons and are directly underlain by a significant (greater than 10 cm) O horizon. Generally, saturation or high water tables (resulting from drainage impediment caused by mineral horizon cementation or localized bedrock configuration) initially encouraged the production of peat. Peat development subsequently became deep enough to produce surface conditions suitable for forest encroachment and Folisol development.
+
+</string></array>
+</dict>
+	</dict>
+	<key>Podzolic Order</key>
+	<dict>
+	<key>Humic</key>
+	<dict>
+	<key>Description</key><array><string>These soils have a dark-colored podzolic B horizon that contains very little extractable Fe. They occur typically in wet sites so that they are saturated with water during some periods of the year. Characteristically they occur under heath, forest and heath, sphagnum, or western coastal forest vegetation in maritime fringe environments, on some sites at high elevations inland, and in peaty depressions. Under virgin conditions Humic Podzols usually have thick L, F, and H or O horizons underlain by a light-colored eluvial horizon (Ae), an eluvial horizon darkened by humic material, or by a podzolic B horizon, which is usually a Bh. The B horizon may include several kinds of podzolic B subhorizons: Bh, Bhf, and Bf, which may be cemented (ortstein, placic) or friable. The material below the podzolic B horizon may be cemented (duric), compact and brittle (fragipan), or friable.
+
+Humic Podzols have a Bh horizon at least 10 cm thick that usually occurs at the top of the B horizon but may occur below other B horizons. The Bh horizon contains more than 1% organic C and less than 0.3% pyrophosphate-extractable Fe and has a ratio of organic C to pyrophosphate-extractable Fe of 20 or more.
+
+Humic Podzols are generally strongly acid and their B horizons are usually less than 50% base saturated (neutral salt). The pH dependent CEC of the Bh horizon is usually well above 8 cmol kg-1.
+
+Under disturbed conditions and where the Bh horizon directly underlies the organic surface layer, the Bh may be confused with an Ah horizon. The guidelines that aid in making this distinction are that more than 50% of the organic C of Bh horizons is extractable by NaOH-Na4P2O7 and more than 50% of the extractable C of Bh horizons is fulvic acid carbon. Cultivated Humic Podzols are identified by properties of the B horizon below the cultivated layer.
+
+Distinguishing Bh from Bhf horizons may be a problem in the field. The follow</string></array>
+	<key>O.HP</key><array><string>Orthic Humic Podzol</string><string>Common horizon sequence: O or LFH, Ae, Bh, Bfgj, BCgj, Cg
+
+These soils have the general properties specified for the Podzolic order and the Humic Podzol great group. They are identified by the following properties:
+
+They have a Bh horizon at least 10 cm thick.
+They do not have an ortstein horizon at least 3 cm thick, a placic horizon, a duric horizon, or a fragipan.
+Usually Orthic Humic Podzols have L, F, and H or O horizons and an Ae horizon. Commonly they have a Bhf or Bf horizon underlying the Bh horizons. They may have mottling that indicates gleying at any depth within the control section. Parts of the Bhf or Bf may be cemented but do not meet the requirements of an ortstein horizon.
+
+</string></array>
+<key>OT.HP</key><array><string>Orstein Humic Podzol</string><string>Common horizon sequence: LFH or O, Ae, Bh or Bhc, Bfc, Cgj
+
+These soils have the general properties specified for the Podzolic order and the Humic Podzol great group. They differ from Orthic Humic Podzols by having an ortstein horizon at least 3 cm thick. An ortstein horizon is a Bh, Bhf, or Bf horizon that is strongly cemented and occurs in at least one-third of the lateral extent of the pedon. The ortstein horizon is designated as Bhc, Bhfc, or Bfc depending upon its organic C and extractable Fe content. Ortstein horizons are generally reddish brown to very dark reddish brown in color. Usually Ortstein Humic Podzols have L, F, and H or O horizons and an Ae horizon. They may have mottling that indicates gleying at any depth within the control section and placic or duric horizons or a fragipan.</string></array>
+<key>P.HP</key><array><string>Placic Humic Podzol</string><string>Common horizon sequence: LFH or O, Ae, Bh, Bhfc or Bfc, BCgj, Cgj
+
+These soils have the general properties specified for the Podzolic order and the Humic Podzol great group. They differ from Orthic Humic Podzols by having a placic horizon within the control section. A placic horizon (Bhfc, Bfc, Bfgc) consists of a single thin layer that is commonly 5 mm or less in thickness, or a series of thin layers that are irregular or involute, hard, impervious, often vitreous, and dark reddish brown to black in color. These thin horizons are apparently cemented by Fe-organic complexes, hydrated Fe oxides, or a mixture of Fe and Mn oxides. The placic horizon or thin iron pan may occur in any part of the B horizon except the Bh, and commonly it extends into the BC horizon.
+
+Placic Humic Podzols usually have L, F, and H or O horizons and an Ae horizon. They do not have an ortstein horizon but may have a duric horizon or a fragipan. Evidence of gleying in the form of dull colors or mottling Is commonly apparent especially above depressions in the placic horizon. These soils occur most commonly in wet sites in maritime regions; frequently the surface is peaty.</string></array>
+<key>DU.HP</key><array><string>Duric Humic Podzol</string><string>Common horizon sequence: LFH or O, Ae, Bh, Bhf, BCc, Cgj
+
+These soils have the general properties specified for the Podzolic order and the Humic Podzol great group. They differ from Orthic Humic Podzols by having a duric horizon within the control section. A duric horizon is a strongly cemented horizon that does not satisfy the criteria of a podzolic B horizon. It usually has an abrupt upper boundary to an overlying podzolic B horizon and a diffuse lower boundary at least 50 cm below. Cementation is usually strongest near the upper boundary, which occurs commonly at a depth of 40-80 cm from the mineral surface. Usually the color of a duric horizon differs little from that of the parent material, and the structure is usually massive or very coarse platy. Moist clods at least 3 cm thick usually cannot be broken in the hands. Air-dry clods of the material do not slake when immersed in water. Some duric horizons may meet the requirements of a Bt horizon (Btc).
+
+Duric Humic Podzols usually have L, F and H or O horizons. They have neither an ortstein nor a placic horizon but may have mottles that indicate gleying in some part of the control section.</string></array>
+<key>FR.HP</key><array><string>Fragic Humic Podzol</string><string>Common horizon sequence: LFH or O, Ae, Bh, Bf, BCxgj, Cgj
+
+These soils have the general properties specified for the Podzolic order and the Humic Podzol great group. They differ from Orthic Humic Podzols by having a fragipan within the control section. A fragipan (Bx or BCx) is a subsurface horizon of high bulk density that has firm and brittle consistence when moist and hard to extremely hard consistence when dry. Usually it is of medium texture. Commonly it has bleached fracture planes separating very coarse prismatic units and the secondary structure is platy. Usually the fragipan is similar in color to the parent material, but it differs in structure and consistence and sometimes in bulk density. The upper boundary of a fragipan is usually either abrupt or clear, but the lower boundary is usually diffuse. Commonly it is necessary to dig to about 3 m to expose clearly the material beneath the lower boundary of the fragipan. Air-dry clods of fragipans slake in water. A fragipan may have clay skins and meet the limits of a Bt horizon (Btx).
+
+Fragic Humic Podzols usually have L, F, and H or O horizons and an Ae horizon. They do not have ortstein, placic, or duric horizons but may have mottles that indicate gleying at some depth within the control section.</string></array>
+</dict>
+<key>Ferro-Humic</key>
+	<dict>
+	<key>Description</key><array><string>These soils have a dark-colored podzolic B horizon with a high content of organic C and an appreciable amount of extractable Fe and Al. They occur typically in the more humid part of the region of Podzolic soils under forest vegetation, or forest with heath or moss undercover. Under virgin conditions these soils usually have thick L, F, and H or O horizons; they may have an Ah horizon and usually have a light-colored Ae horizon. The podzolic B horizon is usually thick and dark reddish brown in the upper part and grades to lighter colors of higher chroma with depth. Typically the Bhf horizon is of higher chroma (commonly 2, 3, or 4) than the Bh horizon of Humic Podzols (commonly 1 or 2). The material below the podzolic B horizon may be cemented (duric), compact and brittle (fragipan), or friable.
+
+Ferro-Humic Podzols have a Bhf horizon at least 10 cm thick and lack a Bh horizon at least 10 cm thick. The Bhf horizon contains 5% or more organic C and 0.6% or more pyrophosphate-extractable Fe+Al (0.4% for sands). It has a ratio of organic C to pyrophosphate-extractable Fe of less than 20, or has 0.3% or more pyrophosphate-extractable Fe, or both.
+
+Ferro-Humic Podzols are generally both strongly acid and less than 50% base saturated (neutral salt). The pH-dependent CEC of the Bhf horizon is usually well above 8 cmol kg-1 and is commonly 25 cmol kg-1 or more. The Bhf horizon of these soils usually has a markedly silty feel when rubbed moist, which is presumably because of its high content of amorphous material.
+
+Ferro-Humic Podzols are divided into ten subgroups based on the kind and sequence of horizons. Gleyed subgroups are not differentiated for those soils having a relatively impermeable subsoil horizon (placic, duric, fragic, Bt). A Gleyed Ortstein subgroup is included because some ortstein horizons are permeable to water and do not result in temporary gleying.</string></array>
+<key>O.FHP</key><array><string>Orthic Ferro-Humic Podzol</string><string>Common horizon sequence: LFH or O, Ae, Bhf, Bf, BC, C
+
+These soils have the general properties specified for the Podzolic order and the Ferro-Humic Podzol great group. They are identified by the following properties:
+
+They have a Bhf horizon at least 10 cm thick.
+They do not have a Bh horizon at least 10 cm thick, an ortstein horizon at least 3 cm thick, a placic horizon, a duric horizon, a fragipan, a Bt horizon, an Ah horizon at least 10 cm thick, or evidence of gleying in the form of distinct or prominent mottling within 1 m of the surface.
+Usually Orthic Ferro-Humic Podzols have L, F, and H or O horizons and an Ae horizon. Commonly they have a Bf horizon underlying the Bhf. Parts of the Bhf or Bf may be cemented but do not meet the requirements of an ortstein horizon.</string></array>
+<key>OT.FHP</key><array><string>Orstein Ferro-Humic Podzol</string><string>Common horizon sequence: LFH or O, Ae, Bhf, Bhfc or Bfc, BC, C
+
+These soils have the general properties specified for the Podzolic order and the Ferro-Humic Podzol great group. They differ from Orthic Ferro-Humic Podzols by having an ortstein horizon at least 3 cm thick. An ortstein horizon is a Bh, Bhf, or Bf horizon that is strongly cemented and occurs in at least one-third of the lateral extent of the pedon. The ortstein horizon in this subgroup is designated as Bhfc or Bfc depending upon its organic C content and is generally reddish brown to very dark reddish brown in color. Usually Ortstein Ferro-Humic Podzols have L, F, and H or O horizons and an Ae horizon. They may have one or more of placic, duric, Ah, or Bt horizons, a fragipan, or faint mottling.
+
+</string></array>
+<key>P.FHP</key><array><string>Placic Ferro-Humic Podzol</string><string>Common horizon sequence: LFH or O, Ae, Bhf, Bhfc or Bfc, Bf, BC, C
+
+These soils have the general properties specified for the Podzolic order and the Ferro-Humic Podzol great group. They differ from Orthic Ferro-Humic Podzols by having a placic horizon within the control section. A placic horizon (Bhfc, Bfc, Bfgc) consists of a single thin layer (commonly 5 mm or less thick) or a series of thin layers that are irregular or involute, hard, impervious, often vitreous, and dark reddish brown to black. These thin horizons are apparently cemented by Fe-organic complexes, hydrated Fe oxides, or a mixture of Fe and Mn oxides. The placic horizon, or thin iron pan, may occur in any part of the B horizon and commonly extends into the BC horizon.
+
+Placic Ferro-Humic Podzols usually have L, F, and H or O horizons and an Ae horizon. They do not have an ortstein horizon but may have a duric, Ah, or Bt horizon, or a fragipan. Evidence of gleying in the form of dull colors or mottling is commonly apparent especially above depressions in the placic horizon. These soils occur most commonly in coarse textured deposits in perhumid maritime climates.</string></array>
+<key>DU.FHP</key><array><string>Duric Ferro-Humic Podzol</string><string>Common horizon sequence: LFH or O, Ae, Bhf, BCc, C
+
+These soils have the general properties specified for the Podzolic order and the Ferro-Humic Podzol great group. They differ from Orthic Ferro-Humic Podzols by having a duric horizon within the control section. A duric horizon is a strongly cemented horizon that does not satisfy the criteria of a podzolic B horizon. It usually has an abrupt upper boundary to an overlying podzolic B horizon and a diffuse lower boundary at least 50 cm below. Cementation is usually strongest near the upper boundary, which occurs commonly at a depth of 40-80 cm from the mineral surface. Usually the color of a duric horizon differs little from that of the parent material. As well the structure is usually massive or very coarse platy. Moist clods at least 3 cm thick usually cannot be broken in the hands. Air-dry clods of the material do not slake when immersed in water. Some duric horizons may meet the requirements of a Bt horizon (Btc).
+
+Duric Ferro-Humic Podzols usually have L, F, and H or O horizons. They do not have an ortstein or a placic horizon but may have an Ah horizon and mottles that indicate gleying in some part of the control section. These soils occur most commonly in coastal southwestern British Columbia.
+
+</string></array>
+<key>FR.FHP</key><array><string>Fragic Ferro-Humic Podzol</string><string>Common horizon sequence: LFH or O, Ae, Bhf, Bf, BCx, C
+
+These soils have the general properties specified for the Podzolic order and the Ferro-Humic Podzol great group. They differ from Orthic Ferro-Humic Podzols by having a fragipan within the control section. A fragipan (Bx or BCx) is a subsurface horizon of high bulk density that has firm and brittle consistence when moist and hard to extremely hard consistence when dry. Usually it is of medium texture. Commonly it has bleached fracture planes separating very coarse prismatic units and the secondary structure is platy. The fragipan is usually similar in color to the parent material, but it differs in structure and consistence and sometimes in bulk density. The upper boundary of a fragipan is usually either abrupt or clear, but the lower boundary is usually diffuse. It is often necessary to dig to about 3 m to expose clearly the material beneath the lower boundary of the fragipan. Air-dry clods of fragipans slake in water. A fragipan may have clay skins and meet the limits of a Bt horizon (Btx).
+
+Fragic Ferro-Humic Podzols usually have L, F, and H or O horizons and an Ae horizon. They do not have ortstein, placic, or duric horizons but may have an Ah horizon and mottles that indicate gleying at some depth within the control section.</string></array>
+<key>LU.FHP</key><array><string>Luvisolic Ferro-Humic Podzol</string><string>Common horizon sequence: LFH or O, Ae, Bhf, Bf, Bt, C
+
+These soils have the general properties specified for the Podzolic order and the Ferro-Humic Podzol great group. They differ from Orthic Ferro-Humic Podzols by having a Bt horizon of which the upper boundary is at a depth of more than 50 cm from the mineral surface. If the upper boundary of the Bt horizon is ≤50 cm from the surface the soil is classified in the Luvisolic order.
+
+Luvisolic Ferro-Humic Podzols usually have L, F, and H or O horizons and an Ae horizon and they may have an Ah horizon. They do not have ortstein, placic, or duric horizons, or a fragipan but may have mottles that indicate gleying at some depth within the control section.
+
+</string></array>
+<key>SM.FHP</key><array><string>Sombric Ferro-Humic Podzol</string><string>Common horizon sequence: LFH or O, Ah, Ae, Bhf, Bf, BC, C
+
+These soils have the general properties specified for the Podzolic order and the Ferro-Humic Podzol great group. They differ from Orthic Ferro-Humic Podzols by having an Ah horizon at least 10 cm thick.
+
+Usually Sombric Ferro-Humic Podzols have L, F, and H or O horizons and may have an Ae horizon but do not have ortstein, placic, duric, or Bt horizons, a fragipan, or distinct or prominent mottles that indicate gleying.</string></array>
+<key>GL.FHP</key><array><string>Gleyed Ferro-Fumic Podzol</string><string>Common horizon sequence: LFH or O, Aegj, Bhf, Bfgj, BCg, Cg
+
+These soils have the general properties specified for the Podzolic order and the Ferro-Humic Podzol great group. They differ from Orthic Ferro-Humic Podzols by having distinct or prominent mottles that indicate gleying within 1 m of the surface. Usually they have thick L, F, and H or O horizons. They do not have ortstein, placic, duric, or Bt horizons, a fragipan, or an Ah horizon at least 10 cm thick.</string></array>
+<key>GLOT.FHP</key><array><string>Gleyed Orstein Ferro-Humic Podzol</string><string>Common horizon sequence: LFH or O, Aegj, Bhf, Bhfc or Bfcg, BCg, Cg
+
+These soils have the general properties specified for the Podzolic order and the Ferro-Humic Podzol great group. They differ from Ortstein Ferro-Humic Podzols by having distinct to prominent mottles that indicate gleying within 1 m of the surface. Usually they have thick L, F, and H or O horizons. They may have placic, duric, Ah, or Bt horizons, or a fragipan.</string></array>
+<key>GLSM.FHP</key><array><string>Gleyed Sombric Ferro-Humic Podzol</string><string>Common horizon sequence: LFH or O, Ah, Aegj, Bhf, Bfgj, BCgj, C
+
+These soils have the general properties specified for the Podzolic order and the Ferro-Humic Podzol great group. They differ from Sombric Ferro-Humic Podzols by having distinct or prominent mottles that indicate gleying within 1 m of the surface. Usually they have thick L, F, and H or O horizons but do not have ortstein, placic, duric, or Bt horizons, or a fragipan.</string></array>
+</dict>
+<key>Humo-Ferric</key>
+	<dict>
+	<key>Description</key><array><string>These soils have a brownish-colored podzolic B horizon with less organic matter than the B horizon of Ferro-Humic Podzols. They occur widely both in less humid sites of the region of Podzolic soils and in humid sites. Typically they occur under coniferous, mixed, and deciduous forest vegetation but may occur under shrub and grass vegetation. Under virgin conditions these soils usually have L, F, and H horizons and may have an Ah horizon. Usually they have a light-colored Ae horizon with an abrupt lower boundary to a podzolic B horizon in which the reddest hues or highest chromas and lowest color values usually occur near the top of the horizon and fade with depth. Typically the Bf horizon of Humo-Ferric Podzols has higher color values and chromas than the Bhf horizon of Ferro-Humic Podzols. Parts of the podzolic B horizon may be cemented and the underlying material may be cemented (duric), compact and brittle (fragipan), or friable.
+
+Humo-Ferric Podzols have a podzolic B horizon at least 10 cm thick but do not have Bh or Bhf horizons at least 10 cm thick. The podzolic B horizon of Humo-Ferric Podzols may include a thin Bhf subhorizon, but usually it is a Bf horizon only. A Bf horizon contains 0.5-5% organic C and 0.6% or more pyrophosphate-extractable Fe+Al (0.4% for sands). Pyrophosphate-extractable Fe is at least 0.3%, or the ratio of organic C to pyrophosphate-extractable Fe is less than 20, or both are true. The ratio of pyrophosphate-extractable Fe+Al to clay is more than 0.05.
+
+Humo-Ferric Podzols are generally strongly acid and less than 50% base saturated (neutral salt). The pH-dependent CEC of the Bf horizon is usually at least 8 cmol kg-1.
+
+Typically the podzolic B horizon of a Humo-Ferric Podzol contains less amorphous material than is characteristic of a Ferro-Humic Podzol.
+
+Humo-Ferric Podzols are divided into ten subgroups based on the kind and sequence of the horizons, the same as Ferro-Humic Podzols.</string></array>
+<key>O.HFP</key><array><string>Orthic Humo-Ferric Podzol</string><string>Common horizon sequence: LFH, Ae, Bf, BC, C
+
+These soils have the general properties specified for the Podzolic order and the Humo-Ferric Podzol great group. They are identified by the following properties:
+
+They have a podzolic B horizon at least 10 cm thick (Bf or thin Bhf and Bf).
+They do not have a Bh horizon at least 10 cm thick, a Bhf horizon at least 10 cm thick, an ortstein horizon at least 3 cm thick, a placic horizon, a duric horizon, a fragipan, a Bt horizon, an Ah horizon at least 10 cm thick, nor evidence of gleying in the form of distinct or prominent mottles within 1 m of the surface.
+Usually Orthic Humo-Ferric Podzols have L, F, and H or O horizons and an Ae horizon. Parts of the Bf may be cemented, but it does not meet the requirements of an ortstein horizon.</string></array>
+<key>OT.HFP</key><array><string>Orstein Humo-Ferric Podzol</string><string>Common horizon sequence: LFH, Ae, Bfc, Bfj, C
+
+These soils have the general properties specified for the Podzolic order and the Humo-Ferric Podzol great group. They differ from Orthic Humo-Ferric Podzols by having an ortstein horizon at least 3 cm thick. An ortstein horizon in this subgroup is a Bhf or Bf horizon that is strongly cemented and occurs in at least one-third of the lateral extent of the pedon. Ortstein horizons are generally reddish brown to very dark reddish brown in color. Usually Ortstein Humo-Ferric Podzols have L, F, and H or O horizons and an Ae horizon. They may have faint mottling, and placic, duric, Ah, or Bt horizons, or a fragipan.
+
+</string></array>
+<key>P.HFP</key><array><string>Placic Humo-Ferric Podzol</string><string>Common horizon sequence: LFH or O, Ae, Bf, Bfc, BC, C
+
+These soils have the general properties specified for the Podzolic order and the Humo-Ferric Podzol great group. They differ from Orthic Humo-Ferric Podzols by having a placic horizon within the control section. A placic horizon (Bhfc, Bfc, Bfgc) consists of a single thin layer (commonly 5 mm or less in thickness) or a series of thin layers that are irregular or involute, hard, impervious, commonly vitreous, and dark reddish brown to black. These thin horizons are apparently cemented by Fe-organic complexes, hydrated Fe oxides, or a mixture of Fe and Mn oxides. The placic horizon or thin iron pan may occur in any part of the B horizon and commonly extends into the BC horizon.
+
+Placic Humo-Ferric Podzols usually have L, F, and H or O horizons and an Ae horizon. They do not have an ortstein horizon but may have a duric horizon or a fragipan. Evidence of gleying in the form of dull colors or mottling is commonly apparent especially above depressions in the placic horizon. These soils occur most commonly in wet sites in maritime regions; frequently the surface is peaty.</string></array>
+<key>DU.HFP</key><array><string>Duric Humo-Ferric Podzol</string><string>Common horizon sequence: LFH, Ae, Bf, BCc, C
+
+These soils have the general properties specified for the Podzolic order and the Humo-Ferric Podzol great group. They differ from Orthic Humo-Ferric Podzols by having a duric horizon within the control section. A duric horizon is a strongly cemented horizon that does not satisfy the criteria of a podzolic B horizon. Usually it has an abrupt upper boundary to an overlying podzolic B horizon and a diffuse lower boundary at least 50 cm below. Cementation is usually strongest near the upper boundary, which occurs commonly at a depth of 40-80 cm from the mineral surface. The color of a duric horizon usually differs little from that of the parent material and the structure is usually massive or very coarse platy. Moist clods at least 3 cm thick usually cannot be broken in the hands. Air-dry clods of the material do not slake when immersed in water. Some duric horizons may meet the requirements of a Bt horizon (Btc).
+
+Duric Humo-Ferric Podzols usually have L, F, and H horizons. They have neither an ortstein nor a placic horizon but may have an Ah horizon and mottles that indicate gleying in some part of the control section. These soils occur most commonly in coastal southwestern British Columbia.
+
+</string></array>
+<key>FR.HFP</key><array><string>Fragic Humo-Ferric Podzol</string><string>Common horizon sequence: LFH, Ae, Bf, BCx, C
+
+These soils have the general properties specified for the Podzolic order and the Humo-Ferric Podzol great group. They differ from Orthic Humo-Ferric Podzols by having a fragipan within the control section. A fragipan (Bx or BCx) is a subsurface horizon of high bulk density that is firm and brittle when moist and hard to extremely hard when dry. Usually it is of medium texture. Commonly it has bleached fracture planes separating very coarse prismatic units. The secondary structure is platy. Usually the fragipan has a color similar to that of the parent material but differs in structure and consistence and sometimes in bulk density. The upper boundary of a fragipan is usually either abrupt or clear, but the lower boundary is usually diffuse. Commonly it is necessary to dig to about 3 m to expose clearly the material beneath the lower boundary of the fragipan. Air-dry clods of fragipans slake in water. A fragipan may have clay skins and meet the limits of a Bt horizon (Btx).
+
+Fragic Humo-Ferric Podzols usually have L, F, and H horizons and an Ae horizon. They have neither ortstein, placic, nor duric horizons but may have an Ah horizon and mottles that indicate gleying at some depth within the control section.</string></array>
+<key>LU.HFP</key><array><string>Luvisolic Humo-Ferric Podzol</string><string>Common horizon sequence: LFH, Ae, Bf, Bt, C
+
+These soils have the general properties specified for the Podzolic order and the Humo-Ferric Podzol great group. They differ from Orthic Humo-Ferric Podzols by having a Bt horizon of which the upper boundary is at a depth of more than 50 cm from the mineral surface. If the upper boundary of the Bt horizon is ≤50 cm from the surface, the soil is classified in the Luvisolic order.
+
+Luvisolic Humo-Ferric Podzols usually have L, F, and H horizons and an Ae horizon. They may also have an Ah horizon. They have neither ortstein, duric, nor placic horizons, nor a fragipan but may have mottles that indicate gleying at some depth within the control section.
+
+</string></array>
+<key>SM.HFP</key><array><string>Sombric Humo-Ferric Podzol</string><string>Common horizon sequence: LFH, Ah, Ae, Bf, BC, C
+
+These soils have the general properties specified for the Podzolic order and the Humo-Ferric Podzol great group. They differ from Orthic Humo-Ferric Podzols by having an Ah horizon at least 10 cm thick.
+
+Usually Sombric Humo-Ferric Podzols have L, F, and H horizons and may have an Ae horizon. They have neither ortstein, placic, duric, nor Bt horizons, nor a fragipan, nor distinct or prominent mottles that indicate gleying.</string></array>
+<key>GL.HFP</key><array><string>Gleyed Humo-Ferric Podzol</string><string>Common horizon sequence: LFH or O, Aegj, Bfgj, BCg, Cg
+
+These soils have the general properties specified for the Podzolic order and the Humo-Ferric Podzol great group. They differ from Orthic Humo-Ferric Podzols by having distinct or prominent mottles that indicate gleying, within 1 m of the surface. They usually have thick L, F, and H or O horizons and have neither ortstein, placic, duric, nor Bt horizons, a fragipan, nor an Ah horizon at least 10 cm thick.</string></array>
+<key>GLOT.HFP</key><array><string>Gleyed Orstein Humo-Ferric Podzol</string><string>Common horizon sequence: LFH or O, Aegj, Bfcgj, Bfjcjgj, Cg
+
+These soils have the general properties specified for the Podzolic order and the Humo-Ferric Podzol great group. They differ from Ortstein Humo-Ferric Podzols by having distinct or prominent mottles that indicate gleying, within 1 m of the surface. They usually have thick L, F, and H or O horizons and may have Ah, Ae, Bt, placic, or duric horizons, or a fragipan.</string></array>
+<key>GLSM.HFP</key><array><string>Gleyd Sombric Humo-Ferric Podzol</string><string>Common horizon sequence: LFH or O, Ah, Aegj, Bfgj, BCg, Cg
+
+These soils have the general properties specified for the Podzolic order and the Humo-Ferric Podzol great group. They differ from Sombric Humo-Ferric Podzols by having distinct or prominent mottles that indicate gleying, within 1 m of the surface. They usually have thick L, F, and H or O horizons and may have an Ae horizon. They have neither ortstein, placic, duric, nor Bt horizons, nor a fragipan.</string></array>
+</dict>
+	</dict>
+	<key>Regosolic Order</key>
+	<dict>
+	<key>Regosol</key>
+	<dict>
+	<key>Description</key><array><string>These Regosolic soils do not have an Ah or dark-colored Ap horizon at least 10 cm thick at the mineral soil surface. They may have buried mineral-organic layers and organic surface horizons, but no B horizon at least 5 cm thick.</string></array>
+	<key>O.R</key><array><string>Orthic Regosol</string><string>Common horizon sequence: C
+
+These soils have the properties specified for the Regosolic order and the Regosol great group. They are identified by the following properties:
+
+If they have an A horizon, it is less than 10 cm thick.
+The B horizon is less than 5 cm thick or absent.
+They have a small amount of organic matter in the control section, which is indicated by a uniform color so that the color value difference between layers is less than one Munsell unit.
+They are well drained and lack any evidence of gleying within the upper 50 cm.</string></array>
+<key>CU.R</key><array><string>Cumulic Regosol</string><string>Common horizon sequence: C, Ahb, C
+
+These soils have the properties specified for the Regosolic order and the Regosol great group. They differ from Orthic Regosols by having below the surface, or below any thin Ah horizon, layers that vary in color value by 1 or more units, or organic matter contents that vary irregularly with depth. They lack evidence of gleying within 50 cm of the mineral surface. Commonly these soils result from material deposited during intermittent floods.</string></array>
+<key>GL.R</key><array><string>Gleyed Regosol</string><string>Common horizon sequence: Cgj
+
+These soils have the properties specified for the Regosolic order and the Regosol great group. They differ from Orthic Regosols by having faint to distinct mottles that indicate gleying within 50 cm of the mineral surface.</string></array>
+<key>GLCU.R</key><array><string>Gleyed Cumulic Regosol</string><string>Common horizon sequence: Cgj, Ahb, Cgj
+
+These soils have the properties specified for the Regosolic order and the Regosol great group. They differ from Cumulic Regosols by having faint to distinct mottles that indicate gleying within 50 cm of the mineral surface.</string></array>
+</dict>
+<key>Humic</key>
+<dict>
+<key>Description</key><array><string>These Regosolic soils have an Ah or dark colored Ap horizon at least 10 cm thick at the mineral surface. They may have organic surface horizons and buried mineral-organic horizons. They do not have a B horizon at least 5 cm thick.</string></array>
+<key>O.HR</key><array><string>Orthic Humic Regosol</string><string>Common horizon sequence: Ah, C
+
+These soils have the properties specified for the Regosolic order and the Humic Regosol great group. They are identified by the following properties:
+
+They have an Ah or dark-colored Ap horizon at least 10 cm thick.
+They have no B horizon or the B horizon is less than 5 cm thick.
+They have a low content of organic matter throughout the control section below the A horizon; this is reflected in a uniform color with differences of Munsell color value of less than one unit between layers.
+They lack faint to distinct mottling that indicates gleying within the upper 50 cm.</string></array>
+<key>CU.HR</key><array><string>Cumulic Humic Regosol</string><string>Common horizon sequence: Ah, C, Ahb, C
+
+These soils have the properties specified for the Regosolic order and the Humic Regosol great group. They differ from Orthic Humic Regosols by having layers below the Ah or Ap horizon that vary in color value by one or more units, or organic matter contents that vary irregularly with depth. They do not have faint to distinct mottles that indicate gleying within 50 cm of the mineral surface. Commonly these soils result from either mass wasting of soil downslope or intermittent flooding and deposition of material.
+
+</string></array>
+<key>GL.HR</key><array><string>Gleyed humic Regosol</string><string>Common horizon sequence: Ah, Cgj
+
+These soils have the properties specified for the Regosolic order and the Humic Regosol great group. They differ from Orthic Humic Regosols by having faint to distinct mottles that indicate gleying within 50 cm of the mineral surface.</string></array>
+<key>GLCU.HR</key><array><string>Gleyed Cumulic Humic Regosol</string><string>Common horizon sequence: Ah, Cgj, Ahb, Cgj
+
+These soils have the properties specified for the Regosolic order and the Humic Regosol great group. They differ from Cumulic Humic Regosols by having faint to distinct mottles that indicate gleying within 50 cm of the mineral surface.</string></array>
+</dict>
+	</dict>
+	<key>Solonetzic Order</key>
+	<dict>
+	<key>Solonetz</key>
+	<dict>
+	<key>Description</key><array><string>The soils of this great group usually have an Ah, Ahe, or Ap horizon overlying the solonetzic B horizon; any Ae horizon is thin and usually discontinuous. The boundary between the A and B horizons is abrupt and usually occurs within 20 cm of the surface. The solonetzic B horizon (Bn or Bnt) is hard and commonly massive, breaking to angular blocky structure. It has a low hydraulic conductivity. Dark stainings occur commonly on ped surfaces in the B horizon, which usually has a neutral to strongly alkaline reaction and may contain carbonates. The C horizon is saline and usually calcareous.
+
+Soils of the Solonetzic great group occur throughout the area of Solonetzic soils. The great group is usually associated with parent materials of high salinity on relatively arid sites.
+
+These soils have a solonetzic B horizon (Bn or Bnt) and lack a continuous Ae horizon at least 2 cm thick. The Solonetz great group is divided into seven subgroups.</string></array>
+	<key>B.SZ</key><array><string>Brown Solonetz</string><string>Common horizon sequence: Ah, Bn or Bnt, Csk
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Solonetz great group. They are associated with grass and forb vegetation and a subarid to semiarid climate. Areas of these soils often have patchy microrelief caused by differential erosion. The B horizon is exposed in some eroded pits. Plant growth in the eroded pits is usually very sparse.
+
+Brown Solonetzs have either an Ah, Ahe, or Ap horizon with color values higher than 4.5 dry and chromas usually higher than 1.5 dry, or an exposed solonetzic B horizon. They have neither a strongly alkaline (pH of 8.5 or more) A horizon nor faint to distinct mottles that indicate gleying within the upper 50 cm.
+
+</string></array>
+<key>DB.SZ</key><array><string>Dark Brown Solonetz</string><string>Common horizon sequence: Ah, Bn or Bnt, Csk
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Solonetz great group. They are associated with mesophytic grasses and forbs in a semiarid climate. Areas of Dark Brown Solonetzs often have patchy microrelief caused by differential erosion of the A horizon. However, bare eroded pits are not as common as in areas of Brown Solonetzs.
+
+Dark Brown Solonetzs have either an Ah, Ahe, or Ap horizon with color values lower than 3.5 moist and 3.5-4.5 dry, or an exposed solonetzic B horizon. Chromas of the surface horizon are usually higher than 1.5 dry. The soils have neither strongly alkaline (pH of 8.5 or more) A horizons nor faint to distinct mottles that indicate gleying within the upper 50 cm.</string></array>
+<key>BL.SZ</key><array><string>Black Solonetz</string><string>Common horizon sequence: Ah, Bnt, Csk
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Solonetz great group. They are associated mainly with the growth of mesophytic grasses and forbs in a subhumid climate. However, they occur also in areas of discontinuous shrub and tree cover with a ground cover of forbs and grasses. The microrelief associated with differential erosion of the A horizon in areas of Brown and Dark Brown Solonetzs occurs rarely in areas of Black Solonetzs.
+
+Black Solonetzs have an Ah, Ahe, or Ap horizon with color values lower than 3.5 moist and dry, and chromas usually less than 2 moist and dry. They have neither a strongly alkaline (pH of 8.5 or more) A horizon nor faint to distinct mottles that indicate gleying within the upper 50 cm.
+
+</string></array>
+<key>A.SZ</key><array><string>Alkaline Solonetz</string><string>Common horizon sequence: Ah, Bn, Csk
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Solonetz great group. They are associated with highly saline materials and with mesophytic grasses and forbs that include alkali-tolerant species. The alkaline A horizon may be of any color including brown, black, and gray. Alkaline Solonetzs occupy a minor area and commonly occur in groundwater discharge sites.
+
+Alkaline Solonetzs have a strongly alkaline A horizon (pH of 8.5 or more) and a solonetzic B horizon. They may have faint to distinct mottles that indicate gleying within the upper 50 cm.</string></array>
+<key>GLB.SZ</key><array><string>Gleyed Brown Solonetz</string><string>Common horizon sequence: Ah, Bngj, Cskgj
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Solonetz great group. They differ from Brown Solonetzs by having faint to distinct mottles that indicate gleying within 50 cm of the mineral surface.
+
+</string></array>
+<key>GLDB.SZ</key><array><string>Gleyed Dark Brown Solonetz</string><string>Common horizon sequence: Ah, Bngj, Cskgj
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Solonetz great group. They differ from Dark Brown Solonetzs by having faint to distinct mottles that indicate gleying within 50 cm of the mineral surface.</string></array>
+<key>GLBL.SZ</key><array><string>Gleyed Black Solonetz</string><string>Common horizon sequence: Ah, Bntgj, Cskgj
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Solonetz great group. They differ from Black Solonetzs by having faint to distinct mottles that indicate gleying within 50 cm of the mineral surface.
+
+</string></array>
+</dict>
+<key>Solodized Solonetz</key>
+	<dict>
+	<key>Description</key><array><string>The soils of this great group have a distinct Ae horizon and a hard columnar or prismatic solonetzic B horizon. The Ae horizon is at least 2 cm thick, usually has well-developed platy structure, and its reaction is acid to neutral. It has an abrupt boundary to a strongly expressed, intact, solonetzic B horizon. The Bnt or Bn horizon is hard to extremely hard when dry and usually has a columnar macrostructure with white-capped, coherent columns that break to blocky peds with dark coatings. Usually the Bnt horizon has many clay skins. The C horizon is saline and commonly calcareous.
+
+The Solodized Solonetz great group is divided into eight subgroups.</string></array>
+<key>B.SS</key><array><string>Brown Solodized Solonetz</string><string>Common horizon sequence: Ah, Ae, Bn or Bnt, Csk
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Solodized Solonetz great group. They are associated with grass and forb vegetation and a subarid to semiarid climate. Areas of this subgroup often have irregular microrelief caused by differential erosion of the A horizons. The eroded pits usually support only a very sparse plant cover.
+
+Brown Solodized Solonetzs have an Ah, Ahe, or Ap horizon with color values higher than 4.5 dry and chromas usually higher than 1.5 dry. They have Ae and solonetzic B horizons as specified for the great group. They do not have faint to distinct mottles that indicate gleying within the upper 50 cm.
+
+</string></array>
+<key>DB.SS</key><array><string>Dark Brown Solodized Solonetz</string><string>Common horizon sequence: Ah, Ae, Bn or Bnt, Csk
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Solodized Solonetz great group. They are associated with mesophytic grasses and forbs in a semiarid climate. Areas of Dark Brown Solodized Solonetzs commonly have irregular microrelief caused by differential erosion of the A horizons.
+
+Dark Brown Solodized Solonetzs have an Ah, Ahe, or Ap horizon with color values lower than 3.5 moist and 3.5-4.5 dry and chromas usually higher than 1.5 dry. They have Ae and solonetzic B horizons as specified for the great group. They do not have faint to distinct mottles that indicate gleying within the upper 50 cm.
+
+</string></array>
+<key>BL.SS</key><array><string>Black Solodized Solonetz</string><string>Common horizon sequence: Ah, Ae, Bnt or Bn, Csk
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Solodized Solonetz great group. They are associated mainly with mesophytic grass and forb vegetation and a subhumid climate. However, they also occur in areas of discontinuous shrub and tree vegetation with a ground cover of forbs and grasses. Differential erosion of the A horizon, which is common in areas of Brown and Dark Brown Solodized Solonetzs, seldom occurs in these soils.
+
+Black Solodized Solonetzs have an Ah, Ahe, or Ap horizon with color values lower than 3.5 dry and chromas usually lower than 2 dry. They have Ae and solonetzic B horizons as specified for the great group. They do not have faint to distinct mottles that indicate gleying within the upper 50 cm.
+
+</string></array>
+<key>DG.SS</key><array><string>Dark Gray Solodized Solonetz</string><string>Common horizon sequence: Ahe, Ae, Bnt, Csk
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Solodized Solonetz great group. They are associated mainly with sparse forest vegetation, a ground cover of forbs and grasses, a subhumid climate, and saline parent material.
+
+Dark Gray Solodized Solonetzs have an Ahe or Ap horizon with color values of 3.5-4.5 dry and chromas usually lower than 2 moist or dry. They have Ae and solonetzic B horizons as specified for the great group. They lack faint to distinct mottles that indicate gleying within the upper 50 cm.
+
+</string></array>
+<key>G.SS</key><array><string>Gray Solodized Solonetz</string><string>Common horizon sequence: Ahe, Ae, Bnt, Csk
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Solodized Solonetz great group. They are usually associated with sparse forest vegetation, a subhumid climate, and Eluviated Black Chernozems or Dark Gray Luvisols developed from parent materials of lower salinity.
+
+Gray Solodized Solonetzs have an Ahe, Ae, or Ap horizon with color values higher than 4.5 dry and chromas usually lower than 2 moist or dry. They have Ae and solonetzic B horizons as specified for the great group. They do not have faint to distinct mottles that indicate gleying within the upper 50 cm.
+
+</string></array>
+<key>GLB.SS</key><array><string>Gleyed Black Solodized Solonetz</string><string>Common horizon sequence: Ah, Aegj, Bngj, Cskgj
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Solodized Solonetz great group. They differ from Brown Solodized Solonetzs by having faint to distinct mottles that indicate gleying within 50 cm of the mineral surface.
+
+</string></array>
+<key>GLDB.SS</key><array><string>Gleyed Dark Brown Solodized Solonetz</string><string>Common horizon sequence: Ah,Aegj, Bngj or Bntgj, Cskgj
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Solodized Solonetz great group. They differ from Dark Brown Solodized Solonetzs by having faint to distinct mottles that indicate gleying within 50 cm of the mineral surface.
+
+</string></array>
+<key>GLBL.SS</key><array><string>Glyed Black Solodized Solonetz</string><string>Common horizon sequence: Ah, Aeg, Bntgj, Cskgj
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Solodized Solonetz great group. They differ from Black Solodized Solonetzs by having faint to distinct mottling that indicates gleying within 50 cm of the mineral surface.
+
+</string></array>
+<key>GLDG.SS</key><array><string>Gleyed Dark Gray Solodized Solonetz</string><string>Common horizon sequence: Ahe, Aegj, Bntgj, Cskg
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Solodized Solonetz great group. They differ from Dark Gray Solodized Solonetzs by having faint to distinct mottles that indicate gleying within 50 cm of the mineral surface.
+
+</string></array>
+<key>GLG.SS</key><array><string>Gleyed Gray Solodized Solonetz</string><string>Common horizon sequence: Ahe, Aegj, Bntgj, Cskg
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Solodized Solonetz great group. They differ from Gray Solodized Solonetzs by having faint to distinct mottles that indicate gleying within 50 cm of the mineral surface.
+
+</string></array>
+</dict>
+<key>Solod</key>
+	<dict>
+	<key>Description</key><array><string>Besides an Ae horizon, the soils of this great group have an AB or BA horizon, which appears to have developed through degradation of the upper part of a former solonetzic B horizon. Both the Ae and AB horizons are usually platy. The upper boundary of the solonetzic B horizon is gradual and usually at greater depth than the B horizon of the associated Solonetzs and Solodized Solonetzs. The solonetzic B horizon commonly does not have strong columnar structure and usually breaks to blocky peds that are hard to very hard when dry. Clay skins are common to frequent in the B horizon. The Cs or Csa horizon commonly occurs below a Cca or Ck horizon.
+
+Solods have a distinct Ae horizon at least 2 cm thick, an AB or BA horizon at least 5 cm thick, and a solonetzic B horizon. The great group is divided into eight subgroups.</string></array>
+<key>B.SO</key><array><string>Brown Solod</string><string>Common horizon sequence: Ah, Ae, AB, Bnt, Ck, Csk
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Solod great group. They are associated with grass and forb vegetation and a subarid to semiarid climate. In areas of these soils there is commonly evidence of previously eroded pits, but they are usually shallow and grass covered.
+
+
+Brown Solods have an Ah, Ahe, or Ap horizon with color values higher than 4.5 dry and chromas usually higher than 1.5 dry. They have Ae, AB or BA, and solonetzic B horizons as specified for the great group. They do not have faint to distinct mottles that indicate gleying within the upper 50 cm.
+</string></array>
+<key>DB.SO</key><array><string>Dark Brown Solod</string><string>Common horizon sequence: Ahe, Ae, AB, Bnt, Ck, Csk
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Solod great group. They are associated with mesophytic grasses and forbs in a semiarid to subhumid climate. Evidence of former eroded pits is common in areas of these soils, but the depressions are shallow and grass covered.
+
+Dark Brown Solods have an Ah, Ahe or Ap horizon with color values lower than 3.5 moist and 3.5-4.5 dry and chromas usually higher than 1.5 dry. They have Ae, AB or BA, and solonetzic B horizons as specified for the great group. They do not have faint to distinct mottles that indicate gleying within the upper 50 cm.
+
+</string></array>
+<key>BL.SO</key><array><string>Black Solod</string><string>Common horizon sequence: Ahe, Ae, AB, Bnt, Ck, Csk
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Solod great group. They are associated mainly with mesophytic grasses and forbs in a subhumid climate, but they also occur in areas of thin or discontinuous shrub and tree cover.
+
+Black Solods have an Ah, Ahe, or Ap horizon with color values lower than 3.5 dry and chromas usually higher than 1.5 dry. They have Ae, AB or BA, and solonetzic B horizons as specified for the great group. They do not have faint to distinct mottles that indicate gleying within the upper 50 cm.
+
+</string></array>
+<key>DG.SO</key><array><string>Dark Gray Solod</string><string>Common horizon sequence: Ahe, Ae, AB, Bnt, Ck, Csk
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Solod great group. They are associated with forest, shrub, and grass vegetation, a subhumid climate, and Eluviated Black Chernozems or Dark Gray Luvisols developed in materials of lower salinity.
+
+Dark Gray Solods have an Ah, Ahe or Ap horizon with color values of 3.5-4.5 dry and chromas usually lower than 2 moist or dry. They have Ae, AB, and solonetzic B horizons as specified for the great group. They do not have faint to distinct mottles that indicate gleying within the upper 50 cm.
+
+</string></array>
+<key>G.SO</key><array><string>Gray Solod</string><string>Common horizon sequence: Ahe, Ae, AB, Bnt, Ck, Csk
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Solod great group. They are associated with forest vegetation, a subhumid climate, and Dark Gray Luvisols developed in materials of lower salinity.
+
+Gray Solods have an Ahe, Ae or Ap horizon with color values higher than 4.5 dry and chromas usually lower than 2 dry. They have Ae, AB or BA, and solonetzic B horizons as specified for the great group. They do not have faint to distinct mottles that indicate gleying within the upper 50 cm.
+
+</string></array>
+<key>GLB.SO</key><array><string>Gleyed Brown Solod</string><string>Common horizon sequence: Ah, Aegj, ABgj, Bntgj, Cskg
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Solod great group. They differ from Brown Solods by having faint to distinct mottles that indicate gleying within 50 cm of the mineral surface.</string></array>
+<key>GLDB.SO</key><array><string>Gleyed Dark Brown Solod</string><string>Common horizon sequence: Ah, Aegj, ABgj, Bntgj, Cskg
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Solod great group. They differ from Dark Brown Solods by having faint to distinct mottles that indicate gleying within 50 cm of the mineral surface.</string></array>
+<key>GLBL.SO</key><array><string>Gleyed Black Solod</string><string>Common horizon sequence: Ah, Aegj, ABgj, Bntgj, Cskg
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Solod great group. They differ from Black Solods by having faint to distinct mottles that indicate gleying within 50 cm of the mineral surface.
+
+</string></array>
+<key>GLDG.SO</key><array><string>Gleyed Dark Gray Solod</string><string>Common horizon sequence: Ahe, Aegj, ABgj, Bntgj, Cskg
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Solod great group. They differ from Dark Gray Solods by having faint to distinct mottles that indicate gleying within 50 cm of the mineral surface.
+
+</string></array>
+<key>GLG.SO</key><array><string>Gleyed Gray Solod</string><string>Common horizon sequence: Ahe, Aegj, ABgj, Bntgj, Cskg
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Solod great group. They differ from Gray Solods by having faint to distinct mottles that indicate gleying within 50 cm of the mineral surface.
+
+</string></array>
+</dict>
+<key>Vertic Solonetz</key>
+	<dict>
+	<key>Description</key><array><string>The soils of this great group have horizons that are characteristic of any of the other three great groups of Solonetzic soils. In addition, they have properties that indicate a intergrading to the Vertisolic order. Specifically they have a slickenside horizon, the upper boundary of which occurs within 1 m of the mineral surface. They may also have a weak vertic horizon.</string></array>
+<key>B.VSZ</key><array><string>Brown Vertic Solonetz</string><string>Common horizon sequence: Ah, Ae or AB, Bn or Bnt, Bnvj or Bntvj, Bnss or Bntss or Cskss, Csk
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Vertic Solonetz great group. Brown Vertic Solonetzs have either an Ah, Ahe, or Ap horizon with color values higher than 4.5 dry and chromas usually higher than 1.5 dry. They also have properties that indicate intergrading to the Vertisolic order. Specifically, they have a slickenside horizon (Bnss or Cskss), the upper boundary of which occurs within 1 m of the mineral surface. They may also have a weak vertic horizon (Bntvj).</string></array>
+<key>DB.VSZ</key><array><string>Dark Brown Vertic Solonetz</string><string>Common horizon sequence: Ah, Ae or AB, Bn or Bnt, Bnvj or Bntvj, Bnss or Bntss or Cskss, Csk
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Vertic Solonetz great group. Dark Brown Vertic Solonetzs have either an Ah, Ahe, or Ap horizon with color values lower than 3.5 moist and between 3.5-4.5 dry. They also have properties that indicate intergrading to the Vertisolic order. Specifically, they have a slickenside horizon (Bnss or Cskss), the upper boundary of which occurs within 1 m of the mineral surface. They may also have a weak Vertic horizon (Bntvj).</string></array>
+<key>BL.VSZ</key><array><string>Black Vertic Solonetz</string><string>Common horizon sequence: Ah, Ae or AB, Bn or Bnt, Bnvj or Bntvj, Bnss or Bntss or Cskss, Csk
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Vertic Solonetz great group. Black Vertic Solonetzs have either an Ah, Ahe, or Ap horizon with color values lower than 3.5 moist and dry and chromas usually less than 2. Also they have properties that indicate intergrading to the Vertisolic order. Specifically, they have a slickenside horizon (Bnss or Cskss), the upper boundary of which occurs within 1 m of the mineral surface. They may also have a weak vertic horizon (Bntvj).</string></array>
+<key>GLB.VSZ</key><array><string>Gleyed Brown Vertic Solonetz</string><string>Common horizon sequence: Ah, Ae or AB, Bngj or Bntgj, Bngjvj or Bntgjvj, Bngjss or Bntgjss or Cskgjss, Cskgj or Cskg
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Vertic Solonetz great group. Gleyed Brown Vertic Solonetzs have either an Ah, Ahe, or Ap horizon with color values higher than 4.5 dry and chromas usually higher than 1.5 dry. They also have properties that indicate intergrading to the Vertisolic order. Specifically, they have a slickenside horizon (Bngjss, Bntgjss or Cskgjss), the upper boundary of which occurs within 1 m of the mineral surface. They may also have a weak Vertic horizon (Bngjvj or Bntgjvj). They differ from Brown Vertic Solonetzs by having faint to distinct mottles that indicate gleying within 50 cm of the mineral surface.</string></array>
+<key>GLDB.VSZ</key><array><string>Gleyed Dark Brown Vertic Solonetz</string><string>Common horizon sequence: Ah, Ae or AB, Bngj or Bntgj, Bngjvj or Bntgjvj, Bngjss or Bntgjss or Cskgjss, Cskgj or Cskg
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Vertic Solonetz great group. Gleyed Dark Brown Vertic Solonetzs have either an Ah, Ahe, or Ap horizon with color values lower than 3.5 moist and between 3.5-4.5 dry. They also have properties that indicate intergrading to the Vertisolic order. Specifically, they have a slickenside horizon (Bngjss, Bntgjss or Cskgjss), the upper boundary of which occurs within 1 m of the mineral surface. They may also have a weak vertic horizon (Bngjvj or Bntgjvj). They differ from Dark Brown Vertic Solonetzs by having faint to distinct mottles that indicate gleying within 50 cm of the mineral surface.</string></array>
+<key>GLBL.VSZ</key><array><string>Gleyed Black Vertic Solonetz</string><string>Common horizon sequence: Ah, Ae or AB, Bngj or Bntgj, Bngjvj or Bntgjvj, Bngjss or Bntgjss or Cskgjss, Cskgj or Cskg
+
+Soils of this subgroup have a solonetzic B horizon as defined for the Solonetzic order and the properties specified for the Vertic Solonetz great group. Gleyed Black Vertic Solonetzs have either an Ah, Ahe, or Ap horizon with color values lower than 3.5 moist and dry and chromas usually less than 2. They also have properties that indicate intergrading to the Vertisolic order. Specifically, they have a slickenside horizon (Bngjss, Bntgjss or Cskgjss), the upper boundary of which occurs within 1 m of the mineral surface. They may also have a weak vertic horizon (Bngjvj or Bntgjvj). They differ from Black Vertic Solonetzs by having faint to distinct mottles that indicate gleying within 50 cm of the mineral surface.</string></array>
+</dict>
+	</dict>
+	<key>Chernozemic Order</key>
+	<dict>
+	<key>Brown</key>
+	<dict>
+	<key>Description</key><array><string>These are soils that occur in the most arid segment of the climatic range of Chernozemic soils and have brownish-colored A horizons. They are associated with xerophytic and mesophytic grass and forb vegetation. In virgin Brown Chernozems the upper part of the Ah horizon is commonly as light as or lighter in color value than the lower part of the Ah or the upper B horizon.
+
+Brown Chernozems have chernozemic Ah or Ap horizons with color values darker than 3.5 moist and 4.5-5.5 dry. The chroma of the A horizon is usually higher than 1.5. The soil climate of this great group is typically cold, rarely mild, and is subarid to semiarid (see Chapter 14 on soil family).</string></array>
+	<key>O.BC</key><array><string>Orthic Brown Chernozem</string><string>Common horizon sequence: Ah, Bm, Cca or Ck
+
+The Orthic Brown Chernozem subgroup may be thought of as the central concept of Brown Chernozems. It encompasses the properties specified for the Chernozemic order and the Brown Chernozem great group. Orthic Brown Chernozems are well drained and their B horizons are usually brown with prismatic macrostructure. The prismatic peds are usually coarse in coarse-textured soils. With increasing clay content, the peds become smaller and have an increasing tendency to crush to fine blocky and granular aggregates. Thin clay coatings occur occasionally to commonly on ped surfaces in the B horizon. A light-colored horizon of carbonate accumulation usually occurs below the brownish B horizon.
+
+Orthic Brown Chernozems are identified by the following properties:
+
+They have a Chernozemic A horizon with a color value darker than 3.5 moist and 4.5-5.5 dry.
+They have a B horizon (Bm, Btj, or Bt) at least 5 cm thick that contains no alkaline earth carbonates.
+They lack an Ae horizon at least 2 cm thick.
+They lack a Bnjtj horizon or a similar horizon characteristic of intergrades to the Solonetzic order.
+They lack evidence of gleying as indicated by faint to distinct mottling within 50 cm of the mineral surface.
+Orthic Brown Chernozems and all other subgroups of Chernozemic soils may have any of the following features that are separated either at the family or series level taxonomically or as phases of any taxonomic level above the family: lithic, saline, and carbonated.</string></array>
+<key>R.BC</key><array><string>Rego Brown Chernozem</string><string>Common horizon sequence: Ah, C or Cca,or Ck
+
+These soils have the general properties specified for the Chernozemic order and the Brown Chernozem great group. They differ from Orthic Brown Chernozems either in lacking a B horizon or in having a B horizon (Bm) less than 5 cm thick. Usually Rego Brown Chernozems have an AC profile. They may also have saline features.
+
+</string></array>
+<key>CA.BC</key><array><string>Calcareous Brown Chernozem</string><string>Common horizon sequence: Ah, Bmk, Cca or Ck
+
+These soils have the general properties of the Chernozemic order and the Brown Chernozem great group. They differ from Orthic Brown Chernozems by having a B horizon from which primary alkaline earth carbonates have not been removed completely (Bmk). Otherwise, they have the general properties of Orthic Brown Chernozems.
+
+</string></array>
+<key>E.BC</key><array><string>Eluviated Brown Chernozem</string><string>Common horizon sequence: Ah, Ae, Btj or Bt, Cca or Ck
+
+These soils have the general properties of the Chernozemic order and the Brown Chernozem great group. They differ from Orthic Brown Chernozems by having an eluvial horizon or horizons at least 2 cm thick (Ahe, Ae, Aej) usually underlain by a weakly to moderately developed illuvial Btj or Bt horizon. Commonly, the eluvial horizon is slightly to moderately acid. Two variations of this subgroup may be recognized.
+
+One variation has pedons in which eluviation is indicated by light-colored, relic, macroprismatic structure below the Ah or Ap. The prismatic units break into coarse to medium platy peds that commonly have vesicular or tubular voids. This structure suggests the development of an eluvial horizon from a former prismatic B. The Bt or Btj horizon underlying the eluvial horizon usually has well-developed macroprismatic structure that breaks to blocky peds of lower color value and slightly higher chroma than the eluvial horizon.
+
+The other variation has cumulic pedons in which the periodic deposition of transported soil materials modifies the normal horizon differentiation caused by leaching. These pedons have thick horizons of partly leached, accumulated materials overlying former A or transitional AB horizons. They are usually found on lower concave slopes where sediments are deposited from upslope. Commonly, such pedons can be recognized by their thick Ahe horizons.
+
+</string></array>
+<key>SZ.BC</key><array><string>Solonetzic Brown Chernozem</string><string> Common horizon sequence: Ah, Ae, Btnj or Btjnj, Csa or Ck
+
+These soils have the general properties specified for the Chernozemic order and the Brown Chernozem great group. They differ from Orthic Brown Chernozems by having properties that indicate intergrading to the Solonetzic order. Specifically, they have a Bnj, Btjnj, or Btnj horizon and may have Ae, AB, and saline C horizons. The B horizon usually has prismatic structure and hard consistence. The prisms usually break to blocky secondary structural units having shiny, dark coatings. The eluvial horizon that is found in some Solonetzic Brown Chernozems may be similar to that described for the Eluviated Brown Chernozem subgroup. Solonetzic Brown Chernozems are usually associated with saline materials, and their B horizons usually have a higher proportion of exchangeable Na or Na and Mg than is characteristic of Orthic Brown Chernozems.
+
+</string></array>
+<key>V.BC</key><array><string>Vertic Brown Chernozem</string><string>Common horizon sequence: Ah or Ahk, Ae or Aej, Bm or Bmk, Btj or Bnjtj, Bvj, Bss or Bkss or Ckss, Ck
+
+These soils have the general properties specified for the Chernozemic order and the Brown Chernozem great group. They may have any horizons in the upper solum common to other subgroups within the Brown Chernozem great group. However, they differ from other subgroups by having properties indicative of intergrading to the Vertisolic order. Specifically, they have a slickenside horizon (Bss, Bkss, or Ckss), the upper boundary of which occurs within 1 m of the mineral soil surface, and may have a weak vertic horizon (Bvj or BCvj).</string></array>
+<key>GL.BC</key><array><string>Gleyed Brown Chernozem</string><string>Common horizon sequence: Ah, Bmgj, Ckgj
+
+These soils have the general properties specified for the Chernozemic order and the Brown Chernozem great group. They differ from Orthic Brown Chernozems by having faint to distinct mottles indicative of gleying within 50 cm of the mineral surface.
+
+</string></array>
+<key>GLR.BC</key><array><string>Gleyed Rego Brown Chernozem</string><string>Common horizon sequence: Ah,Ckgj
+
+These soils have the general properties specified for the Chernozemic order and the Brown Chernozem great group. They differ from Rego Brown Chernozems by having mottles indicative of gleying. Gleyed Rego Brown Chernozems lack a distinct B horizon at least 5 cm thick and have faint to distinct mottles within 50 cm of the mineral surface.
+
+</string></array>
+<key>GLCA.BC</key><array><string>Gleyed Calcareous Brown Chernozem</string><string>Common horizon sequence: Ah, Bmkgj, Ckgj
+
+These soils have the general properties specified for the Chernozemic order and the Brown Chernozem great group. They differ from Calcareous Brown Chernozems by having mottles indicative of gleying. Gleyed Calcareous Brown Chernozems have a Bmk horizon at least 5 cm thick and faint to distinct mottles within 50 cm of the mineral surface.
+
+</string></array>
+<key>GLE.BC</key><array><string>Gleyed Eluviated Brown Chernozem</string><string>Common horizon sequence: Ah, Aej, Btjgj or Btgj ,Ckgj
+
+These soils have the general properties specified for the Chernozemic order and the Brown Chernozem great group. They differ from Eluviated Brown Chernozems by having mottles indicative of gleying. Gleyed Eluviated Brown Chernozems have an eluvial horizon and faint to distinct mottles within 50 cm of the mineral surface.
+
+</string></array>
+<key>GLSZ.BC</key><array><string>Gleyed Solonetzic Brown Chernozem</string><string>Common horizon sequence: Ah,Ae, Bnjtjgj, Csagj
+
+These soils have the general properties specified for the Chernozemic order and the Brown Chernozem great group. They differ from Solonetzic Brown Chernozems by having mottles indicative of gleying. Gleyed Solonetzic Brown Chernozems have a Bnj or a Btnj horizon and faint to distinct mottles within 50 cm of the mineral surface.
+
+</string></array>
+<key>GLV.BC</key><array><string>Gleyed Vertic Brown Chernozem</string><string>Common horizon sequence: Ah or Ahk, Ae or Aej, Bmgj or Bmkgj, Btjgj or Bnjtjgj, Bgjvj, Bgjss or Bkgjss or Ckgjss, Ckgj or Ckg
+
+These soils have the general properties specified for the Chernozemic order and the Brown Chernozem great group. They also have properties that indicate intergrading to the Vertisolic order. Specifically, they have a slickenside horizon (Bgjss, Bkgjss, or Ckgjss), the upper boundary of which occurs within 1 m of the mineral soil surface, and may have a weak vertic horizon (Bgjvj). They differ from Vertic Brown Chernozems by having faint to distinct mottles, indicative of gleying, within 50 cm of the mineral surface.
+
+</string></array>
+</dict>
+<key>Dark Brown</key>
+	<dict>
+	<key>Description</key><array><string>These Chernozemic soils have A horizons somewhat darker in color than soils of the Brown Chernozem great group. Dark Brown Chernozems usually occur in association with native vegetation of mesophytic grasses and forbs in a semiarid climate. In virgin areas the Ah horizon is usually darkest at the surface and becomes progressively lighter in color with depth.
+
+Dark Brown Chernozems have the characteristics specified for the Chernozemic order. The A horizon has a color value darker than 3.5 moist and 3.5-4.5 dry; the chroma is usually greater than 1.5 dry. The soil climate of this great group is typically cold, rarely mild, and semiarid.</string></array>
+<key>O.DBC</key><array><string>Orthic Dark Brown Chernozem</string><string>Common horizon sequence: Ah, Bm, Cca or Ck
+
+The Orthic Dark Brown Chernozem subgroup may be thought of as the central concept of Dark Brown Chernozems. It encompasses the properties specified for the Chernozemic order and the Dark Brown Chernozem great group. Usually, Orthic Dark Brown Chernozems have brownish-colored, prismatic B horizons, and light-colored horizons of carbonate accumulation similar to those of Orthic Brown Chernozems.
+
+Orthic Dark Brown Chernozems are identified by the following properties:
+
+They have a Chernozemic A horizon with a color value darker than 3.5 moist and between 3.5-4.5 dry.
+They have a B horizon (Bm, Btj, Bt) at least 5 cm thick that does not contain alkaline earth carbonates.
+They lack an Ae horizon at least 2 cm thick.
+They lack a Bnjtj horizon or a similar horizon characteristic of intergrades to the Solonetzic order.
+They lack evidence of gleying as indicated by faint to distinct mottling within 50 cm of the mineral surface.
+</string></array>
+<key>R.DBC</key><array><string>Rego Dark Brown Chernozem</string><string>Common horizon sequence: Ah, C, Cca or Ck
+
+These soils have the general properties specified for the Chernozemic order and the Dark Brown Chernozem great group. They differ from Orthic Dark Brown Chernozems either in lacking a B horizon or in having a B horizon (Bm) less than 5 cm thick. Usually Rego Dark Brown Chernozems have an AC profile. They may also have saline features.
+
+</string></array>
+<key>CA.DBC</key><array><string>Calcareous Dark Brown Chernozem</string><string>Common horizon sequence: Ah, Bmk, Cca or Ck
+
+These soils have the general properties specified for the Chernozemic order and the Dark Brown Chernozem great group. They differ from Orthic Dark Brown Chernozems by having a B horizon from which primary alkaline earth carbonates have not been removed completely (Bmk). Otherwise, they have the general properties of Orthic Dark Brown Chernozems.</string></array>
+<key>E.DBC</key><array><string>Eluviated Dark Brown Chernozem</string><string>Common horizon sequence: Ah, Ae, Btj or Bt, Cca, Ck
+
+These soils have the general properties specified for the Chernozemic order and the Dark Brown Chernozem great group. They differ from Orthic Dark Brown Chernozems by having an eluvial horizon or horizons (Ahe, Ae, Aej) at least 2 cm thick usually underlain by a weakly to moderately developed illuvial Btj or Bt horizon. Two variations of this subgroup may be recognized. The first has an eluvial horizon developed in a former B horizon. The second has an eluvial horizon developing in an A horizon subject to periodic deposition of sediment. These variations are described in more detail for the Eluviated Brown Chernozem subgroup.</string></array>
+<key>SZ.DBC</key><array><string>Solonetzic Dark Brown Chernozem</string><string>Common horizon sequence: Ah, Ae, Btnj or Btjnj, Csa or Ck
+
+These soils have the general properties specified for the Chernozemic order and the Dark Brown Chernozem great group. They differ from Orthic Dark Brown Chernozems by having properties indicative of intergrading to the Solonetzic order. Specifically, they have a Bnj, Btjnj, or Btnj horizon and may have Ae, AB, and saline C horizons. The B horizon usually has prismatic structure with hard consistence. The prisms usually break to blocky secondary structural units having shiny, dark coatings. The eluvial horizon that occurs in some Solonetzic Dark Brown Chernozems may be similar to that described for the Eluviated Dark Brown Chernozem subgroup. Solonetzic Dark Brown Chernozems are usually associated with saline materials. Thus their B horizons usually have a higher proportion of exchangeable Na or Na and Mg than is characteristic of Orthic Dark Brown Chernozems.
+
+</string></array>
+<key>V.DBC</key><array><string>Vertic Dark Brown Chernozem</string><string>Common horizon sequence: Ah or Ahk, Ae or Aej, Bm or Bmk, Btj or Bnjtj, Bvj, Bss or Bkss or Ckss, Ck
+
+These soils have the general properties specified for the Chernozemic order and the Dark Brown Chernozem great group. They may have any horizons in the upper solum common to other subgroups within the Dark Brown Chernozem great group. However, they differ from other subgroups by having properties indicative of intergrading to the Vertisolic order. Specifically, they have a slickenside horizon (Bss, Bkss or Ckss), the upper boundary of which occurs within 1 m of the mineral soil surface. As well, they may have a weak vertic horizon (Bvj or BCvj).</string></array>
+<key>GL.DBC</key><array><string>Gleyed Dark Brown Chernozem</string><string>Common horizon sequence: Ah, Bmgj, Cgj or Ckgj
+
+These soils have the general properties specified for the Chernozemic order and the Dark Brown Chernozem great group. They differ from Orthic Dark Brown Chernozems by having faint to distinct mottles that indicate gleying within 50 cm of the mineral surface.
+
+</string></array>
+<key>GLR.DBC</key><array><string>Gleyed Rego Dark Brown Chernozem</string><string>Common horizon sequence: Ah, Ckgj
+
+These soils have the general properties specified for the Chernozemic order and the Dark Brown Chernozem great group. They differ from Rego Dark Brown Chernozems by having mottles indicative of gleying. Gleyed Rego Dark Brown Chernozems lack a B horizon at least 5 cm thick and have faint to distinct mottles within 50 cm of the mineral surface.
+
+</string></array>
+<key>GLCA.DBC</key><array><string>Gleyed Calcareous Dark Brown Chernozem</string><string>Common horizon sequence: Ah, Bmkg, Ckgj
+
+These soils have the general properties specified for the Chernozemic order and the Dark Brown Chernozem great group. They differ from Calcareous Dark Brown Chernozems by having mottles indicative of gleying. Gleyed Calcareous Dark Brown Chernozems have a Bmk horizon at least 5 cm thick and faint to distinct mottles within 50 cm of the mineral surface.</string></array>
+<key>GLE.DBC</key><array><string>Gleyed Eluviated Dark Brown Chernozem</string><string>Common horizon sequence: Ah, Aej, Btjgj, Cgj or Ckgj
+
+These soils have the general properties specified for the Chernozemic order and the Dark Brown Chernozem great group. They differ from Eluviated Dark Brown Chernozems by having mottles indicative of gleying. Gleyed Eluviated Dark Brown Chernozems have an eluvial horizon and faint to distinct mottles within 50 cm of the mineral surface.
+
+</string></array>
+<key>GLSZ.DBC</key><array><string>Gleyed Solonetzic Dark Brown Chernozem</string><string>Common horizon sequence: Ah, Ae, Bnjtjgj, Ckgj, Csagj
+
+These soils have the general properties specified for the Chernozemic order and the Dark Brown Chernozem great group. They differ from Solonetzic Dark Brown Chernozems by having mottles indicative of gleying. Gleyed Solonetzic Dark Brown Chernozems have a Bnj or a Btnj horizon and faint to distinct mottles within 50 cm of the mineral surface.
+
+</string></array>
+<key>GLV.DBC</key><array><string>Gleyed Vertic Dark Brown Chernozem</string><string>Common horizon sequence: Ah or Ahk ,Ae or Aej, Bmgj or Bmkgj, Btjgj or Bnjtjgj, Bgjvj, Bgjss or Bkgjss or Ckgjss, Ckgj or Ckg
+
+These soils have the general properties specified for the Chernozemic order and the Dark Brown Chernozem great group. In addition they have properties indicative of intergrading to the Vertisolic order. Specifically, they have a slickenside horizon (Bgjss, Bkgjss or Ckgjss), the upper boundary of which occurs within 1 m of the mineral soil surface. As well, they may have a weak vertic horizon (Bgjvj). They differ from Vertic Dark Brown Chernozems by having faint to distinct mottles, indicative of gleying, within 50 cm of the mineral surface.</string></array>
+</dict>
+<key>Black</key>
+	<dict>
+	<key>Description</key><array><string>These Chernozemic soils have A horizons darker in color and commonly thicker than soils of the Brown Chernozem and Dark Brown Chernozem great groups. Black Chernozems usually occur in association with a native vegetation of mesophytic grasses and forbs or with mixed grass, forb, and tree cover. Some Black Chernozems occur under alpine grass and shrub vegetation.
+
+Black Chernozems have the characteristics specified for the order, and a Chernozemic A horizon with a color value darker than 3.5 moist and dry. The chroma of the Chernozemic A is usually 1.5 or less, dry. The soil climate of this great group is typically cold, rarely mild, and is subhumid.</string></array>
+<key>O.BLC</key><array><string>Orthic Black Chernozem</string><string>Common horizon sequence: Ah, Bm Cca or Ck
+
+The Orthic Black Chernozem subgroup may be thought of as the central concept of Black Chernozems. It encompasses the properties specified for the Chernozemic order and the Black Chernozem great group. Usually Orthic Black Chernozems have brownish-colored, prismatic B horizons, and light-colored horizons of carbonate accumulation similar to those of Orthic Brown Chernozems.
+
+Orthic Black Chernozems are identified by the following properties:
+
+They have a Chernozemic A horizon with a color value darker than 3.5 moist and dry.
+They have a B horizon (Bm, Btj, Bt) at least 5 cm thick that does not contain alkaline earth carbonates.
+They lack an eluvial horizon (Ahe, Ae, Aej) at least 2 cm thick.
+They lack a Bnjtj or similar horizon characteristic of intergrades to the Solonetzic order.
+They lack evidence of gleying as indicated by faint to distinct mottling within 50 cm of the mineral surface.
+</string></array>
+<key>R.BLC</key><array><string>Rego Black Chernozem</string><string>Common horizon sequence: Ah, Cca or Ck
+
+These soils have the general properties specified for the Chernozemic order and the Black Chernozem great group. They differ from Orthic Black Chernozems either in lacking a B horizon or in having a B horizon (Bm) less than 5 cm thick. Usually Rego Black Chernozems have an AC profile. They may also have saline features.
+
+</string></array>
+<key>CA.BLC</key><array><string>Calcareous Black Chernozem</string><string>Common horizon sequence: Ah, Bmk, Cca or Ck
+
+These soils have the general properties of the Chernozemic order and the Black Chernozem great group. They differ from Orthic Black Chernozems by having a B horizon from which primary alkaline earth carbonates have not been removed completely (Bmk). Otherwise they have the general properties of Orthic Black Chernozems.
+
+</string></array>
+<key>E.BLC</key><array><string>Eluviated Black Chernozem</string><string>Common horizon sequence: Ah, Ae, Btj, or Bt, Cca or Ck
+
+These soils have the general properties of the Chernozemic order and the Black Chernozem great group. They differ from Orthic Black Chernozems by having an eluvial horizon or horizons at least 2 cm thick (Ahe, Ae, Aej) usually underlain by a weakly to moderately developed illuvial Btj or Bt horizon.
+
+</string></array>
+<key>SZ.BLC</key><array><string>Solonetzic Black Chernozem</string><string>Common horizon sequence: Ah, Ae, Btnj, or Btjnj, Cs or Ck
+
+These soils have the general properties specified for the Chernozemic order and the Black Chernozem great group. They differ from Orthic Black Chernozems by having properties indicative of intergrading to the Solonetzic order. Specifically, they have a Bnj, Btjnj, or Btnj horizon and may have Ae, AB, and saline C horizons. The B horizon usually has prismatic structure and hard consistence. The prisms usually break to blocky secondary structural units with shiny, dark coatings. The eluvial horizon that occurs in some Solonetzic Black Chernozems may be similar to that described for the Eluviated Black Chernozem subgroup. Solonetzic Black Chernozems are usually associated with saline materials. Thus, their B horizons usually have a higher proportion of exchangeable Na or Na and Mg than is characteristic of Orthic Black Chernozems.
+
+</string></array>
+<key>V.BLC</key><array><string>Vertic Black Chernozem</string><string>Common horizon sequence: Ah or Ahk, Ae or Aej, Bm or Bmk, Btj or Bnjtj, Bvj, Bss or Bkss or Ckss, Ck
+
+These soils have the general properties specified for the Chernozemic order and the Black Chernozem great group. They may have any horizons in the upper solum common to other subgroups within the Black Chernozem great group. However, they differ from other subgroups by having properties indicative of intergrading to the Vertisolic order. Specifically, they have a slickenside horizon (Bss, Bkss or Ckss), the upper boundary of which occurs within 1 m of the mineral soil surface. As well, they may have a weak Vertic horizon (Bvj or BCvj).</string></array>
+<key>GL.BLC</key><array><string>Gleyed Black Chernozem</string><string>Common horizon sequence: Ah, Bmgj, Ckgj
+
+These soils have the general properties specified for the Chernozemic order and the Black Chernozem great group. They differ from Orthic Black Chernozems by having faint to distinct mottles indicative of gleying within 50 cm of the mineral surface.</string></array>
+<key>GLR.BLC</key><array><string>Gleyed Rego Black Chernozem</string><string>Common horizon sequence: Ah, Ckgj
+
+These soils have the general properties specified for the Chernozemic order and the Black Chernozem great group. They differ from Rego Black Chernozems by having mottles indicative of gleying. Gleyed Rego Black Chernozems lack a B horizon at least 5 cm thick and have faint to distinct mottles within 50 cm of the mineral surface.
+
+</string></array>
+<key>GLCA.BLC</key><array><string>Gleyed Calcareous Black Chernozem</string><string>Common horizon sequence: Ah, Bmkgj, Ckgj
+
+These soils have the general properties specified for the Chernozemic order and the Black Chernozem great group. They differ from Calcareous Black Chernozems by having mottles indicative of gleying. Gleyed Calcareous Black Chernozems have a Bmk horizon at least 5 cm thick and faint to distinct mottles within 50 cm of the mineral surface.
+
+</string></array>
+<key>GLE.BLC</key><array><string>Gleyed Eluviated Black Chernozem</string><string>Common horizon sequence: Ah, Aej, Btjgj,Ckgj
+
+These soils have the general properties specified for the Chernozemic order and the Black Chernozem great group. They differ from Eluviated Black Chernozems by having mottles indicative of gleying. Gleyed Eluviated Black Chernozems have an eluvial horizon and faint to distinct mottles within 50 cm of the mineral surface.
+
+</string></array>
+<key>GLSZ.BLC</key><array><string>Gleyed Solonetzic Black Chernozem</string><string>Common horizon sequence: Ah, Ae, Bnjtjgj, Ckgj, Csgj
+
+These soils have the general properties specified for the Chernozemic order and the Black Chernozem great group. They differ from Solonetzic Black Chernozems by having mottles indicative of gleying. Gleyed Solonetzic Black Chernozems have a Bnj or a Btnj horizon and faint to distinct mottling within 50 cm of the mineral surface.
+
+</string></array>
+<key>GLV.BLC</key><array><string>Gleyed Vertic Black Chernozem</string><string>Common horizon sequence: Ah or Ahk, Ae or Aej, Bmgj or Bmkgj, Btjgj or Bnjtjgj, Bgjvj, Bgjss or Bkgjss or Ckgjss, Ckgj or Ckg
+
+These soils have the general properties specified for the Chernozemic order and the Black Chernozem great group. They also have properties indicative of intergrading to the Vertisolic order. Specifically, they have a slickenside horizon (Bgjss, Bkgjss or Ckgjss), the upper boundary of which occurs within 1 m of the mineral soil surface. They may have a weak vertic horizon (Bgjvj). As well, they differ from Vertic Black Chernozems by having faint to distinct mottles, indicative of gleying, within 50 cm of the mineral surface.
+
+</string></array>
+</dict>
+<key>Dark Gray</key>
+	<dict>
+	<key>Description</key><array><string>These soils have Chernozemic A horizons with characteristics indicative of eluviation associated with soils developed under forest vegetation. Dark Gray Chernozems usually occur under mixed native vegetation of trees, shrubs, forbs, and grasses in forest-grassland transition zones in areas of cold, subhumid soil climate. Virgin Dark Gray Chernozems usually have leaf mats (L-H horizons) overlying Ah or Ahe horizons. The peds of the A horizons may have dark-colored surfaces, but the crushed peds usually have gray or brownish colors of higher value or chroma. A "salt and pepper" effect, light gray spots, or bands on a darker matrix may be observable in the A horizons, which tend to have platy structure.
+
+Dark Gray Chernozems have the characteristics specified for the order. Virgin soils have a Chernozemic A horizon with a color value darker than 3.5 moist and 4.5 dry. An Ap horizon 10 cm thick must have a color value darker than 3.5 moist and 5 dry. The chroma of the A horizon is usually 1.5 or less, dry. Dark Gray Chernozems may have a light-colored Ae horizon 5 cm or less thick provided that the mixed surface horizon (Ap) meets the requirements specified for the great group. Similar soils having a distinct Ae horizon thicker than 5 cm below the Chernozemic A horizon and a Bt horizon are classified as Dark Gray Luvisols.</string></array>
+<key>O.DGC</key><array><string>Orthic Dark Gray Chernozem</string><string>Common horizon sequence: Ahe, Ae, Bm or Btj or Bt, Cca or Ck
+
+The Orthic Dark Gray Chernozem subgroup may be thought of as the central concept of Dark Gray Chernozems. It encompasses the properties specified for the Chernozemic order and the Dark Gray Chernozem great group. Usually Orthic Dark Gray Chernozems have brownish-colored, prismatic B horizons that commonly meet the requirements of a Bt horizon.
+
+Orthic Dark Gray Chernozems are identified by the following properties:
+
+They have a Chernozemic A horizon with a color value darker than 3.5 moist and 3.5-4.5 dry for virgin soils (3.5-5 dry for Ap).
+They have a B horizon (Bm, Btj, Bt) at least 5 cm thick that does not contain alkaline earth carbonates.
+They lack an Ae horizon more than 5 cm thick.
+They lack a Bnjtj horizon or a similar horizon characteristic of intergrades to the Solonetzic order.
+They lack evidence of gleying as indicated by faint to distinct mottling within 50 cm of the mineral surface.
+</string></array>
+<key>R.DGC</key><array><string>Rego Dark Gray Chernozem</string><string>Common horizon sequence: Ah or Ahe, Cca or Ck
+
+These soils have the general properties specified for the Chernozemic order and the Dark Gray Chernozem great group. They differ from Orthic Dark Gray Chernozems either in lacking a B horizon or in having a B horizon (Bm) less than 5 cm thick. Usually Rego Dark Gray Chernozems have an AC profile. They may also have saline features.
+
+</string></array>
+<key>CA.DHC</key><array><string>Calcareous Dark Gray Chernozem</string><string>Common horizon sequence: Ah, Ahe, Bmk, Cca or Ck
+
+These soils have the general properties of the Chernozemic order and the Dark Gray Chernozem great group. They differ from Orthic Dark Gray Chernozems by having a B horizon from which primary alkaline earth carbonates have not been removed completely (Bmk). Otherwise they have the general properties of Orthic Dark Gray Chernozems.
+
+</string></array>
+<key>SZ.DGC</key><array><string>Solonetzic Dark Gray Chernozem</string><string>Common horizon sequence: Ahe, Ae, Bnjtj, Cs or Ck
+
+These soils have the general properties specified for the Chernozemic order and the Dark Gray Chernozem great group. They differ from Orthic Dark Gray Chernozems by having properties indicative of intergrading to the Solonetzic order. Specifically, they have either a Bnj, Bnjtj, or Btnj horizon, and they may have Ae, AB, and saline C horizons. The Ae horizon, if present, is not more than 5 cm thick. The B horizon usually has prismatic structure and hard consistence, and the prisms usually break to blocky secondary structural units with shiny, dark coatings. Solonetzic Dark Gray Chernozems are usually associated with saline materials. Thus, their B horizons usually have a higher proportion of exchangeable Na or Na and Mg than is characteristic of Orthic Dark Gray Chernozems.
+
+</string></array>
+<key>V.DGC</key><array><string>Vertic Dark Gray Chernozem</string><string>Common horizon sequence: Ah or Ahk, Ae or Aej, Bm or Bmk, Btj or Bnjtj, Bvj, Bss or Bkss or Ckss Ck
+
+These soils have the general properties specified for the Chernozemic order and the Dark Gray Chernozem great group. Theymay have any horizons in the upper solum common to other subgroups within the Dark Gray Chernozem great group. However, they differ from other subgroups by having properties indicative of intergrading to the Vertisolic order. Specifically, they have a slickenside horizon (Bss, Bkss or Ckss), the upper boundary of which occurs within 1 m of the mineral soil surface. As well, they may have a weak vertic horizon (Bvj or BCvj).</string></array>
+<key>GL.DGC</key><array><string>Gleyed Dark Gray Chernozem</string><string>Common horizon sequence: Ahe, Bmgj, Ckgj
+
+These soils have the general properties specified for the Chernozemic order and the Dark Gray Chernozem great group. They differ from Orthic Dark Gray Chernozems by having faint to distinct mottles indicative of gleying within 50 cm of the mineral surface.</string></array>
+<key>GLR.DGC</key><array><string>Gleyed Rego Dark Gray Chernozem</string><string>Common horizon sequence: Ahe, Ckgj
+
+These soils have the general properties specified for the Chernozemic order and the Dark Gray Chernozem great group. They differ from Rego Dark Gray Chernozems by having mottles indicative of gleying. Gleyed Rego Dark Gray Chernozems lack a B horizon at least 5 cm thick and have faint to distinct mottles within 50 cm of the mineral surface.
+
+</string></array>
+<key>GLCA.DGC</key><array><string>Gleyed Calcareous Dark Gray Chernozem</string><string>Common horizon sequence: Ahe, Bmkgj, Ckgj
+
+These soils have the general properties specified for the Chernozemic order and the Dark Gray Chernozem great group. They differ from Calcareous Dark Gray Chernozems by having mottles indicative of gleying. Gleyed Calcareous Dark Gray Chernozems have a Bmk horizon at least 5 cm thick and faint to distinct mottles within 50 cm of the mineral surface.</string></array>
+<key>GLSZ.DGC</key><array><string>Gleyed Solonetzic Dark Gray Chernozem</string><string>Common horizon sequence: Ahe, Ae, Bnjtjgj, Ckgj, Csgj
+
+These soils have the general properties specified for the Chernozemic order and the Dark Gray Chernozem great group. They differ from Solonetzic Dark Gray Chernozems by having mottles indicative of gleying. Gleyed Solonetzic Dark Gray Chernozems have a Bnj or a Btnj horizon and faint to distinct mottles within 50 cm of the mineral surface.</string></array>
+<key>GLV.DGC</key><array><string>Gleyed Vertic Dark Gray Chernozem</string><string>Common horizon sequence: Ah or Ahk, Ae or Aej, Bmgj or Bmkgj, Btjgj or Bnjtjgj, Bgjvj, Bgjss or Bkgjss or Ckgjss, Ckgj or Ckg
+
+These soils have the general properties specified for the Chernozemic order and the Dark Gray Chernozem great group. They also have properties indicative of intergrading to the Vertisolic order. Specifically, they have a slickenside horizon (Bgjss, Bkgjss or Ckgjss), the upper boundary of which occurs within 1 m of the mineral soil surface. As well, they may have a weak vertic horizon (Bgjvj). They differ from Vertic Dark Gray Chernozems by having faint to distinct mottles, indicative of gleying, within 50 cm of the mineral surface.
+
+</string></array>
+</dict>
+	</dict>
+	<key>Vertisolic Order</key>
+	<dict>
+		<key>Vertisol</key>
+		<dict>
+			<key>Description</key>
+			<array>
+				<string>These are soils that generally occur in the most arid portion of the climatic range of Vertisolic soils. They are primarily associated with a native vegetation of xerophytic and mesophytic grasses and forbs. They have both a vertic and a slickenside horizon as specified for the Vertisolic order. Except for the poorly drained members, they also have brownish-colored A horizons (dry color value of 3.5 or lighter, chroma usually greater than 1.5 dry, and organic C usually 3% or less) similar to associated Chernozemic soils. However, they differ from Chernozemic soils in that it is often difficult to separate the A horizon from the rest of the solum based on color alone, and the Ah horizon is massive and hard when dry. They also lack other horizons, in the upper solum, common to Chernozemic or other soils.
+
+The poorly drained members occur commonly in depressional positions associated with better-drained Vertisolic soils. Besides the presence of both a slickenside and a vertic horizon, they have the general characteristics specified for the Gleysolic order. As well, under native conditions they lack a mineral-organic surface (Ah) horizon 10 cm or more in thickness. If cultivated the Ap horizon has one of the following properties:
+
+Less than 2% organic C.
+A rubbed color value greater than 3.5 (moist) or greater than 5.0 (dry).
+Little contrast in color value with the underlying layer (a difference of less than 1.5 units, if the value of the underlying layer is 4 or more, or a difference of less than 1 unit, if that value is less than 4).</string>
+			</array>
+			<key>O.V</key>
+			<array>
+				<string>Orthic Vertisol</string>
+				<string>Common horizon sequence: Ah, Bv or Bvk, Bss or Bssk or Ckss, Ck
+
+These soils have the general properties specified for the Vertisolic order and those members of the Vertisol great group other than the poorly drained members. They have a vertic horizon (Bv or Bvk) and a slickenside horizon (ss), the upper boundary of which occurs within 1 m of the mineral surface. The slickenside horizon may be confined to the B horizon (Bss or Bssk), may form part of the C horizon (Ckss), or may form part of both.
+
+Orthic Vertisols, and all other subgroups of Vertisolic soils, may have saline features. These features are separated taxonomically at the series level, or as a phase of any taxonomic level above the family.</string>
+			</array>
+			<key>GL.V</key>
+			<array>
+				<string>Gleyed Vertisol</string>
+				<string>Common horizon sequence: Ah, Bvgj or Bvkgj, Bssgj or Bsskgj or Ckssgj, Ckgj or Ckg
+
+These soils have the general properties specified for the Vertisolic order and those members of the Vertisol great group other than the poorly drained members. They differ from Orthic Vertisols by having faint to distinct mottles that indicate gleying within 50 cm of the mineral surface.
+
+</string>
+			</array>
+			<key>GLC.V</key>
+			<array>
+				<string>Gleysolic Vertisol</string>
+				<string>Common horizon sequence: LFH or O, Bvg, Bssg or Cgss, Cg
+
+These soils have the general properties specified for the Vertisolic order and the poorly drained members of the Vertisol great group. They differ from Orthic and Gleyed Vertisols mainly by having, within 50 cm of the surface, either colors that indicate poor drainage and periodic reduction (diagnostic of the Gleysolic order) or prominent mottles that indicate gleying, or both.</string>
+			</array>
+		</dict>
+		<key>Humic</key>
+		<dict>
+			<key>Description</key>
+			<array>
+				<string>These Vertisolic soils occur in the more moist portion of the climatic range of Vertisolic soils and are primarily associated with a native vegetation of mesophytic grasses and forbs or with mixed grass, forb, and tree cover. They have an A horizon that is darker in color than soils of the Vertisol great group. Except for the poorly drained members, the surface horizon has a dry color value of less than 3.5, chroma usually 1.5 or less dry, and organic C usually greater than 3%. The A horizon is easily distinguishable from lower horizons based on color alone. However, the boundary between the A horizon and lower horizons is usually very irregular. These soils have both a vertic and a slickenside horizon as specified for the Vertisolic order. They lack other horizons in the upper solum, common to other soils, except they may have a Chernozemic-like A horizon. The poorly drained members occur commonly in depressional positions associated with better-drained Vertisolic soils. Besides the presence of both a slickenside and a vertic horizon, they have the general characteristics specified for the Gleysolic order. As well, under native conditions they have a mineral-organic surface (Ah) horizon 10 cm or more in thickness. If cultivated, the Ap horizon has all the following properties:
+
+At least 2% organic C.
+A rubbed color value of 3.5 or less (moist) or 5.0 or less (dry).
+At least 1.5 units of color value (moist) lower than that of the next underlying horizon, if the color value (moist) of that horizon is 4 or more, or 1 unit of color value lower than that of the underlying horizon, if its color value is less than 4.</string>
+			</array>
+			<key>O.HV</key>
+			<array>
+				<string>Orthic Humic Vertisol</string>
+				<string>Common horizon sequence: Ah, Bv or Bvk, Bss or Bssk or Ckss, Ck
+
+These soils have the general properties specified for the Vertisolic order and those members of the Humic Vertisol great group other than the poorly drained members. They have a vertic horizon (Bv or Bvk) and a slickenside horizon (ss), the upper boundary of which occurs within 1 m of the mineral surface. The slickenside horizon may be confined to the B horizon (Bss or Bssk), may form part of the C horizon (Ckss), or may form part of both.
+
+</string>
+			</array>
+			<key>GL.HV</key>
+			<array>
+				<string>Gleyed humic Vertisol</string>
+				<string>Common horizon sequence: Ah, Bvgj or Bvkgj, Bssgj or Bsskgj or Ckssgj, Ckgj or Ckg
+
+These soils have the general properties specified for the Vertisolic order and those members of the Humic Vertisol great group other than the poorly drained members. They differ from Orthic Humic Vertisols by having faint to distinct mottles that indicate gleying within 50 cm of the mineral surface.
+
+</string>
+			</array>
+			<key>GLC.HV</key>
+			<array>
+				<string>Gleysolic Humic Vertisol</string>
+				<string>Common horizon sequence: LFH or O, Ah, Bvg, Bssg or Cgss, Cg
+
+These soils have the general properties specified for the Vertisolic order and the poorly drained members of the Humic Vertisol great group. They differ from Orthic and Gleyed Humic Vertisols mainly by having either colors that indicate poor drainage and periodic reduction, diagnostic of the Gleysolic order or prominent mottles that indicate gleying within 50 cm of the mineral surface, or both.</string>
+			</array>
+		</dict>
+	</dict>
+</dict>
+</plist>

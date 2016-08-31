@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>ANTH</key><string>Anthropogenic</string>
+<key>BRCG</key><string>Bedrock, conglomerate (lithic)</string>
+<key>BRGR</key><string>Bedrock, granitic (lithic)</string>
+<key>BRLS</key><string>Bedrock, limestone (lithic)</string>
+<key>BRSH</key><string>Bedrock, shale (lithic)</string>
+<key>BRSS</key><string>Bedrock, sandstone (lithic)</string>
+<key>BRUN</key><string>Bedrock, undifferentiated (lithic)</string>
+<key>COLL</key><string>Colluvial</string>
+<key>EOLI</key><string>Eolian</string>
+<key>FLEO</key><string>Fluvioeolian (fluvial or eolian)</string>
+<key>FLUV</key><string>Fluvial</string>
+<key>FNPT</key><string>Fen Peat (Sedge peat)</string>
+<key>FOPT</key><string>Forest Peat (Bog peat)</string>
+<key>GLFL</key><string>Glaciofluvial</string>
+<key>GLLC</key><string>Glaciolacustrine</string>
+<key>GLTL</key><string>Glaciolacustrine (till-like features, &quot;lacustro-till&quot;)</string>
+<key>LACU</key><string>Lacustrine (post-Pleistocene)</string>
+<key>PGFL</key><string>Preglacial Fluvial (e.g. Tertiary gravels)</string>
+<key>SEPT</key><string>Sedimentary Peat</string>
+<key>SPPT</key><string>Sphagnum Peat</string>
+<key>SRFS</key><string>Softrock, fine, saline-sodic (paralithic)</string>
+<key>SRCN</key><string>Softrock, coarse, not saline-sodic (paralithic)</string>
+<key>SRFN</key><string>Softrock, fine, not saline-sodic (paralithic)</string>
+<key>SRUN</key><string>Softrock, undifferentiated (paralithic)</string>
+<key>TILL</key><string>Till (Morainal)</string>
+<key>UNDM</key><string>Undifferentiated mineral</string>
+<key>UNDO</key><string>Undifferentiated organic</string>
+</dict>
+</plist>
